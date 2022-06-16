@@ -1,0 +1,4782 @@
+[
+    { "position": 1, "foreign": "comme", "english": "as", "code": "FR" },
+    { "position": 2, "foreign": "je", "english": "I", "code": "FR" },
+    { "position": 3, "foreign": "son", "english": "his", "code": "FR" },
+    { "position": 4, "foreign": "que", "english": "that", "code": "FR" },
+    { "position": 5, "foreign": "il", "english": "he", "code": "FR" },
+    { "position": 6, "foreign": "était", "english": "was", "code": "FR" },
+    { "position": 7, "foreign": "pour", "english": "for", "code": "FR" },
+    { "position": 8, "foreign": "sur", "english": "on", "code": "FR" },
+    { "position": 9, "foreign": "sont", "english": "are", "code": "FR" },
+    { "position": 10, "foreign": "avec", "english": "with", "code": "FR" },
+    { "position": 11, "foreign": "ils", "english": "they", "code": "FR" },
+    { "position": 12, "foreign": "être", "english": "be", "code": "FR" },
+    { "position": 13, "foreign": "à", "english": "at", "code": "FR" },
+    { "position": 14, "foreign": "un", "english": "one", "code": "FR" },
+    { "position": 15, "foreign": "avoir", "english": "have", "code": "FR" },
+    { "position": 16, "foreign": "ce", "english": "this", "code": "FR" },
+    {
+        "position": 17,
+        "foreign": "à partir de",
+        "english": "from",
+        "code": "FR"
+    },
+    { "position": 18, "foreign": "par", "english": "by", "code": "FR" },
+    { "position": 19, "foreign": "chaud", "english": "hot", "code": "FR" },
+    { "position": 20, "foreign": "mot", "english": "word", "code": "FR" },
+    { "position": 21, "foreign": "mais", "english": "but", "code": "FR" },
+    { "position": 22, "foreign": "que", "english": "what", "code": "FR" },
+    {
+        "position": 23,
+        "foreign": "certains",
+        "english": "some",
+        "code": "FR"
+    },
+    { "position": 24, "foreign": "est", "english": "is", "code": "FR" },
+    { "position": 25, "foreign": "il", "english": "it", "code": "FR" },
+    { "position": 26, "foreign": "vous", "english": "you", "code": "FR" },
+    { "position": 27, "foreign": "ou", "english": "or", "code": "FR" },
+    { "position": 28, "foreign": "eu", "english": "had", "code": "FR" },
+    { "position": 29, "foreign": "la", "english": "the", "code": "FR" },
+    { "position": 30, "foreign": "de", "english": "of", "code": "FR" },
+    { "position": 31, "foreign": "à", "english": "to", "code": "FR" },
+    { "position": 32, "foreign": "et", "english": "and", "code": "FR" },
+    { "position": 33, "foreign": "un", "english": "a", "code": "FR" },
+    { "position": 34, "foreign": "dans", "english": "in", "code": "FR" },
+    { "position": 35, "foreign": "nous", "english": "we", "code": "FR" },
+    { "position": 36, "foreign": "boîte", "english": "can", "code": "FR" },
+    { "position": 37, "foreign": "dehors", "english": "out", "code": "FR" },
+    {
+        "position": 38,
+        "foreign": "autre",
+        "english": "other",
+        "code": "FR"
+    },
+    {
+        "position": 39,
+        "foreign": "étaient",
+        "english": "were",
+        "code": "FR"
+    },
+    { "position": 40, "foreign": "qui", "english": "which", "code": "FR" },
+    { "position": 41, "foreign": "faire", "english": "do", "code": "FR" },
+    { "position": 42, "foreign": "leur", "english": "their", "code": "FR" },
+    { "position": 43, "foreign": "temps", "english": "time", "code": "FR" },
+    { "position": 44, "foreign": "si", "english": "if", "code": "FR" },
+    {
+        "position": 45,
+        "foreign": "volonté",
+        "english": "will",
+        "code": "FR"
+    },
+    {
+        "position": 46,
+        "foreign": "comment",
+        "english": "how",
+        "code": "FR"
+    },
+    { "position": 47, "foreign": "dit", "english": "said", "code": "FR" },
+    { "position": 48, "foreign": "un", "english": "an", "code": "FR" },
+    {
+        "position": 49,
+        "foreign": "chaque",
+        "english": "each",
+        "code": "FR"
+    },
+    { "position": 50, "foreign": "dire", "english": "tell", "code": "FR" },
+    { "position": 51, "foreign": "ne", "english": "does", "code": "FR" },
+    {
+        "position": 52,
+        "foreign": "ensemble",
+        "english": "set",
+        "code": "FR"
+    },
+    {
+        "position": 53,
+        "foreign": "trois",
+        "english": "three",
+        "code": "FR"
+    },
+    {
+        "position": 54,
+        "foreign": "vouloir",
+        "english": "want",
+        "code": "FR"
+    },
+    { "position": 55, "foreign": "air", "english": "air", "code": "FR" },
+    { "position": 56, "foreign": "bien", "english": "well", "code": "FR" },
+    { "position": 57, "foreign": "aussi", "english": "also", "code": "FR" },
+    { "position": 58, "foreign": "jouer", "english": "play", "code": "FR" },
+    {
+        "position": 59,
+        "foreign": "petit",
+        "english": "small",
+        "code": "FR"
+    },
+    { "position": 60, "foreign": "fin", "english": "end", "code": "FR" },
+    { "position": 61, "foreign": "mettre", "english": "put", "code": "FR" },
+    {
+        "position": 62,
+        "foreign": "maison",
+        "english": "home",
+        "code": "FR"
+    },
+    { "position": 63, "foreign": "lire", "english": "read", "code": "FR" },
+    { "position": 64, "foreign": "main", "english": "hand", "code": "FR" },
+    { "position": 65, "foreign": "port", "english": "port", "code": "FR" },
+    {
+        "position": 66,
+        "foreign": "grand",
+        "english": "large",
+        "code": "FR"
+    },
+    {
+        "position": 67,
+        "foreign": "épeler",
+        "english": "spell",
+        "code": "FR"
+    },
+    {
+        "position": 68,
+        "foreign": "ajouter",
+        "english": "add",
+        "code": "FR"
+    },
+    { "position": 69, "foreign": "même", "english": "even", "code": "FR" },
+    { "position": 70, "foreign": "terre", "english": "land", "code": "FR" },
+    { "position": 71, "foreign": "ici", "english": "here", "code": "FR" },
+    {
+        "position": 72,
+        "foreign": "il faut",
+        "english": "must",
+        "code": "FR"
+    },
+    { "position": 73, "foreign": "grand", "english": "big", "code": "FR" },
+    { "position": 74, "foreign": "haut", "english": "high", "code": "FR" },
+    { "position": 75, "foreign": "tel", "english": "such", "code": "FR" },
+    {
+        "position": 76,
+        "foreign": "suivre",
+        "english": "follow",
+        "code": "FR"
+    },
+    { "position": 77, "foreign": "acte", "english": "act", "code": "FR" },
+    {
+        "position": 78,
+        "foreign": "pourquoi",
+        "english": "why",
+        "code": "FR"
+    },
+    {
+        "position": 79,
+        "foreign": "interroger",
+        "english": "ask",
+        "code": "FR"
+    },
+    { "position": 80, "foreign": "hommes", "english": "men", "code": "FR" },
+    {
+        "position": 81,
+        "foreign": "changement",
+        "english": "change",
+        "code": "FR"
+    },
+    {
+        "position": 82,
+        "foreign": "est allé",
+        "english": "went",
+        "code": "FR"
+    },
+    {
+        "position": 83,
+        "foreign": "lumière",
+        "english": "light",
+        "code": "FR"
+    },
+    { "position": 84, "foreign": "genre", "english": "kind", "code": "FR" },
+    { "position": 85, "foreign": "de", "english": "off", "code": "FR" },
+    {
+        "position": 86,
+        "foreign": "besoin",
+        "english": "need",
+        "code": "FR"
+    },
+    {
+        "position": 87,
+        "foreign": "maison",
+        "english": "house",
+        "code": "FR"
+    },
+    {
+        "position": 88,
+        "foreign": "image",
+        "english": "picture",
+        "code": "FR"
+    },
+    {
+        "position": 89,
+        "foreign": "essayer",
+        "english": "try",
+        "code": "FR"
+    },
+    { "position": 90, "foreign": "nous", "english": "us", "code": "FR" },
+    {
+        "position": 91,
+        "foreign": "encore",
+        "english": "again",
+        "code": "FR"
+    },
+    {
+        "position": 92,
+        "foreign": "animal",
+        "english": "animal",
+        "code": "FR"
+    },
+    {
+        "position": 93,
+        "foreign": "point",
+        "english": "point",
+        "code": "FR"
+    },
+    {
+        "position": 94,
+        "foreign": "mère",
+        "english": "mother",
+        "code": "FR"
+    },
+    {
+        "position": 95,
+        "foreign": "monde",
+        "english": "world",
+        "code": "FR"
+    },
+    {
+        "position": 96,
+        "foreign": "près de",
+        "english": "near",
+        "code": "FR"
+    },
+    {
+        "position": 97,
+        "foreign": "construire",
+        "english": "build",
+        "code": "FR"
+    },
+    { "position": 98, "foreign": "soi", "english": "self", "code": "FR" },
+    {
+        "position": 99,
+        "foreign": "terre",
+        "english": "earth",
+        "code": "FR"
+    },
+    {
+        "position": 100,
+        "foreign": "père",
+        "english": "father",
+        "code": "FR"
+    },
+    { "position": 101, "foreign": "tout", "english": "any", "code": "FR" },
+    {
+        "position": 102,
+        "foreign": "nouveau",
+        "english": "new",
+        "code": "FR"
+    },
+    {
+        "position": 103,
+        "foreign": "travail",
+        "english": "work",
+        "code": "FR"
+    },
+    {
+        "position": 104,
+        "foreign": "partie",
+        "english": "part",
+        "code": "FR"
+    },
+    {
+        "position": 105,
+        "foreign": "prendre",
+        "english": "take",
+        "code": "FR"
+    },
+    {
+        "position": 106,
+        "foreign": "obtenir",
+        "english": "get",
+        "code": "FR"
+    },
+    {
+        "position": 107,
+        "foreign": "lieu",
+        "english": "place",
+        "code": "FR"
+    },
+    {
+        "position": 108,
+        "foreign": "fabriqué",
+        "english": "made",
+        "code": "FR"
+    },
+    {
+        "position": 109,
+        "foreign": "vivre",
+        "english": "live",
+        "code": "FR"
+    },
+    { "position": 110, "foreign": "où", "english": "where", "code": "FR" },
+    {
+        "position": 111,
+        "foreign": "après",
+        "english": "after",
+        "code": "FR"
+    },
+    {
+        "position": 112,
+        "foreign": "arrière",
+        "english": "back",
+        "code": "FR"
+    },
+    {
+        "position": 113,
+        "foreign": "peu",
+        "english": "little",
+        "code": "FR"
+    },
+    {
+        "position": 114,
+        "foreign": "seulement",
+        "english": "only",
+        "code": "FR"
+    },
+    {
+        "position": 115,
+        "foreign": "tour",
+        "english": "round",
+        "code": "FR"
+    },
+    { "position": 116, "foreign": "homme", "english": "man", "code": "FR" },
+    {
+        "position": 117,
+        "foreign": "année",
+        "english": "year",
+        "code": "FR"
+    },
+    {
+        "position": 118,
+        "foreign": "est venu",
+        "english": "came",
+        "code": "FR"
+    },
+    {
+        "position": 119,
+        "foreign": "montrer",
+        "english": "show",
+        "code": "FR"
+    },
+    {
+        "position": 120,
+        "foreign": "tous",
+        "english": "every",
+        "code": "FR"
+    },
+    { "position": 121, "foreign": "bon", "english": "good", "code": "FR" },
+    { "position": 122, "foreign": "moi", "english": "me", "code": "FR" },
+    {
+        "position": 123,
+        "foreign": "donner",
+        "english": "give",
+        "code": "FR"
+    },
+    { "position": 124, "foreign": "notre", "english": "our", "code": "FR" },
+    {
+        "position": 125,
+        "foreign": "sous",
+        "english": "under",
+        "code": "FR"
+    },
+    { "position": 126, "foreign": "nom", "english": "name", "code": "FR" },
+    { "position": 127, "foreign": "très", "english": "very", "code": "FR" },
+    {
+        "position": 128,
+        "foreign": "par",
+        "english": "through",
+        "code": "FR"
+    },
+    {
+        "position": 129,
+        "foreign": "juste",
+        "english": "just",
+        "code": "FR"
+    },
+    {
+        "position": 130,
+        "foreign": "forme",
+        "english": "form",
+        "code": "FR"
+    },
+    {
+        "position": 131,
+        "foreign": "phrase",
+        "english": "sentence",
+        "code": "FR"
+    },
+    {
+        "position": 132,
+        "foreign": "grand",
+        "english": "great",
+        "code": "FR"
+    },
+    {
+        "position": 133,
+        "foreign": "penser",
+        "english": "think",
+        "code": "FR"
+    },
+    { "position": 134, "foreign": "dire", "english": "say", "code": "FR" },
+    {
+        "position": 135,
+        "foreign": "aider",
+        "english": "help",
+        "code": "FR"
+    },
+    {
+        "position": 136,
+        "foreign": "faible",
+        "english": "low",
+        "code": "FR"
+    },
+    {
+        "position": 137,
+        "foreign": "ligne",
+        "english": "line",
+        "code": "FR"
+    },
+    {
+        "position": 138,
+        "foreign": "différer",
+        "english": "differ",
+        "code": "FR"
+    },
+    { "position": 139, "foreign": "tour", "english": "turn", "code": "FR" },
+    {
+        "position": 140,
+        "foreign": "la cause",
+        "english": "cause",
+        "code": "FR"
+    },
+    {
+        "position": 141,
+        "foreign": "beaucoup",
+        "english": "much",
+        "code": "FR"
+    },
+    {
+        "position": 142,
+        "foreign": "signifier",
+        "english": "mean",
+        "code": "FR"
+    },
+    {
+        "position": 143,
+        "foreign": "avant",
+        "english": "before",
+        "code": "FR"
+    },
+    {
+        "position": 144,
+        "foreign": "déménagement",
+        "english": "move",
+        "code": "FR"
+    },
+    {
+        "position": 145,
+        "foreign": "droit",
+        "english": "right",
+        "code": "FR"
+    },
+    {
+        "position": 146,
+        "foreign": "garçon",
+        "english": "boy",
+        "code": "FR"
+    },
+    { "position": 147, "foreign": "vieux", "english": "old", "code": "FR" },
+    { "position": 148, "foreign": "trop", "english": "too", "code": "FR" },
+    { "position": 149, "foreign": "même", "english": "same", "code": "FR" },
+    { "position": 150, "foreign": "elle", "english": "she", "code": "FR" },
+    { "position": 151, "foreign": "tous", "english": "all", "code": "FR" },
+    { "position": 152, "foreign": "là", "english": "there", "code": "FR" },
+    {
+        "position": 153,
+        "foreign": "quand",
+        "english": "when",
+        "code": "FR"
+    },
+    {
+        "position": 154,
+        "foreign": "jusqu’à",
+        "english": "up",
+        "code": "FR"
+    },
+    {
+        "position": 155,
+        "foreign": "utiliser",
+        "english": "use",
+        "code": "FR"
+    },
+    {
+        "position": 156,
+        "foreign": "votre",
+        "english": "your",
+        "code": "FR"
+    },
+    {
+        "position": 157,
+        "foreign": "manière",
+        "english": "way",
+        "code": "FR"
+    },
+    { "position": 158, "foreign": "sur", "english": "about", "code": "FR" },
+    {
+        "position": 159,
+        "foreign": "beaucoup",
+        "english": "many",
+        "code": "FR"
+    },
+    { "position": 160, "foreign": "puis", "english": "then", "code": "FR" },
+    { "position": 161, "foreign": "les", "english": "them", "code": "FR" },
+    {
+        "position": 162,
+        "foreign": "écrire",
+        "english": "write",
+        "code": "FR"
+    },
+    {
+        "position": 163,
+        "foreign": "voudrais",
+        "english": "would",
+        "code": "FR"
+    },
+    {
+        "position": 164,
+        "foreign": "comme",
+        "english": "like",
+        "code": "FR"
+    },
+    { "position": 165, "foreign": "si", "english": "so", "code": "FR" },
+    { "position": 166, "foreign": "ces", "english": "these", "code": "FR" },
+    { "position": 167, "foreign": "son", "english": "her", "code": "FR" },
+    { "position": 168, "foreign": "long", "english": "long", "code": "FR" },
+    {
+        "position": 169,
+        "foreign": "faire",
+        "english": "make",
+        "code": "FR"
+    },
+    {
+        "position": 170,
+        "foreign": "chose",
+        "english": "thing",
+        "code": "FR"
+    },
+    { "position": 171, "foreign": "voir", "english": "see", "code": "FR" },
+    { "position": 172, "foreign": "lui", "english": "him", "code": "FR" },
+    { "position": 173, "foreign": "deux", "english": "two", "code": "FR" },
+    { "position": 174, "foreign": "a", "english": "has", "code": "FR" },
+    {
+        "position": 175,
+        "foreign": "regarder",
+        "english": "look",
+        "code": "FR"
+    },
+    { "position": 176, "foreign": "plus", "english": "more", "code": "FR" },
+    { "position": 177, "foreign": "jour", "english": "day", "code": "FR" },
+    {
+        "position": 178,
+        "foreign": "pourrait",
+        "english": "could",
+        "code": "FR"
+    },
+    { "position": 179, "foreign": "aller", "english": "go", "code": "FR" },
+    {
+        "position": 180,
+        "foreign": "venir",
+        "english": "come",
+        "code": "FR"
+    },
+    { "position": 181, "foreign": "fait", "english": "did", "code": "FR" },
+    {
+        "position": 182,
+        "foreign": "nombre",
+        "english": "number",
+        "code": "FR"
+    },
+    { "position": 183, "foreign": "son", "english": "sound", "code": "FR" },
+    { "position": 184, "foreign": "aucun", "english": "no", "code": "FR" },
+    { "position": 185, "foreign": "plus", "english": "most", "code": "FR" },
+    {
+        "position": 186,
+        "foreign": "personnes",
+        "english": "people",
+        "code": "FR"
+    },
+    { "position": 187, "foreign": "ma", "english": "my", "code": "FR" },
+    { "position": 188, "foreign": "sur", "english": "over", "code": "FR" },
+    {
+        "position": 189,
+        "foreign": "savoir",
+        "english": "know",
+        "code": "FR"
+    },
+    { "position": 190, "foreign": "eau", "english": "water", "code": "FR" },
+    { "position": 191, "foreign": "que", "english": "than", "code": "FR" },
+    {
+        "position": 192,
+        "foreign": "appel",
+        "english": "call",
+        "code": "FR"
+    },
+    {
+        "position": 193,
+        "foreign": "première",
+        "english": "first",
+        "code": "FR"
+    },
+    { "position": 194, "foreign": "qui", "english": "who", "code": "FR" },
+    { "position": 195, "foreign": "peut", "english": "may", "code": "FR" },
+    {
+        "position": 196,
+        "foreign": "vers le bas",
+        "english": "down",
+        "code": "FR"
+    },
+    { "position": 197, "foreign": "côté", "english": "side", "code": "FR" },
+    { "position": 198, "foreign": "été", "english": "been", "code": "FR" },
+    {
+        "position": 199,
+        "foreign": "maintenant",
+        "english": "now",
+        "code": "FR"
+    },
+    {
+        "position": 200,
+        "foreign": "trouver",
+        "english": "find",
+        "code": "FR"
+    },
+    { "position": 201, "foreign": "tête", "english": "head", "code": "FR" },
+    {
+        "position": 202,
+        "foreign": "supporter",
+        "english": "stand",
+        "code": "FR"
+    },
+    {
+        "position": 203,
+        "foreign": "propre",
+        "english": "own",
+        "code": "FR"
+    },
+    { "position": 204, "foreign": "page", "english": "page", "code": "FR" },
+    {
+        "position": 205,
+        "foreign": "devrait",
+        "english": "should",
+        "code": "FR"
+    },
+    {
+        "position": 206,
+        "foreign": "pays",
+        "english": "country",
+        "code": "FR"
+    },
+    {
+        "position": 207,
+        "foreign": "trouvé",
+        "english": "found",
+        "code": "FR"
+    },
+    {
+        "position": 208,
+        "foreign": "réponse",
+        "english": "answer",
+        "code": "FR"
+    },
+    {
+        "position": 209,
+        "foreign": "école",
+        "english": "school",
+        "code": "FR"
+    },
+    {
+        "position": 210,
+        "foreign": "croître",
+        "english": "grow",
+        "code": "FR"
+    },
+    {
+        "position": 211,
+        "foreign": "étude",
+        "english": "study",
+        "code": "FR"
+    },
+    {
+        "position": 212,
+        "foreign": "encore",
+        "english": "still",
+        "code": "FR"
+    },
+    {
+        "position": 213,
+        "foreign": "apprendre",
+        "english": "learn",
+        "code": "FR"
+    },
+    {
+        "position": 214,
+        "foreign": "usine",
+        "english": "plant",
+        "code": "FR"
+    },
+    {
+        "position": 215,
+        "foreign": "couvercle",
+        "english": "cover",
+        "code": "FR"
+    },
+    {
+        "position": 216,
+        "foreign": "nourriture",
+        "english": "food",
+        "code": "FR"
+    },
+    {
+        "position": 217,
+        "foreign": "soleil",
+        "english": "sun",
+        "code": "FR"
+    },
+    {
+        "position": 218,
+        "foreign": "quatre",
+        "english": "four",
+        "code": "FR"
+    },
+    {
+        "position": 219,
+        "foreign": "entre",
+        "english": "between",
+        "code": "FR"
+    },
+    {
+        "position": 220,
+        "foreign": "état",
+        "english": "state",
+        "code": "FR"
+    },
+    {
+        "position": 221,
+        "foreign": "garder",
+        "english": "keep",
+        "code": "FR"
+    },
+    { "position": 222, "foreign": "œil", "english": "eye", "code": "FR" },
+    {
+        "position": 223,
+        "foreign": "jamais",
+        "english": "never",
+        "code": "FR"
+    },
+    {
+        "position": 224,
+        "foreign": "dernier",
+        "english": "last",
+        "code": "FR"
+    },
+    {
+        "position": 225,
+        "foreign": "laisser",
+        "english": "let",
+        "code": "FR"
+    },
+    {
+        "position": 226,
+        "foreign": "pensée",
+        "english": "thought",
+        "code": "FR"
+    },
+    {
+        "position": 227,
+        "foreign": "ville",
+        "english": "city",
+        "code": "FR"
+    },
+    {
+        "position": 228,
+        "foreign": "arbre",
+        "english": "tree",
+        "code": "FR"
+    },
+    {
+        "position": 229,
+        "foreign": "traverser",
+        "english": "cross",
+        "code": "FR"
+    },
+    {
+        "position": 230,
+        "foreign": "ferme",
+        "english": "farm",
+        "code": "FR"
+    },
+    { "position": 231, "foreign": "dur", "english": "hard", "code": "FR" },
+    {
+        "position": 232,
+        "foreign": "début",
+        "english": "start",
+        "code": "FR"
+    },
+    {
+        "position": 233,
+        "foreign": "puissance",
+        "english": "might",
+        "code": "FR"
+    },
+    {
+        "position": 234,
+        "foreign": "histoire",
+        "english": "story",
+        "code": "FR"
+    },
+    { "position": 235, "foreign": "scie", "english": "saw", "code": "FR" },
+    { "position": 236, "foreign": "loin", "english": "far", "code": "FR" },
+    { "position": 237, "foreign": "mer", "english": "sea", "code": "FR" },
+    {
+        "position": 238,
+        "foreign": "tirer",
+        "english": "draw",
+        "code": "FR"
+    },
+    {
+        "position": 239,
+        "foreign": "gauche",
+        "english": "left",
+        "code": "FR"
+    },
+    { "position": 240, "foreign": "tard", "english": "late", "code": "FR" },
+    {
+        "position": 241,
+        "foreign": "courir",
+        "english": "run",
+        "code": "FR"
+    },
+    {
+        "position": 242,
+        "foreign": "needs a context",
+        "english": "don’t",
+        "code": "FR"
+    },
+    {
+        "position": 243,
+        "foreign": "tandis que",
+        "english": "while",
+        "code": "FR"
+    },
+    {
+        "position": 244,
+        "foreign": "presse",
+        "english": "press",
+        "code": "FR"
+    },
+    {
+        "position": 245,
+        "foreign": "proche",
+        "english": "close",
+        "code": "FR"
+    },
+    {
+        "position": 246,
+        "foreign": "nuit",
+        "english": "night",
+        "code": "FR"
+    },
+    { "position": 247, "foreign": "réel", "english": "real", "code": "FR" },
+    { "position": 248, "foreign": "vie", "english": "life", "code": "FR" },
+    { "position": 249, "foreign": "peu", "english": "few", "code": "FR" },
+    {
+        "position": 250,
+        "foreign": "nord",
+        "english": "north",
+        "code": "FR"
+    },
+    {
+        "position": 251,
+        "foreign": "livre",
+        "english": "book",
+        "code": "FR"
+    },
+    {
+        "position": 252,
+        "foreign": "porter",
+        "english": "carry",
+        "code": "FR"
+    },
+    {
+        "position": 253,
+        "foreign": "a pris",
+        "english": "took",
+        "code": "FR"
+    },
+    {
+        "position": 254,
+        "foreign": "science",
+        "english": "science",
+        "code": "FR"
+    },
+    {
+        "position": 255,
+        "foreign": "manger",
+        "english": "eat",
+        "code": "FR"
+    },
+    {
+        "position": 256,
+        "foreign": "chambre",
+        "english": "room",
+        "code": "FR"
+    },
+    {
+        "position": 257,
+        "foreign": "ami",
+        "english": "friend",
+        "code": "FR"
+    },
+    {
+        "position": 258,
+        "foreign": "a commencé",
+        "english": "began",
+        "code": "FR"
+    },
+    { "position": 259, "foreign": "idée", "english": "idea", "code": "FR" },
+    {
+        "position": 260,
+        "foreign": "poisson",
+        "english": "fish",
+        "code": "FR"
+    },
+    {
+        "position": 261,
+        "foreign": "montagne",
+        "english": "mountain",
+        "code": "FR"
+    },
+    {
+        "position": 262,
+        "foreign": "Arrêtez",
+        "english": "stop",
+        "code": "FR"
+    },
+    {
+        "position": 263,
+        "foreign": "une fois",
+        "english": "once",
+        "code": "FR"
+    },
+    { "position": 264, "foreign": "base", "english": "base", "code": "FR" },
+    {
+        "position": 265,
+        "foreign": "entendre",
+        "english": "hear",
+        "code": "FR"
+    },
+    {
+        "position": 266,
+        "foreign": "cheval",
+        "english": "horse",
+        "code": "FR"
+    },
+    { "position": 267, "foreign": "coupe", "english": "cut", "code": "FR" },
+    { "position": 268, "foreign": "sûr", "english": "sure", "code": "FR" },
+    {
+        "position": 269,
+        "foreign": "regarder",
+        "english": "watch",
+        "code": "FR"
+    },
+    {
+        "position": 270,
+        "foreign": "couleur",
+        "english": "color",
+        "code": "FR"
+    },
+    { "position": 271, "foreign": "face", "english": "face", "code": "FR" },
+    { "position": 272, "foreign": "bois", "english": "wood", "code": "FR" },
+    {
+        "position": 273,
+        "foreign": "principal",
+        "english": "main",
+        "code": "FR"
+    },
+    {
+        "position": 274,
+        "foreign": "ouvert",
+        "english": "open",
+        "code": "FR"
+    },
+    {
+        "position": 275,
+        "foreign": "paraître",
+        "english": "seem",
+        "code": "FR"
+    },
+    {
+        "position": 276,
+        "foreign": "ensemble",
+        "english": "together",
+        "code": "FR"
+    },
+    {
+        "position": 277,
+        "foreign": "suivant",
+        "english": "next",
+        "code": "FR"
+    },
+    {
+        "position": 278,
+        "foreign": "blanc",
+        "english": "white",
+        "code": "FR"
+    },
+    {
+        "position": 279,
+        "foreign": "enfants",
+        "english": "children",
+        "code": "FR"
+    },
+    {
+        "position": 280,
+        "foreign": "commencer",
+        "english": "begin",
+        "code": "FR"
+    },
+    { "position": 281, "foreign": "eu", "english": "got", "code": "FR" },
+    {
+        "position": 282,
+        "foreign": "marcher",
+        "english": "walk",
+        "code": "FR"
+    },
+    {
+        "position": 283,
+        "foreign": "exemple",
+        "english": "example",
+        "code": "FR"
+    },
+    {
+        "position": 284,
+        "foreign": "facilité",
+        "english": "ease",
+        "code": "FR"
+    },
+    {
+        "position": 285,
+        "foreign": "papier",
+        "english": "paper",
+        "code": "FR"
+    },
+    {
+        "position": 286,
+        "foreign": "groupe",
+        "english": "group",
+        "code": "FR"
+    },
+    {
+        "position": 287,
+        "foreign": "toujours",
+        "english": "always",
+        "code": "FR"
+    },
+    {
+        "position": 288,
+        "foreign": "musique",
+        "english": "music",
+        "code": "FR"
+    },
+    {
+        "position": 289,
+        "foreign": "ceux",
+        "english": "those",
+        "code": "FR"
+    },
+    {
+        "position": 290,
+        "foreign": "tous les deux",
+        "english": "both",
+        "code": "FR"
+    },
+    {
+        "position": 291,
+        "foreign": "marque",
+        "english": "mark",
+        "code": "FR"
+    },
+    {
+        "position": 292,
+        "foreign": "souvent",
+        "english": "often",
+        "code": "FR"
+    },
+    {
+        "position": 293,
+        "foreign": "lettre",
+        "english": "letter",
+        "code": "FR"
+    },
+    {
+        "position": 294,
+        "foreign": "jusqu’à ce que",
+        "english": "until",
+        "code": "FR"
+    },
+    { "position": 295, "foreign": "mile", "english": "mile", "code": "FR" },
+    {
+        "position": 296,
+        "foreign": "rivière",
+        "english": "river",
+        "code": "FR"
+    },
+    {
+        "position": 297,
+        "foreign": "voiture",
+        "english": "car",
+        "code": "FR"
+    },
+    {
+        "position": 298,
+        "foreign": "pieds",
+        "english": "feet",
+        "code": "FR"
+    },
+    {
+        "position": 299,
+        "foreign": "soins",
+        "english": "care",
+        "code": "FR"
+    },
+    {
+        "position": 300,
+        "foreign": "deuxième",
+        "english": "second",
+        "code": "FR"
+    },
+    {
+        "position": 301,
+        "foreign": "assez",
+        "english": "enough",
+        "code": "FR"
+    },
+    {
+        "position": 302,
+        "foreign": "plaine",
+        "english": "plain",
+        "code": "FR"
+    },
+    {
+        "position": 303,
+        "foreign": "fille",
+        "english": "girl",
+        "code": "FR"
+    },
+    {
+        "position": 304,
+        "foreign": "habituel",
+        "english": "usual",
+        "code": "FR"
+    },
+    {
+        "position": 305,
+        "foreign": "jeune",
+        "english": "young",
+        "code": "FR"
+    },
+    {
+        "position": 306,
+        "foreign": "prêt",
+        "english": "ready",
+        "code": "FR"
+    },
+    {
+        "position": 307,
+        "foreign": "au-dessus",
+        "english": "above",
+        "code": "FR"
+    },
+    {
+        "position": 308,
+        "foreign": "jamais",
+        "english": "ever",
+        "code": "FR"
+    },
+    { "position": 309, "foreign": "rouge", "english": "red", "code": "FR" },
+    {
+        "position": 310,
+        "foreign": "liste",
+        "english": "list",
+        "code": "FR"
+    },
+    {
+        "position": 311,
+        "foreign": "bien que",
+        "english": "though",
+        "code": "FR"
+    },
+    {
+        "position": 312,
+        "foreign": "sentir",
+        "english": "feel",
+        "code": "FR"
+    },
+    {
+        "position": 313,
+        "foreign": "parler",
+        "english": "talk",
+        "code": "FR"
+    },
+    {
+        "position": 314,
+        "foreign": "oiseau",
+        "english": "bird",
+        "code": "FR"
+    },
+    {
+        "position": 315,
+        "foreign": "bientôt",
+        "english": "soon",
+        "code": "FR"
+    },
+    {
+        "position": 316,
+        "foreign": "corps",
+        "english": "body",
+        "code": "FR"
+    },
+    { "position": 317, "foreign": "chien", "english": "dog", "code": "FR" },
+    {
+        "position": 318,
+        "foreign": "famille",
+        "english": "family",
+        "code": "FR"
+    },
+    {
+        "position": 319,
+        "foreign": "direct",
+        "english": "direct",
+        "code": "FR"
+    },
+    { "position": 320, "foreign": "pose", "english": "pose", "code": "FR" },
+    {
+        "position": 321,
+        "foreign": "laisser",
+        "english": "leave",
+        "code": "FR"
+    },
+    {
+        "position": 322,
+        "foreign": "chanson",
+        "english": "song",
+        "code": "FR"
+    },
+    {
+        "position": 323,
+        "foreign": "mesurer",
+        "english": "measure",
+        "code": "FR"
+    },
+    {
+        "position": 324,
+        "foreign": "porte",
+        "english": "door",
+        "code": "FR"
+    },
+    {
+        "position": 325,
+        "foreign": "produit",
+        "english": "product",
+        "code": "FR"
+    },
+    {
+        "position": 326,
+        "foreign": "noir",
+        "english": "black",
+        "code": "FR"
+    },
+    {
+        "position": 327,
+        "foreign": "court",
+        "english": "short",
+        "code": "FR"
+    },
+    {
+        "position": 328,
+        "foreign": "chiffre",
+        "english": "numeral",
+        "code": "FR"
+    },
+    {
+        "position": 329,
+        "foreign": "classe",
+        "english": "class",
+        "code": "FR"
+    },
+    { "position": 330, "foreign": "vent", "english": "wind", "code": "FR" },
+    {
+        "position": 331,
+        "foreign": "question",
+        "english": "question",
+        "code": "FR"
+    },
+    {
+        "position": 332,
+        "foreign": "arriver",
+        "english": "happen",
+        "code": "FR"
+    },
+    {
+        "position": 333,
+        "foreign": "complète",
+        "english": "complete",
+        "code": "FR"
+    },
+    {
+        "position": 334,
+        "foreign": "navire",
+        "english": "ship",
+        "code": "FR"
+    },
+    { "position": 335, "foreign": "zone", "english": "area", "code": "FR" },
+    {
+        "position": 336,
+        "foreign": "moitié",
+        "english": "half",
+        "code": "FR"
+    },
+    { "position": 337, "foreign": "rock", "english": "rock", "code": "FR" },
+    {
+        "position": 338,
+        "foreign": "ordre",
+        "english": "order",
+        "code": "FR"
+    },
+    { "position": 339, "foreign": "feu", "english": "fire", "code": "FR" },
+    { "position": 340, "foreign": "sud", "english": "south", "code": "FR" },
+    {
+        "position": 341,
+        "foreign": "problème",
+        "english": "problem",
+        "code": "FR"
+    },
+    {
+        "position": 342,
+        "foreign": "pièce",
+        "english": "piece",
+        "code": "FR"
+    },
+    { "position": 343, "foreign": "dit", "english": "told", "code": "FR" },
+    {
+        "position": 344,
+        "foreign": "savait",
+        "english": "knew",
+        "code": "FR"
+    },
+    {
+        "position": 345,
+        "foreign": "passer",
+        "english": "pass",
+        "code": "FR"
+    },
+    {
+        "position": 346,
+        "foreign": "depuis",
+        "english": "since",
+        "code": "FR"
+    },
+    { "position": 347, "foreign": "haut", "english": "top", "code": "FR" },
+    {
+        "position": 348,
+        "foreign": "ensemble",
+        "english": "whole",
+        "code": "FR"
+    },
+    { "position": 349, "foreign": "roi", "english": "king", "code": "FR" },
+    {
+        "position": 350,
+        "foreign": "rue",
+        "english": "street",
+        "code": "FR"
+    },
+    {
+        "position": 351,
+        "foreign": "pouce",
+        "english": "inch",
+        "code": "FR"
+    },
+    {
+        "position": 352,
+        "foreign": "multiplier",
+        "english": "multiply",
+        "code": "FR"
+    },
+    {
+        "position": 353,
+        "foreign": "rien",
+        "english": "nothing",
+        "code": "FR"
+    },
+    {
+        "position": 354,
+        "foreign": "cours",
+        "english": "course",
+        "code": "FR"
+    },
+    {
+        "position": 355,
+        "foreign": "rester",
+        "english": "stay",
+        "code": "FR"
+    },
+    {
+        "position": 356,
+        "foreign": "roue",
+        "english": "wheel",
+        "code": "FR"
+    },
+    {
+        "position": 357,
+        "foreign": "plein",
+        "english": "full",
+        "code": "FR"
+    },
+    {
+        "position": 358,
+        "foreign": "force",
+        "english": "force",
+        "code": "FR"
+    },
+    { "position": 359, "foreign": "bleu", "english": "blue", "code": "FR" },
+    {
+        "position": 360,
+        "foreign": "objet",
+        "english": "object",
+        "code": "FR"
+    },
+    {
+        "position": 361,
+        "foreign": "décider",
+        "english": "decide",
+        "code": "FR"
+    },
+    {
+        "position": 362,
+        "foreign": "surface",
+        "english": "surface",
+        "code": "FR"
+    },
+    {
+        "position": 363,
+        "foreign": "profond",
+        "english": "deep",
+        "code": "FR"
+    },
+    { "position": 364, "foreign": "lune", "english": "moon", "code": "FR" },
+    {
+        "position": 365,
+        "foreign": "île",
+        "english": "island",
+        "code": "FR"
+    },
+    { "position": 366, "foreign": "pied", "english": "foot", "code": "FR" },
+    {
+        "position": 367,
+        "foreign": "système",
+        "english": "system",
+        "code": "FR"
+    },
+    {
+        "position": 368,
+        "foreign": "occupé",
+        "english": "busy",
+        "code": "FR"
+    },
+    { "position": 369, "foreign": "test", "english": "test", "code": "FR" },
+    {
+        "position": 370,
+        "foreign": "record",
+        "english": "record",
+        "code": "FR"
+    },
+    {
+        "position": 371,
+        "foreign": "bateau",
+        "english": "boat",
+        "code": "FR"
+    },
+    {
+        "position": 372,
+        "foreign": "commun",
+        "english": "common",
+        "code": "FR"
+    },
+    { "position": 373, "foreign": "or", "english": "gold", "code": "FR" },
+    {
+        "position": 374,
+        "foreign": "possible",
+        "english": "possible",
+        "code": "FR"
+    },
+    {
+        "position": 375,
+        "foreign": "plan",
+        "english": "plane",
+        "code": "FR"
+    },
+    {
+        "position": 376,
+        "foreign": "place",
+        "english": "stead",
+        "code": "FR"
+    },
+    { "position": 377, "foreign": "sec", "english": "dry", "code": "FR" },
+    {
+        "position": 378,
+        "foreign": "se demander",
+        "english": "wonder",
+        "code": "FR"
+    },
+    {
+        "position": 379,
+        "foreign": "rire",
+        "english": "laugh",
+        "code": "FR"
+    },
+    {
+        "position": 380,
+        "foreign": "mille",
+        "english": "thousand",
+        "code": "FR"
+    },
+    { "position": 381, "foreign": "il ya", "english": "ago", "code": "FR" },
+    { "position": 382, "foreign": "ran", "english": "ran", "code": "FR" },
+    {
+        "position": 383,
+        "foreign": "vérifier",
+        "english": "check",
+        "code": "FR"
+    },
+    { "position": 384, "foreign": "jeu", "english": "game", "code": "FR" },
+    {
+        "position": 385,
+        "foreign": "forme",
+        "english": "shape",
+        "code": "FR"
+    },
+    {
+        "position": 386,
+        "foreign": "assimiler",
+        "english": "equate",
+        "code": "FR"
+    },
+    { "position": 387, "foreign": "chaud", "english": "hot", "code": "FR" },
+    {
+        "position": 388,
+        "foreign": "manquer",
+        "english": "miss",
+        "code": "FR"
+    },
+    {
+        "position": 389,
+        "foreign": "apporté",
+        "english": "brought",
+        "code": "FR"
+    },
+    {
+        "position": 390,
+        "foreign": "chaleur",
+        "english": "heat",
+        "code": "FR"
+    },
+    {
+        "position": 391,
+        "foreign": "neige",
+        "english": "snow",
+        "code": "FR"
+    },
+    { "position": 392, "foreign": "pneu", "english": "tire", "code": "FR" },
+    {
+        "position": 393,
+        "foreign": "apporter",
+        "english": "bring",
+        "code": "FR"
+    },
+    { "position": 394, "foreign": "oui", "english": "yes", "code": "FR" },
+    {
+        "position": 395,
+        "foreign": "lointain",
+        "english": "distant",
+        "code": "FR"
+    },
+    {
+        "position": 396,
+        "foreign": "remplir",
+        "english": "fill",
+        "code": "FR"
+    },
+    { "position": 397, "foreign": "est", "english": "east", "code": "FR" },
+    {
+        "position": 398,
+        "foreign": "peindre",
+        "english": "paint",
+        "code": "FR"
+    },
+    {
+        "position": 399,
+        "foreign": "langue",
+        "english": "language",
+        "code": "FR"
+    },
+    {
+        "position": 400,
+        "foreign": "entre",
+        "english": "among",
+        "code": "FR"
+    },
+    {
+        "position": 401,
+        "foreign": "unité",
+        "english": "unit",
+        "code": "FR"
+    },
+    {
+        "position": 402,
+        "foreign": "puissance",
+        "english": "power",
+        "code": "FR"
+    },
+    {
+        "position": 403,
+        "foreign": "ville",
+        "english": "town",
+        "code": "FR"
+    },
+    { "position": 404, "foreign": "fin", "english": "fine", "code": "FR" },
+    {
+        "position": 405,
+        "foreign": "certain",
+        "english": "certain",
+        "code": "FR"
+    },
+    { "position": 406, "foreign": "voler", "english": "fly", "code": "FR" },
+    {
+        "position": 407,
+        "foreign": "tomber",
+        "english": "fall",
+        "code": "FR"
+    },
+    {
+        "position": 408,
+        "foreign": "conduire",
+        "english": "lead",
+        "code": "FR"
+    },
+    { "position": 409, "foreign": "cri", "english": "cry", "code": "FR" },
+    {
+        "position": 410,
+        "foreign": "sombre",
+        "english": "dark",
+        "code": "FR"
+    },
+    {
+        "position": 411,
+        "foreign": "machine",
+        "english": "machine",
+        "code": "FR"
+    },
+    { "position": 412, "foreign": "Note", "english": "note", "code": "FR" },
+    {
+        "position": 413,
+        "foreign": "patienter",
+        "english": "wait",
+        "code": "FR"
+    },
+    { "position": 414, "foreign": "plan", "english": "plan", "code": "FR" },
+    {
+        "position": 415,
+        "foreign": "figure",
+        "english": "figure",
+        "code": "FR"
+    },
+    {
+        "position": 416,
+        "foreign": "étoile",
+        "english": "star",
+        "code": "FR"
+    },
+    { "position": 417, "foreign": "boîte", "english": "box", "code": "FR" },
+    { "position": 418, "foreign": "nom", "english": "noun", "code": "FR" },
+    {
+        "position": 419,
+        "foreign": "domaine",
+        "english": "field",
+        "code": "FR"
+    },
+    {
+        "position": 420,
+        "foreign": "reste",
+        "english": "rest",
+        "code": "FR"
+    },
+    {
+        "position": 421,
+        "foreign": "correct",
+        "english": "correct",
+        "code": "FR"
+    },
+    {
+        "position": 422,
+        "foreign": "capable",
+        "english": "able",
+        "code": "FR"
+    },
+    {
+        "position": 423,
+        "foreign": "livre",
+        "english": "pound",
+        "code": "FR"
+    },
+    {
+        "position": 424,
+        "foreign": "Terminé",
+        "english": "done",
+        "code": "FR"
+    },
+    {
+        "position": 425,
+        "foreign": "beauté",
+        "english": "beauty",
+        "code": "FR"
+    },
+    {
+        "position": 426,
+        "foreign": "entraînement",
+        "english": "drive",
+        "code": "FR"
+    },
+    {
+        "position": 427,
+        "foreign": "résisté",
+        "english": "stood",
+        "code": "FR"
+    },
+    {
+        "position": 428,
+        "foreign": "contenir",
+        "english": "contain",
+        "code": "FR"
+    },
+    {
+        "position": 429,
+        "foreign": "avant",
+        "english": "front",
+        "code": "FR"
+    },
+    {
+        "position": 430,
+        "foreign": "enseigner",
+        "english": "teach",
+        "code": "FR"
+    },
+    {
+        "position": 431,
+        "foreign": "semaine",
+        "english": "week",
+        "code": "FR"
+    },
+    {
+        "position": 432,
+        "foreign": "finale",
+        "english": "final",
+        "code": "FR"
+    },
+    {
+        "position": 433,
+        "foreign": "donné",
+        "english": "gave",
+        "code": "FR"
+    },
+    {
+        "position": 434,
+        "foreign": "vert",
+        "english": "green",
+        "code": "FR"
+    },
+    { "position": 435, "foreign": "oh", "english": "oh", "code": "FR" },
+    {
+        "position": 436,
+        "foreign": "rapide",
+        "english": "quick",
+        "code": "FR"
+    },
+    {
+        "position": 437,
+        "foreign": "développer",
+        "english": "develop",
+        "code": "FR"
+    },
+    {
+        "position": 438,
+        "foreign": "océan",
+        "english": "ocean",
+        "code": "FR"
+    },
+    {
+        "position": 439,
+        "foreign": "chaud",
+        "english": "warm",
+        "code": "FR"
+    },
+    {
+        "position": 440,
+        "foreign": "gratuit",
+        "english": "free",
+        "code": "FR"
+    },
+    {
+        "position": 441,
+        "foreign": "minute",
+        "english": "minute",
+        "code": "FR"
+    },
+    {
+        "position": 442,
+        "foreign": "fort",
+        "english": "strong",
+        "code": "FR"
+    },
+    {
+        "position": 443,
+        "foreign": "spécial",
+        "english": "special",
+        "code": "FR"
+    },
+    {
+        "position": 444,
+        "foreign": "esprit",
+        "english": "mind",
+        "code": "FR"
+    },
+    {
+        "position": 445,
+        "foreign": "derrière",
+        "english": "behind",
+        "code": "FR"
+    },
+    {
+        "position": 446,
+        "foreign": "clair",
+        "english": "clear",
+        "code": "FR"
+    },
+    {
+        "position": 447,
+        "foreign": "queue",
+        "english": "tail",
+        "code": "FR"
+    },
+    {
+        "position": 448,
+        "foreign": "produire",
+        "english": "produce",
+        "code": "FR"
+    },
+    { "position": 449, "foreign": "fait", "english": "fact", "code": "FR" },
+    {
+        "position": 450,
+        "foreign": "espace",
+        "english": "space",
+        "code": "FR"
+    },
+    {
+        "position": 451,
+        "foreign": "entendu",
+        "english": "heard",
+        "code": "FR"
+    },
+    {
+        "position": 452,
+        "foreign": "meilleur",
+        "english": "best",
+        "code": "FR"
+    },
+    {
+        "position": 453,
+        "foreign": "heure",
+        "english": "hour",
+        "code": "FR"
+    },
+    {
+        "position": 454,
+        "foreign": "mieux",
+        "english": "better",
+        "code": "FR"
+    },
+    { "position": 455, "foreign": "vrai", "english": "true", "code": "FR" },
+    {
+        "position": 456,
+        "foreign": "pendant",
+        "english": "during",
+        "code": "FR"
+    },
+    {
+        "position": 457,
+        "foreign": "cent",
+        "english": "hundred",
+        "code": "FR"
+    },
+    { "position": 458, "foreign": "cinq", "english": "five", "code": "FR" },
+    {
+        "position": 459,
+        "foreign": "rappeler",
+        "english": "remember",
+        "code": "FR"
+    },
+    {
+        "position": 460,
+        "foreign": "étape",
+        "english": "step",
+        "code": "FR"
+    },
+    { "position": 461, "foreign": "tôt", "english": "early", "code": "FR" },
+    {
+        "position": 462,
+        "foreign": "tenir",
+        "english": "hold",
+        "code": "FR"
+    },
+    {
+        "position": 463,
+        "foreign": "ouest",
+        "english": "west",
+        "code": "FR"
+    },
+    {
+        "position": 464,
+        "foreign": "sol",
+        "english": "ground",
+        "code": "FR"
+    },
+    {
+        "position": 465,
+        "foreign": "intérêt",
+        "english": "interest",
+        "code": "FR"
+    },
+    {
+        "position": 466,
+        "foreign": "atteindre",
+        "english": "reach",
+        "code": "FR"
+    },
+    {
+        "position": 467,
+        "foreign": "rapide",
+        "english": "fast",
+        "code": "FR"
+    },
+    {
+        "position": 468,
+        "foreign": "verbe",
+        "english": "verb",
+        "code": "FR"
+    },
+    {
+        "position": 469,
+        "foreign": "chanter",
+        "english": "sing",
+        "code": "FR"
+    },
+    {
+        "position": 470,
+        "foreign": "écouter",
+        "english": "listen",
+        "code": "FR"
+    },
+    { "position": 471, "foreign": "six", "english": "six", "code": "FR" },
+    {
+        "position": 472,
+        "foreign": "table",
+        "english": "table",
+        "code": "FR"
+    },
+    {
+        "position": 473,
+        "foreign": "Voyage",
+        "english": "travel",
+        "code": "FR"
+    },
+    {
+        "position": 474,
+        "foreign": "moins",
+        "english": "less",
+        "code": "FR"
+    },
+    {
+        "position": 475,
+        "foreign": "matin",
+        "english": "morning",
+        "code": "FR"
+    },
+    { "position": 476, "foreign": "dix", "english": "ten", "code": "FR" },
+    {
+        "position": 477,
+        "foreign": "simple",
+        "english": "simple",
+        "code": "FR"
+    },
+    {
+        "position": 478,
+        "foreign": "plusieurs",
+        "english": "several",
+        "code": "FR"
+    },
+    {
+        "position": 479,
+        "foreign": "voyelle",
+        "english": "vowel",
+        "code": "FR"
+    },
+    {
+        "position": 480,
+        "foreign": "vers",
+        "english": "toward",
+        "code": "FR"
+    },
+    {
+        "position": 481,
+        "foreign": "guerre",
+        "english": "war",
+        "code": "FR"
+    },
+    { "position": 482, "foreign": "poser", "english": "lay", "code": "FR" },
+    {
+        "position": 483,
+        "foreign": "contre",
+        "english": "against",
+        "code": "FR"
+    },
+    {
+        "position": 484,
+        "foreign": "modèle",
+        "english": "pattern",
+        "code": "FR"
+    },
+    { "position": 485, "foreign": "lent", "english": "slow", "code": "FR" },
+    {
+        "position": 486,
+        "foreign": "centre",
+        "english": "center",
+        "code": "FR"
+    },
+    {
+        "position": 487,
+        "foreign": "amour",
+        "english": "love",
+        "code": "FR"
+    },
+    {
+        "position": 488,
+        "foreign": "personne",
+        "english": "person",
+        "code": "FR"
+    },
+    {
+        "position": 489,
+        "foreign": "argent",
+        "english": "money",
+        "code": "FR"
+    },
+    {
+        "position": 490,
+        "foreign": "servir",
+        "english": "serve",
+        "code": "FR"
+    },
+    {
+        "position": 491,
+        "foreign": "apparaître",
+        "english": "appear",
+        "code": "FR"
+    },
+    {
+        "position": 492,
+        "foreign": "route",
+        "english": "road",
+        "code": "FR"
+    },
+    { "position": 493, "foreign": "carte", "english": "map", "code": "FR" },
+    {
+        "position": 494,
+        "foreign": "pluie",
+        "english": "rain",
+        "code": "FR"
+    },
+    {
+        "position": 495,
+        "foreign": "règle",
+        "english": "rule",
+        "code": "FR"
+    },
+    {
+        "position": 496,
+        "foreign": "gouverner",
+        "english": "govern",
+        "code": "FR"
+    },
+    {
+        "position": 497,
+        "foreign": "tirer",
+        "english": "pull",
+        "code": "FR"
+    },
+    {
+        "position": 498,
+        "foreign": "froid",
+        "english": "cold",
+        "code": "FR"
+    },
+    {
+        "position": 499,
+        "foreign": "avis",
+        "english": "notice",
+        "code": "FR"
+    },
+    {
+        "position": 500,
+        "foreign": "voix",
+        "english": "voice",
+        "code": "FR"
+    },
+    {
+        "position": 501,
+        "foreign": "énergie",
+        "english": "energy",
+        "code": "FR"
+    },
+    {
+        "position": 502,
+        "foreign": "chasse",
+        "english": "hunt",
+        "code": "FR"
+    },
+    {
+        "position": 503,
+        "foreign": "probable",
+        "english": "probable",
+        "code": "FR"
+    },
+    { "position": 504, "foreign": "lit", "english": "bed", "code": "FR" },
+    {
+        "position": 505,
+        "foreign": "frère",
+        "english": "brother",
+        "code": "FR"
+    },
+    { "position": 506, "foreign": "œuf", "english": "egg", "code": "FR" },
+    { "position": 507, "foreign": "tour", "english": "ride", "code": "FR" },
+    {
+        "position": 508,
+        "foreign": "cellule",
+        "english": "cell",
+        "code": "FR"
+    },
+    {
+        "position": 509,
+        "foreign": "croire",
+        "english": "believe",
+        "code": "FR"
+    },
+    {
+        "position": 510,
+        "foreign": "peut-être",
+        "english": "perhaps",
+        "code": "FR"
+    },
+    {
+        "position": 511,
+        "foreign": "choisir",
+        "english": "pick",
+        "code": "FR"
+    },
+    {
+        "position": 512,
+        "foreign": "soudain",
+        "english": "sudden",
+        "code": "FR"
+    },
+    {
+        "position": 513,
+        "foreign": "compter",
+        "english": "count",
+        "code": "FR"
+    },
+    {
+        "position": 514,
+        "foreign": "carré",
+        "english": "square",
+        "code": "FR"
+    },
+    {
+        "position": 515,
+        "foreign": "raison",
+        "english": "reason",
+        "code": "FR"
+    },
+    {
+        "position": 516,
+        "foreign": "longueur",
+        "english": "length",
+        "code": "FR"
+    },
+    {
+        "position": 517,
+        "foreign": "représenter",
+        "english": "represent",
+        "code": "FR"
+    },
+    { "position": 518, "foreign": "art", "english": "art", "code": "FR" },
+    {
+        "position": 519,
+        "foreign": "sujet",
+        "english": "subject",
+        "code": "FR"
+    },
+    {
+        "position": 520,
+        "foreign": "région",
+        "english": "region",
+        "code": "FR"
+    },
+    {
+        "position": 521,
+        "foreign": "taille",
+        "english": "size",
+        "code": "FR"
+    },
+    {
+        "position": 522,
+        "foreign": "varier",
+        "english": "vary",
+        "code": "FR"
+    },
+    {
+        "position": 523,
+        "foreign": "régler",
+        "english": "settle",
+        "code": "FR"
+    },
+    {
+        "position": 524,
+        "foreign": "parler",
+        "english": "speak",
+        "code": "FR"
+    },
+    {
+        "position": 525,
+        "foreign": "poids",
+        "english": "weight",
+        "code": "FR"
+    },
+    {
+        "position": 526,
+        "foreign": "général",
+        "english": "general",
+        "code": "FR"
+    },
+    { "position": 527, "foreign": "glace", "english": "ice", "code": "FR" },
+    {
+        "position": 528,
+        "foreign": "question",
+        "english": "matter",
+        "code": "FR"
+    },
+    {
+        "position": 529,
+        "foreign": "cercle",
+        "english": "circle",
+        "code": "FR"
+    },
+    {
+        "position": 530,
+        "foreign": "paire",
+        "english": "pair",
+        "code": "FR"
+    },
+    {
+        "position": 531,
+        "foreign": "inclure",
+        "english": "include",
+        "code": "FR"
+    },
+    {
+        "position": 532,
+        "foreign": "fracture",
+        "english": "divide",
+        "code": "FR"
+    },
+    {
+        "position": 533,
+        "foreign": "syllabe",
+        "english": "syllable",
+        "code": "FR"
+    },
+    {
+        "position": 534,
+        "foreign": "feutre",
+        "english": "felt",
+        "code": "FR"
+    },
+    {
+        "position": 535,
+        "foreign": "grandiose",
+        "english": "grand",
+        "code": "FR"
+    },
+    {
+        "position": 536,
+        "foreign": "balle",
+        "english": "ball",
+        "code": "FR"
+    },
+    {
+        "position": 537,
+        "foreign": "encore",
+        "english": "yet",
+        "code": "FR"
+    },
+    {
+        "position": 538,
+        "foreign": "vague",
+        "english": "wave",
+        "code": "FR"
+    },
+    {
+        "position": 539,
+        "foreign": "tomber",
+        "english": "drop",
+        "code": "FR"
+    },
+    {
+        "position": 540,
+        "foreign": "cœur",
+        "english": "heart",
+        "code": "FR"
+    },
+    { "position": 541, "foreign": "h", "english": "am", "code": "FR" },
+    {
+        "position": 542,
+        "foreign": "présent",
+        "english": "present",
+        "code": "FR"
+    },
+    {
+        "position": 543,
+        "foreign": "lourd",
+        "english": "heavy",
+        "code": "FR"
+    },
+    {
+        "position": 544,
+        "foreign": "danse",
+        "english": "dance",
+        "code": "FR"
+    },
+    {
+        "position": 545,
+        "foreign": "moteur",
+        "english": "engine",
+        "code": "FR"
+    },
+    {
+        "position": 546,
+        "foreign": "position",
+        "english": "position",
+        "code": "FR"
+    },
+    { "position": 547, "foreign": "bras", "english": "arm", "code": "FR" },
+    {
+        "position": 548,
+        "foreign": "large",
+        "english": "wide",
+        "code": "FR"
+    },
+    {
+        "position": 549,
+        "foreign": "voile",
+        "english": "sail",
+        "code": "FR"
+    },
+    {
+        "position": 550,
+        "foreign": "matériel",
+        "english": "material",
+        "code": "FR"
+    },
+    {
+        "position": 551,
+        "foreign": "fraction",
+        "english": "fraction",
+        "code": "FR"
+    },
+    {
+        "position": 552,
+        "foreign": "forêt",
+        "english": "forest",
+        "code": "FR"
+    },
+    {
+        "position": 553,
+        "foreign": "s’asseoir",
+        "english": "sit",
+        "code": "FR"
+    },
+    {
+        "position": 554,
+        "foreign": "course",
+        "english": "race",
+        "code": "FR"
+    },
+    {
+        "position": 555,
+        "foreign": "fenêtre",
+        "english": "window",
+        "code": "FR"
+    },
+    {
+        "position": 556,
+        "foreign": "magasin",
+        "english": "store",
+        "code": "FR"
+    },
+    {
+        "position": 557,
+        "foreign": "été",
+        "english": "summer",
+        "code": "FR"
+    },
+    {
+        "position": 558,
+        "foreign": "train",
+        "english": "train",
+        "code": "FR"
+    },
+    {
+        "position": 559,
+        "foreign": "sommeil",
+        "english": "sleep",
+        "code": "FR"
+    },
+    {
+        "position": 560,
+        "foreign": "prouver",
+        "english": "prove",
+        "code": "FR"
+    },
+    { "position": 561, "foreign": "seul", "english": "lone", "code": "FR" },
+    { "position": 562, "foreign": "jambe", "english": "leg", "code": "FR" },
+    {
+        "position": 563,
+        "foreign": "exercice",
+        "english": "exercise",
+        "code": "FR"
+    },
+    { "position": 564, "foreign": "mur", "english": "wall", "code": "FR" },
+    {
+        "position": 565,
+        "foreign": "capture",
+        "english": "catch",
+        "code": "FR"
+    },
+    {
+        "position": 566,
+        "foreign": "monture",
+        "english": "mount",
+        "code": "FR"
+    },
+    {
+        "position": 567,
+        "foreign": "souhaiter",
+        "english": "wish",
+        "code": "FR"
+    },
+    { "position": 568, "foreign": "ciel", "english": "sky", "code": "FR" },
+    {
+        "position": 569,
+        "foreign": "conseil",
+        "english": "board",
+        "code": "FR"
+    },
+    { "position": 570, "foreign": "joie", "english": "joy", "code": "FR" },
+    {
+        "position": 571,
+        "foreign": "hiver",
+        "english": "winter",
+        "code": "FR"
+    },
+    { "position": 572, "foreign": "sat", "english": "sat", "code": "FR" },
+    {
+        "position": 573,
+        "foreign": "écrit",
+        "english": "written",
+        "code": "FR"
+    },
+    {
+        "position": 574,
+        "foreign": "sauvage",
+        "english": "wild",
+        "code": "FR"
+    },
+    {
+        "position": 575,
+        "foreign": "instrument",
+        "english": "instrument",
+        "code": "FR"
+    },
+    {
+        "position": 576,
+        "foreign": "conservé",
+        "english": "kept",
+        "code": "FR"
+    },
+    {
+        "position": 577,
+        "foreign": "verre",
+        "english": "glass",
+        "code": "FR"
+    },
+    {
+        "position": 578,
+        "foreign": "herbe",
+        "english": "grass",
+        "code": "FR"
+    },
+    { "position": 579, "foreign": "vache", "english": "cow", "code": "FR" },
+    {
+        "position": 580,
+        "foreign": "emploi",
+        "english": "job",
+        "code": "FR"
+    },
+    { "position": 581, "foreign": "bord", "english": "edge", "code": "FR" },
+    {
+        "position": 582,
+        "foreign": "signe",
+        "english": "sign",
+        "code": "FR"
+    },
+    {
+        "position": 583,
+        "foreign": "visite",
+        "english": "visit",
+        "code": "FR"
+    },
+    {
+        "position": 584,
+        "foreign": "passé",
+        "english": "past",
+        "code": "FR"
+    },
+    { "position": 585, "foreign": "doux", "english": "soft", "code": "FR" },
+    {
+        "position": 586,
+        "foreign": "amusement",
+        "english": "fun",
+        "code": "FR"
+    },
+    {
+        "position": 587,
+        "foreign": "clair",
+        "english": "bright",
+        "code": "FR"
+    },
+    { "position": 588, "foreign": "gaz", "english": "gas", "code": "FR" },
+    {
+        "position": 589,
+        "foreign": "temps",
+        "english": "weather",
+        "code": "FR"
+    },
+    {
+        "position": 590,
+        "foreign": "mois",
+        "english": "month",
+        "code": "FR"
+    },
+    {
+        "position": 591,
+        "foreign": "million",
+        "english": "million",
+        "code": "FR"
+    },
+    {
+        "position": 592,
+        "foreign": "porter",
+        "english": "bear",
+        "code": "FR"
+    },
+    {
+        "position": 593,
+        "foreign": "finition",
+        "english": "finish",
+        "code": "FR"
+    },
+    {
+        "position": 594,
+        "foreign": "heureux",
+        "english": "happy",
+        "code": "FR"
+    },
+    {
+        "position": 595,
+        "foreign": "espoir",
+        "english": "hope",
+        "code": "FR"
+    },
+    {
+        "position": 596,
+        "foreign": "fleur",
+        "english": "flower",
+        "code": "FR"
+    },
+    {
+        "position": 597,
+        "foreign": "vêtir",
+        "english": "clothe",
+        "code": "FR"
+    },
+    {
+        "position": 598,
+        "foreign": "étrange",
+        "english": "strange",
+        "code": "FR"
+    },
+    {
+        "position": 599,
+        "foreign": "disparu",
+        "english": "gone",
+        "code": "FR"
+    },
+    {
+        "position": 600,
+        "foreign": "commerce",
+        "english": "trade",
+        "code": "FR"
+    },
+    {
+        "position": 601,
+        "foreign": "mélodie",
+        "english": "melody",
+        "code": "FR"
+    },
+    {
+        "position": 602,
+        "foreign": "voyage",
+        "english": "trip",
+        "code": "FR"
+    },
+    {
+        "position": 603,
+        "foreign": "bureau",
+        "english": "office",
+        "code": "FR"
+    },
+    {
+        "position": 604,
+        "foreign": "recevoir",
+        "english": "receive",
+        "code": "FR"
+    },
+    {
+        "position": 605,
+        "foreign": "rangée",
+        "english": "row",
+        "code": "FR"
+    },
+    {
+        "position": 606,
+        "foreign": "bouche",
+        "english": "mouth",
+        "code": "FR"
+    },
+    {
+        "position": 607,
+        "foreign": "exact",
+        "english": "exact",
+        "code": "FR"
+    },
+    {
+        "position": 608,
+        "foreign": "symbole",
+        "english": "symbol",
+        "code": "FR"
+    },
+    {
+        "position": 609,
+        "foreign": "mourir",
+        "english": "die",
+        "code": "FR"
+    },
+    {
+        "position": 610,
+        "foreign": "moins",
+        "english": "least",
+        "code": "FR"
+    },
+    {
+        "position": 611,
+        "foreign": "difficulté",
+        "english": "trouble",
+        "code": "FR"
+    },
+    { "position": 612, "foreign": "cri", "english": "shout", "code": "FR" },
+    {
+        "position": 613,
+        "foreign": "sauf",
+        "english": "except",
+        "code": "FR"
+    },
+    {
+        "position": 614,
+        "foreign": "écrit",
+        "english": "wrote",
+        "code": "FR"
+    },
+    {
+        "position": 615,
+        "foreign": "semence",
+        "english": "seed",
+        "code": "FR"
+    },
+    { "position": 616, "foreign": "ton", "english": "tone", "code": "FR" },
+    {
+        "position": 617,
+        "foreign": "joindre",
+        "english": "join",
+        "code": "FR"
+    },
+    {
+        "position": 618,
+        "foreign": "suggérer",
+        "english": "suggest",
+        "code": "FR"
+    },
+    {
+        "position": 619,
+        "foreign": "propre",
+        "english": "clean",
+        "code": "FR"
+    },
+    {
+        "position": 620,
+        "foreign": "pause",
+        "english": "break",
+        "code": "FR"
+    },
+    { "position": 621, "foreign": "dame", "english": "lady", "code": "FR" },
+    { "position": 622, "foreign": "cour", "english": "yard", "code": "FR" },
+    {
+        "position": 623,
+        "foreign": "augmenter",
+        "english": "rise",
+        "code": "FR"
+    },
+    {
+        "position": 624,
+        "foreign": "mauvais",
+        "english": "bad",
+        "code": "FR"
+    },
+    { "position": 625, "foreign": "coup", "english": "blow", "code": "FR" },
+    { "position": 626, "foreign": "huile", "english": "oil", "code": "FR" },
+    {
+        "position": 627,
+        "foreign": "sang",
+        "english": "blood",
+        "code": "FR"
+    },
+    {
+        "position": 628,
+        "foreign": "toucher",
+        "english": "touch",
+        "code": "FR"
+    },
+    {
+        "position": 629,
+        "foreign": "a augmenté",
+        "english": "grew",
+        "code": "FR"
+    },
+    { "position": 630, "foreign": "cent", "english": "cent", "code": "FR" },
+    {
+        "position": 631,
+        "foreign": "mélanger",
+        "english": "mix",
+        "code": "FR"
+    },
+    {
+        "position": 632,
+        "foreign": "équipe",
+        "english": "team",
+        "code": "FR"
+    },
+    { "position": 633, "foreign": "fil", "english": "wire", "code": "FR" },
+    { "position": 634, "foreign": "coût", "english": "cost", "code": "FR" },
+    {
+        "position": 635,
+        "foreign": "perdu",
+        "english": "lost",
+        "code": "FR"
+    },
+    {
+        "position": 636,
+        "foreign": "brun",
+        "english": "brown",
+        "code": "FR"
+    },
+    {
+        "position": 637,
+        "foreign": "porter",
+        "english": "wear",
+        "code": "FR"
+    },
+    {
+        "position": 638,
+        "foreign": "jardin",
+        "english": "garden",
+        "code": "FR"
+    },
+    {
+        "position": 639,
+        "foreign": "égal",
+        "english": "equal",
+        "code": "FR"
+    },
+    {
+        "position": 640,
+        "foreign": "expédié",
+        "english": "sent",
+        "code": "FR"
+    },
+    {
+        "position": 641,
+        "foreign": "choisir",
+        "english": "choose",
+        "code": "FR"
+    },
+    {
+        "position": 642,
+        "foreign": "est tombé",
+        "english": "fell",
+        "code": "FR"
+    },
+    {
+        "position": 643,
+        "foreign": "s’adapter",
+        "english": "fit",
+        "code": "FR"
+    },
+    {
+        "position": 644,
+        "foreign": "débit",
+        "english": "flow",
+        "code": "FR"
+    },
+    {
+        "position": 645,
+        "foreign": "juste",
+        "english": "fair",
+        "code": "FR"
+    },
+    {
+        "position": 646,
+        "foreign": "banque",
+        "english": "bank",
+        "code": "FR"
+    },
+    {
+        "position": 647,
+        "foreign": "recueillir",
+        "english": "collect",
+        "code": "FR"
+    },
+    {
+        "position": 648,
+        "foreign": "sauver",
+        "english": "save",
+        "code": "FR"
+    },
+    {
+        "position": 649,
+        "foreign": "contrôle",
+        "english": "control",
+        "code": "FR"
+    },
+    {
+        "position": 650,
+        "foreign": "décimal",
+        "english": "decimal",
+        "code": "FR"
+    },
+    {
+        "position": 651,
+        "foreign": "oreille",
+        "english": "ear",
+        "code": "FR"
+    },
+    {
+        "position": 652,
+        "foreign": "autre",
+        "english": "else",
+        "code": "FR"
+    },
+    {
+        "position": 653,
+        "foreign": "tout à fait",
+        "english": "quite",
+        "code": "FR"
+    },
+    {
+        "position": 654,
+        "foreign": "cassé",
+        "english": "broke",
+        "code": "FR"
+    },
+    { "position": 655, "foreign": "cas", "english": "case", "code": "FR" },
+    {
+        "position": 656,
+        "foreign": "milieu",
+        "english": "middle",
+        "code": "FR"
+    },
+    { "position": 657, "foreign": "tuer", "english": "kill", "code": "FR" },
+    { "position": 658, "foreign": "fils", "english": "son", "code": "FR" },
+    { "position": 659, "foreign": "lac", "english": "lake", "code": "FR" },
+    {
+        "position": 660,
+        "foreign": "moment",
+        "english": "moment",
+        "code": "FR"
+    },
+    {
+        "position": 661,
+        "foreign": "échelle",
+        "english": "scale",
+        "code": "FR"
+    },
+    { "position": 662, "foreign": "fort", "english": "loud", "code": "FR" },
+    {
+        "position": 663,
+        "foreign": "printemps",
+        "english": "spring",
+        "code": "FR"
+    },
+    {
+        "position": 664,
+        "foreign": "observer",
+        "english": "observe",
+        "code": "FR"
+    },
+    {
+        "position": 665,
+        "foreign": "enfant",
+        "english": "child",
+        "code": "FR"
+    },
+    {
+        "position": 666,
+        "foreign": "droit",
+        "english": "straight",
+        "code": "FR"
+    },
+    {
+        "position": 667,
+        "foreign": "consonne",
+        "english": "consonant",
+        "code": "FR"
+    },
+    {
+        "position": 668,
+        "foreign": "nation",
+        "english": "nation",
+        "code": "FR"
+    },
+    {
+        "position": 669,
+        "foreign": "dictionnaire",
+        "english": "dictionary",
+        "code": "FR"
+    },
+    { "position": 670, "foreign": "lait", "english": "milk", "code": "FR" },
+    {
+        "position": 671,
+        "foreign": "vitesse",
+        "english": "speed",
+        "code": "FR"
+    },
+    {
+        "position": 672,
+        "foreign": "méthode",
+        "english": "method",
+        "code": "FR"
+    },
+    {
+        "position": 673,
+        "foreign": "organe",
+        "english": "organ",
+        "code": "FR"
+    },
+    { "position": 674, "foreign": "payer", "english": "pay", "code": "FR" },
+    { "position": 675, "foreign": "âge", "english": "age", "code": "FR" },
+    {
+        "position": 676,
+        "foreign": "section",
+        "english": "section",
+        "code": "FR"
+    },
+    {
+        "position": 677,
+        "foreign": "robe",
+        "english": "dress",
+        "code": "FR"
+    },
+    {
+        "position": 678,
+        "foreign": "nuage",
+        "english": "cloud",
+        "code": "FR"
+    },
+    {
+        "position": 679,
+        "foreign": "surprise",
+        "english": "surprise",
+        "code": "FR"
+    },
+    {
+        "position": 680,
+        "foreign": "calme",
+        "english": "quiet",
+        "code": "FR"
+    },
+    {
+        "position": 681,
+        "foreign": "pierre",
+        "english": "stone",
+        "code": "FR"
+    },
+    {
+        "position": 682,
+        "foreign": "minuscule",
+        "english": "tiny",
+        "code": "FR"
+    },
+    {
+        "position": 683,
+        "foreign": "montée",
+        "english": "climb",
+        "code": "FR"
+    },
+    {
+        "position": 684,
+        "foreign": "frais",
+        "english": "cool",
+        "code": "FR"
+    },
+    {
+        "position": 685,
+        "foreign": "conception",
+        "english": "design",
+        "code": "FR"
+    },
+    {
+        "position": 686,
+        "foreign": "pauvres",
+        "english": "poor",
+        "code": "FR"
+    },
+    { "position": 687, "foreign": "lot", "english": "lot", "code": "FR" },
+    {
+        "position": 688,
+        "foreign": "expérience",
+        "english": "experiment",
+        "code": "FR"
+    },
+    {
+        "position": 689,
+        "foreign": "bas",
+        "english": "bottom",
+        "code": "FR"
+    },
+    { "position": 690, "foreign": "clé", "english": "key", "code": "FR" },
+    { "position": 691, "foreign": "fer", "english": "iron", "code": "FR" },
+    {
+        "position": 692,
+        "foreign": "unique",
+        "english": "single",
+        "code": "FR"
+    },
+    {
+        "position": 693,
+        "foreign": "bâton",
+        "english": "stick",
+        "code": "FR"
+    },
+    { "position": 694, "foreign": "plat", "english": "flat", "code": "FR" },
+    {
+        "position": 695,
+        "foreign": "vingt",
+        "english": "twenty",
+        "code": "FR"
+    },
+    { "position": 696, "foreign": "peau", "english": "skin", "code": "FR" },
+    {
+        "position": 697,
+        "foreign": "sourire",
+        "english": "smile",
+        "code": "FR"
+    },
+    {
+        "position": 698,
+        "foreign": "pli",
+        "english": "crease",
+        "code": "FR"
+    },
+    { "position": 699, "foreign": "trou", "english": "hole", "code": "FR" },
+    {
+        "position": 700,
+        "foreign": "sauter",
+        "english": "jump",
+        "code": "FR"
+    },
+    { "position": 701, "foreign": "bébé", "english": "baby", "code": "FR" },
+    {
+        "position": 702,
+        "foreign": "huit",
+        "english": "eight",
+        "code": "FR"
+    },
+    {
+        "position": 703,
+        "foreign": "village",
+        "english": "village",
+        "code": "FR"
+    },
+    {
+        "position": 704,
+        "foreign": "se rencontrent",
+        "english": "meet",
+        "code": "FR"
+    },
+    {
+        "position": 705,
+        "foreign": "racine",
+        "english": "root",
+        "code": "FR"
+    },
+    {
+        "position": 706,
+        "foreign": "acheter",
+        "english": "buy",
+        "code": "FR"
+    },
+    {
+        "position": 707,
+        "foreign": "augmenter",
+        "english": "raise",
+        "code": "FR"
+    },
+    {
+        "position": 708,
+        "foreign": "résoudre",
+        "english": "solve",
+        "code": "FR"
+    },
+    {
+        "position": 709,
+        "foreign": "métal",
+        "english": "metal",
+        "code": "FR"
+    },
+    {
+        "position": 710,
+        "foreign": "si",
+        "english": "whether",
+        "code": "FR"
+    },
+    {
+        "position": 711,
+        "foreign": "pousser",
+        "english": "push",
+        "code": "FR"
+    },
+    {
+        "position": 712,
+        "foreign": "sept",
+        "english": "seven",
+        "code": "FR"
+    },
+    {
+        "position": 713,
+        "foreign": "paragraphe",
+        "english": "paragraph",
+        "code": "FR"
+    },
+    {
+        "position": 714,
+        "foreign": "troisième",
+        "english": "third",
+        "code": "FR"
+    },
+    {
+        "position": 715,
+        "foreign": "doit",
+        "english": "shall",
+        "code": "FR"
+    },
+    {
+        "position": 716,
+        "foreign": "en attente",
+        "english": "held",
+        "code": "FR"
+    },
+    {
+        "position": 717,
+        "foreign": "cheveux",
+        "english": "hair",
+        "code": "FR"
+    },
+    {
+        "position": 718,
+        "foreign": "décrire",
+        "english": "describe",
+        "code": "FR"
+    },
+    {
+        "position": 719,
+        "foreign": "cuisinier",
+        "english": "cook",
+        "code": "FR"
+    },
+    {
+        "position": 720,
+        "foreign": "étage",
+        "english": "floor",
+        "code": "FR"
+    },
+    {
+        "position": 721,
+        "foreign": "chaque",
+        "english": "either",
+        "code": "FR"
+    },
+    {
+        "position": 722,
+        "foreign": "résultat",
+        "english": "result",
+        "code": "FR"
+    },
+    {
+        "position": 723,
+        "foreign": "brûler",
+        "english": "burn",
+        "code": "FR"
+    },
+    {
+        "position": 724,
+        "foreign": "colline",
+        "english": "hill",
+        "code": "FR"
+    },
+    {
+        "position": 725,
+        "foreign": "coffre-fort",
+        "english": "safe",
+        "code": "FR"
+    },
+    { "position": 726, "foreign": "chat", "english": "cat", "code": "FR" },
+    {
+        "position": 727,
+        "foreign": "siècle",
+        "english": "century",
+        "code": "FR"
+    },
+    {
+        "position": 728,
+        "foreign": "envisager",
+        "english": "consider",
+        "code": "FR"
+    },
+    { "position": 729, "foreign": "type", "english": "type", "code": "FR" },
+    { "position": 730, "foreign": "droit", "english": "law", "code": "FR" },
+    { "position": 731, "foreign": "peu", "english": "bit", "code": "FR" },
+    {
+        "position": 732,
+        "foreign": "côte",
+        "english": "coast",
+        "code": "FR"
+    },
+    {
+        "position": 733,
+        "foreign": "copie",
+        "english": "copy",
+        "code": "FR"
+    },
+    {
+        "position": 734,
+        "foreign": "phrase",
+        "english": "phrase",
+        "code": "FR"
+    },
+    {
+        "position": 735,
+        "foreign": "silencieux",
+        "english": "silent",
+        "code": "FR"
+    },
+    { "position": 736, "foreign": "haut", "english": "tall", "code": "FR" },
+    {
+        "position": 737,
+        "foreign": "sable",
+        "english": "sand",
+        "code": "FR"
+    },
+    { "position": 738, "foreign": "sol", "english": "soil", "code": "FR" },
+    {
+        "position": 739,
+        "foreign": "rouleau",
+        "english": "roll",
+        "code": "FR"
+    },
+    {
+        "position": 740,
+        "foreign": "température",
+        "english": "temperature",
+        "code": "FR"
+    },
+    {
+        "position": 741,
+        "foreign": "doigt",
+        "english": "finger",
+        "code": "FR"
+    },
+    {
+        "position": 742,
+        "foreign": "industrie",
+        "english": "industry",
+        "code": "FR"
+    },
+    {
+        "position": 743,
+        "foreign": "valeur",
+        "english": "value",
+        "code": "FR"
+    },
+    {
+        "position": 744,
+        "foreign": "lutte",
+        "english": "fight",
+        "code": "FR"
+    },
+    {
+        "position": 745,
+        "foreign": "mensonge",
+        "english": "lie",
+        "code": "FR"
+    },
+    {
+        "position": 746,
+        "foreign": "battre",
+        "english": "beat",
+        "code": "FR"
+    },
+    {
+        "position": 747,
+        "foreign": "exciter",
+        "english": "excite",
+        "code": "FR"
+    },
+    {
+        "position": 748,
+        "foreign": "naturel",
+        "english": "natural",
+        "code": "FR"
+    },
+    { "position": 749, "foreign": "vue", "english": "view", "code": "FR" },
+    {
+        "position": 750,
+        "foreign": "sens",
+        "english": "sense",
+        "code": "FR"
+    },
+    {
+        "position": 751,
+        "foreign": "capital",
+        "english": "capital",
+        "code": "FR"
+    },
+    {
+        "position": 752,
+        "foreign": "ne sera pas",
+        "english": "won’t",
+        "code": "FR"
+    },
+    {
+        "position": 753,
+        "foreign": "chaise",
+        "english": "chair",
+        "code": "FR"
+    },
+    {
+        "position": 754,
+        "foreign": "danger",
+        "english": "danger",
+        "code": "FR"
+    },
+    {
+        "position": 755,
+        "foreign": "fruit",
+        "english": "fruit",
+        "code": "FR"
+    },
+    {
+        "position": 756,
+        "foreign": "riche",
+        "english": "rich",
+        "code": "FR"
+    },
+    {
+        "position": 757,
+        "foreign": "épais",
+        "english": "thick",
+        "code": "FR"
+    },
+    {
+        "position": 758,
+        "foreign": "soldat",
+        "english": "soldier",
+        "code": "FR"
+    },
+    {
+        "position": 759,
+        "foreign": "processus",
+        "english": "process",
+        "code": "FR"
+    },
+    {
+        "position": 760,
+        "foreign": "fonctionner",
+        "english": "operate",
+        "code": "FR"
+    },
+    {
+        "position": 761,
+        "foreign": "pratique",
+        "english": "practice",
+        "code": "FR"
+    },
+    {
+        "position": 762,
+        "foreign": "séparé",
+        "english": "separate",
+        "code": "FR"
+    },
+    {
+        "position": 763,
+        "foreign": "difficile",
+        "english": "difficult",
+        "code": "FR"
+    },
+    {
+        "position": 764,
+        "foreign": "médecin",
+        "english": "doctor",
+        "code": "FR"
+    },
+    {
+        "position": 765,
+        "foreign": "s’il vous plaît",
+        "english": "please",
+        "code": "FR"
+    },
+    {
+        "position": 766,
+        "foreign": "protéger",
+        "english": "protect",
+        "code": "FR"
+    },
+    { "position": 767, "foreign": "midi", "english": "noon", "code": "FR" },
+    {
+        "position": 768,
+        "foreign": "récolte",
+        "english": "crop",
+        "code": "FR"
+    },
+    {
+        "position": 769,
+        "foreign": "moderne",
+        "english": "modern",
+        "code": "FR"
+    },
+    {
+        "position": 770,
+        "foreign": "élément",
+        "english": "element",
+        "code": "FR"
+    },
+    {
+        "position": 771,
+        "foreign": "frapper",
+        "english": "hit",
+        "code": "FR"
+    },
+    {
+        "position": 772,
+        "foreign": "étudiant",
+        "english": "student",
+        "code": "FR"
+    },
+    {
+        "position": 773,
+        "foreign": "coin",
+        "english": "corner",
+        "code": "FR"
+    },
+    {
+        "position": 774,
+        "foreign": "partie",
+        "english": "party",
+        "code": "FR"
+    },
+    {
+        "position": 775,
+        "foreign": "alimentation",
+        "english": "supply",
+        "code": "FR"
+    },
+    {
+        "position": 776,
+        "foreign": "dont",
+        "english": "whose",
+        "code": "FR"
+    },
+    {
+        "position": 777,
+        "foreign": "localiser",
+        "english": "locate",
+        "code": "FR"
+    },
+    {
+        "position": 778,
+        "foreign": "anneau",
+        "english": "ring",
+        "code": "FR"
+    },
+    {
+        "position": 779,
+        "foreign": "caractère",
+        "english": "character",
+        "code": "FR"
+    },
+    {
+        "position": 780,
+        "foreign": "insecte",
+        "english": "insect",
+        "code": "FR"
+    },
+    {
+        "position": 781,
+        "foreign": "pris",
+        "english": "caught",
+        "code": "FR"
+    },
+    {
+        "position": 782,
+        "foreign": "période",
+        "english": "period",
+        "code": "FR"
+    },
+    {
+        "position": 783,
+        "foreign": "indiquer",
+        "english": "indicate",
+        "code": "FR"
+    },
+    {
+        "position": 784,
+        "foreign": "radio",
+        "english": "radio",
+        "code": "FR"
+    },
+    {
+        "position": 785,
+        "foreign": "rayon",
+        "english": "spoke",
+        "code": "FR"
+    },
+    {
+        "position": 786,
+        "foreign": "atome",
+        "english": "atom",
+        "code": "FR"
+    },
+    {
+        "position": 787,
+        "foreign": "humain",
+        "english": "human",
+        "code": "FR"
+    },
+    {
+        "position": 788,
+        "foreign": "histoire",
+        "english": "history",
+        "code": "FR"
+    },
+    {
+        "position": 789,
+        "foreign": "effet",
+        "english": "effect",
+        "code": "FR"
+    },
+    {
+        "position": 790,
+        "foreign": "électrique",
+        "english": "electric",
+        "code": "FR"
+    },
+    {
+        "position": 791,
+        "foreign": "attendre",
+        "english": "expect",
+        "code": "FR"
+    },
+    { "position": 792, "foreign": "os", "english": "bone", "code": "FR" },
+    { "position": 793, "foreign": "rail", "english": "rail", "code": "FR" },
+    {
+        "position": 794,
+        "foreign": "imaginer",
+        "english": "imagine",
+        "code": "FR"
+    },
+    {
+        "position": 795,
+        "foreign": "fournir",
+        "english": "provide",
+        "code": "FR"
+    },
+    {
+        "position": 796,
+        "foreign": "se mettre d’accord",
+        "english": "agree",
+        "code": "FR"
+    },
+    {
+        "position": 797,
+        "foreign": "ainsi",
+        "english": "thus",
+        "code": "FR"
+    },
+    {
+        "position": 798,
+        "foreign": "doux",
+        "english": "gentle",
+        "code": "FR"
+    },
+    {
+        "position": 799,
+        "foreign": "femme",
+        "english": "woman",
+        "code": "FR"
+    },
+    {
+        "position": 800,
+        "foreign": "capitaine",
+        "english": "captain",
+        "code": "FR"
+    },
+    {
+        "position": 801,
+        "foreign": "deviner",
+        "english": "guess",
+        "code": "FR"
+    },
+    {
+        "position": 802,
+        "foreign": "nécessaire",
+        "english": "necessary",
+        "code": "FR"
+    },
+    { "position": 803, "foreign": "net", "english": "sharp", "code": "FR" },
+    { "position": 804, "foreign": "aile", "english": "wing", "code": "FR" },
+    {
+        "position": 805,
+        "foreign": "créer",
+        "english": "create",
+        "code": "FR"
+    },
+    {
+        "position": 806,
+        "foreign": "voisin",
+        "english": "neighbor",
+        "code": "FR"
+    },
+    {
+        "position": 807,
+        "foreign": "lavage",
+        "english": "wash",
+        "code": "FR"
+    },
+    {
+        "position": 808,
+        "foreign": "chauve-souris",
+        "english": "bat",
+        "code": "FR"
+    },
+    {
+        "position": 809,
+        "foreign": "plutôt",
+        "english": "rather",
+        "code": "FR"
+    },
+    {
+        "position": 810,
+        "foreign": "foule",
+        "english": "crowd",
+        "code": "FR"
+    },
+    { "position": 811, "foreign": "blé", "english": "corn", "code": "FR" },
+    {
+        "position": 812,
+        "foreign": "comparer",
+        "english": "compare",
+        "code": "FR"
+    },
+    {
+        "position": 813,
+        "foreign": "poème",
+        "english": "poem",
+        "code": "FR"
+    },
+    {
+        "position": 814,
+        "foreign": "chaîne",
+        "english": "string",
+        "code": "FR"
+    },
+    {
+        "position": 815,
+        "foreign": "cloche",
+        "english": "bell",
+        "code": "FR"
+    },
+    {
+        "position": 816,
+        "foreign": "dépendre",
+        "english": "depend",
+        "code": "FR"
+    },
+    {
+        "position": 817,
+        "foreign": "viande",
+        "english": "meat",
+        "code": "FR"
+    },
+    { "position": 818, "foreign": "rub", "english": "rub", "code": "FR" },
+    { "position": 819, "foreign": "tube", "english": "tube", "code": "FR" },
+    {
+        "position": 820,
+        "foreign": "célèbre",
+        "english": "famous",
+        "code": "FR"
+    },
+    {
+        "position": 921,
+        "foreign": "dollar",
+        "english": "dollar",
+        "code": "FR"
+    },
+    {
+        "position": 822,
+        "foreign": "courant",
+        "english": "stream",
+        "code": "FR"
+    },
+    { "position": 823, "foreign": "peur", "english": "fear", "code": "FR" },
+    { "position": 284, "foreign": "vue", "english": "sight", "code": "FR" },
+    {
+        "position": 825,
+        "foreign": "mince",
+        "english": "thin",
+        "code": "FR"
+    },
+    {
+        "position": 826,
+        "foreign": "triangle",
+        "english": "triangle",
+        "code": "FR"
+    },
+    {
+        "position": 827,
+        "foreign": "planète",
+        "english": "planet",
+        "code": "FR"
+    },
+    {
+        "position": 828,
+        "foreign": "se dépêcher",
+        "english": "hurry",
+        "code": "FR"
+    },
+    {
+        "position": 829,
+        "foreign": "chef",
+        "english": "chief",
+        "code": "FR"
+    },
+    {
+        "position": 830,
+        "foreign": "colonie",
+        "english": "colony",
+        "code": "FR"
+    },
+    {
+        "position": 831,
+        "foreign": "horloge",
+        "english": "clock",
+        "code": "FR"
+    },
+    { "position": 832, "foreign": "mine", "english": "mine", "code": "FR" },
+    { "position": 833, "foreign": "lien", "english": "tie", "code": "FR" },
+    {
+        "position": 834,
+        "foreign": "entrer",
+        "english": "enter",
+        "code": "FR"
+    },
+    {
+        "position": 835,
+        "foreign": "majeur",
+        "english": "major",
+        "code": "FR"
+    },
+    {
+        "position": 836,
+        "foreign": "frais",
+        "english": "fresh",
+        "code": "FR"
+    },
+    {
+        "position": 837,
+        "foreign": "recherche",
+        "english": "search",
+        "code": "FR"
+    },
+    {
+        "position": 838,
+        "foreign": "envoyer",
+        "english": "send",
+        "code": "FR"
+    },
+    {
+        "position": 839,
+        "foreign": "jaune",
+        "english": "yellow",
+        "code": "FR"
+    },
+    {
+        "position": 840,
+        "foreign": "pistolet",
+        "english": "gun",
+        "code": "FR"
+    },
+    {
+        "position": 841,
+        "foreign": "permettre",
+        "english": "allow",
+        "code": "FR"
+    },
+    {
+        "position": 842,
+        "foreign": "impression",
+        "english": "print",
+        "code": "FR"
+    },
+    { "position": 843, "foreign": "mort", "english": "dead", "code": "FR" },
+    {
+        "position": 844,
+        "foreign": "place",
+        "english": "spot",
+        "code": "FR"
+    },
+    {
+        "position": 845,
+        "foreign": "désert",
+        "english": "desert",
+        "code": "FR"
+    },
+    {
+        "position": 846,
+        "foreign": "costume",
+        "english": "suit",
+        "code": "FR"
+    },
+    {
+        "position": 847,
+        "foreign": "courant",
+        "english": "current",
+        "code": "FR"
+    },
+    {
+        "position": 848,
+        "foreign": "ascenseur",
+        "english": "lift",
+        "code": "FR"
+    },
+    { "position": 840, "foreign": "rose", "english": "rose", "code": "FR" },
+    {
+        "position": 850,
+        "foreign": "arriver",
+        "english": "arrive",
+        "code": "FR"
+    },
+    {
+        "position": 851,
+        "foreign": "maître",
+        "english": "master",
+        "code": "FR"
+    },
+    {
+        "position": 852,
+        "foreign": "piste",
+        "english": "track",
+        "code": "FR"
+    },
+    {
+        "position": 853,
+        "foreign": "mère",
+        "english": "parent",
+        "code": "FR"
+    },
+    {
+        "position": 854,
+        "foreign": "rivage",
+        "english": "shore",
+        "code": "FR"
+    },
+    {
+        "position": 855,
+        "foreign": "division",
+        "english": "division",
+        "code": "FR"
+    },
+    {
+        "position": 856,
+        "foreign": "feuille",
+        "english": "sheet",
+        "code": "FR"
+    },
+    {
+        "position": 857,
+        "foreign": "substance",
+        "english": "substance",
+        "code": "FR"
+    },
+    {
+        "position": 858,
+        "foreign": "favoriser",
+        "english": "favor",
+        "code": "FR"
+    },
+    {
+        "position": 859,
+        "foreign": "relier",
+        "english": "connect",
+        "code": "FR"
+    },
+    {
+        "position": 860,
+        "foreign": "poste",
+        "english": "post",
+        "code": "FR"
+    },
+    {
+        "position": 861,
+        "foreign": "passer",
+        "english": "spend",
+        "code": "FR"
+    },
+    {
+        "position": 862,
+        "foreign": "corde",
+        "english": "chord",
+        "code": "FR"
+    },
+    {
+        "position": 863,
+        "foreign": "graisse",
+        "english": "fat",
+        "code": "FR"
+    },
+    {
+        "position": 864,
+        "foreign": "heureux",
+        "english": "glad",
+        "code": "FR"
+    },
+    {
+        "position": 865,
+        "foreign": "original",
+        "english": "original",
+        "code": "FR"
+    },
+    {
+        "position": 866,
+        "foreign": "part",
+        "english": "share",
+        "code": "FR"
+    },
+    {
+        "position": 867,
+        "foreign": "station",
+        "english": "station",
+        "code": "FR"
+    },
+    { "position": 868, "foreign": "papa", "english": "dad", "code": "FR" },
+    {
+        "position": 869,
+        "foreign": "pain",
+        "english": "bread",
+        "code": "FR"
+    },
+    {
+        "position": 870,
+        "foreign": "charger",
+        "english": "charge",
+        "code": "FR"
+    },
+    {
+        "position": 871,
+        "foreign": "propre",
+        "english": "proper",
+        "code": "FR"
+    },
+    { "position": 872, "foreign": "bar", "english": "bar", "code": "FR" },
+    {
+        "position": 873,
+        "foreign": "proposition",
+        "english": "offer",
+        "code": "FR"
+    },
+    {
+        "position": 874,
+        "foreign": "segment",
+        "english": "segment",
+        "code": "FR"
+    },
+    {
+        "position": 875,
+        "foreign": "esclave",
+        "english": "slave",
+        "code": "FR"
+    },
+    {
+        "position": 876,
+        "foreign": "canard",
+        "english": "duck",
+        "code": "FR"
+    },
+    {
+        "position": 877,
+        "foreign": "instant",
+        "english": "instant",
+        "code": "FR"
+    },
+    {
+        "position": 878,
+        "foreign": "marché",
+        "english": "market",
+        "code": "FR"
+    },
+    {
+        "position": 879,
+        "foreign": "degré",
+        "english": "degree",
+        "code": "FR"
+    },
+    {
+        "position": 880,
+        "foreign": "peupler",
+        "english": "populate",
+        "code": "FR"
+    },
+    {
+        "position": 881,
+        "foreign": "poussin",
+        "english": "chick",
+        "code": "FR"
+    },
+    { "position": 882, "foreign": "cher", "english": "dear", "code": "FR" },
+    {
+        "position": 883,
+        "foreign": "ennemi",
+        "english": "enemy",
+        "code": "FR"
+    },
+    {
+        "position": 884,
+        "foreign": "répondre",
+        "english": "reply",
+        "code": "FR"
+    },
+    {
+        "position": 885,
+        "foreign": "boisson",
+        "english": "drink",
+        "code": "FR"
+    },
+    {
+        "position": 886,
+        "foreign": "se produire",
+        "english": "occur",
+        "code": "FR"
+    },
+    {
+        "position": 887,
+        "foreign": "support",
+        "english": "support",
+        "code": "FR"
+    },
+    {
+        "position": 888,
+        "foreign": "discours",
+        "english": "speech",
+        "code": "FR"
+    },
+    {
+        "position": 889,
+        "foreign": "nature",
+        "english": "nature",
+        "code": "FR"
+    },
+    {
+        "position": 890,
+        "foreign": "gamme",
+        "english": "range",
+        "code": "FR"
+    },
+    {
+        "position": 891,
+        "foreign": "vapeur",
+        "english": "steam",
+        "code": "FR"
+    },
+    {
+        "position": 892,
+        "foreign": "mouvement",
+        "english": "motion",
+        "code": "FR"
+    },
+    {
+        "position": 893,
+        "foreign": "chemin",
+        "english": "path",
+        "code": "FR"
+    },
+    {
+        "position": 894,
+        "foreign": "liquide",
+        "english": "liquid",
+        "code": "FR"
+    },
+    {
+        "position": 895,
+        "foreign": "enregistrer",
+        "english": "log",
+        "code": "FR"
+    },
+    {
+        "position": 896,
+        "foreign": "signifiait",
+        "english": "meant",
+        "code": "FR"
+    },
+    {
+        "position": 897,
+        "foreign": "quotient",
+        "english": "quotient",
+        "code": "FR"
+    },
+    {
+        "position": 898,
+        "foreign": "dents",
+        "english": "teeth",
+        "code": "FR"
+    },
+    {
+        "position": 899,
+        "foreign": "coquille",
+        "english": "shell",
+        "code": "FR"
+    },
+    { "position": 900, "foreign": "cou", "english": "neck", "code": "FR" },
+    {
+        "position": 901,
+        "foreign": "oxygène",
+        "english": "oxygen",
+        "code": "FR"
+    },
+    {
+        "position": 902,
+        "foreign": "sucre",
+        "english": "sugar",
+        "code": "FR"
+    },
+    {
+        "position": 903,
+        "foreign": "décès",
+        "english": "death",
+        "code": "FR"
+    },
+    {
+        "position": 904,
+        "foreign": "assez",
+        "english": "pretty",
+        "code": "FR"
+    },
+    {
+        "position": 905,
+        "foreign": "compétence",
+        "english": "skill",
+        "code": "FR"
+    },
+    {
+        "position": 906,
+        "foreign": "femmes",
+        "english": "women",
+        "code": "FR"
+    },
+    {
+        "position": 907,
+        "foreign": "saison",
+        "english": "season",
+        "code": "FR"
+    },
+    {
+        "position": 908,
+        "foreign": "solution",
+        "english": "solution",
+        "code": "FR"
+    },
+    {
+        "position": 909,
+        "foreign": "aimant",
+        "english": "magnet",
+        "code": "FR"
+    },
+    {
+        "position": 910,
+        "foreign": "argent",
+        "english": "silver",
+        "code": "FR"
+    },
+    {
+        "position": 911,
+        "foreign": "merci",
+        "english": "thank",
+        "code": "FR"
+    },
+    {
+        "position": 912,
+        "foreign": "branche",
+        "english": "branch",
+        "code": "FR"
+    },
+    {
+        "position": 913,
+        "foreign": "rencontre",
+        "english": "match",
+        "code": "FR"
+    },
+    {
+        "position": 914,
+        "foreign": "suffixe",
+        "english": "suffix",
+        "code": "FR"
+    },
+    {
+        "position": 915,
+        "foreign": "particulièrement",
+        "english": "especially",
+        "code": "FR"
+    },
+    { "position": 916, "foreign": "figue", "english": "fig", "code": "FR" },
+    {
+        "position": 917,
+        "foreign": "peur",
+        "english": "afraid",
+        "code": "FR"
+    },
+    {
+        "position": 918,
+        "foreign": "énorme",
+        "english": "huge",
+        "code": "FR"
+    },
+    {
+        "position": 919,
+        "foreign": "sœur",
+        "english": "sister",
+        "code": "FR"
+    },
+    {
+        "position": 920,
+        "foreign": "acier",
+        "english": "steel",
+        "code": "FR"
+    },
+    {
+        "position": 921,
+        "foreign": "discuter",
+        "english": "discuss",
+        "code": "FR"
+    },
+    {
+        "position": 922,
+        "foreign": "avant",
+        "english": "forward",
+        "code": "FR"
+    },
+    {
+        "position": 923,
+        "foreign": "similaire",
+        "english": "similar",
+        "code": "FR"
+    },
+    {
+        "position": 924,
+        "foreign": "guider",
+        "english": "guide",
+        "code": "FR"
+    },
+    {
+        "position": 925,
+        "foreign": "expérience",
+        "english": "experience",
+        "code": "FR"
+    },
+    {
+        "position": 926,
+        "foreign": "score",
+        "english": "score",
+        "code": "FR"
+    },
+    {
+        "position": 927,
+        "foreign": "pomme",
+        "english": "apple",
+        "code": "FR"
+    },
+    {
+        "position": 928,
+        "foreign": "acheté",
+        "english": "bought",
+        "code": "FR"
+    },
+    { "position": 929, "foreign": "LED", "english": "led", "code": "FR" },
+    { "position": 930, "foreign": "pas", "english": "pitch", "code": "FR" },
+    {
+        "position": 931,
+        "foreign": "manteau",
+        "english": "coat",
+        "code": "FR"
+    },
+    {
+        "position": 932,
+        "foreign": "masse",
+        "english": "mass",
+        "code": "FR"
+    },
+    {
+        "position": 933,
+        "foreign": "carte",
+        "english": "card",
+        "code": "FR"
+    },
+    {
+        "position": 934,
+        "foreign": "bande",
+        "english": "band",
+        "code": "FR"
+    },
+    {
+        "position": 935,
+        "foreign": "corde",
+        "english": "rope",
+        "code": "FR"
+    },
+    {
+        "position": 936,
+        "foreign": "glissement",
+        "english": "slip",
+        "code": "FR"
+    },
+    {
+        "position": 937,
+        "foreign": "gagner",
+        "english": "win",
+        "code": "FR"
+    },
+    {
+        "position": 938,
+        "foreign": "rêver",
+        "english": "dream",
+        "code": "FR"
+    },
+    {
+        "position": 939,
+        "foreign": "soirée",
+        "english": "evening",
+        "code": "FR"
+    },
+    {
+        "position": 940,
+        "foreign": "condition",
+        "english": "condition",
+        "code": "FR"
+    },
+    {
+        "position": 941,
+        "foreign": "alimentation",
+        "english": "feed",
+        "code": "FR"
+    },
+    {
+        "position": 942,
+        "foreign": "outil",
+        "english": "tool",
+        "code": "FR"
+    },
+    {
+        "position": 943,
+        "foreign": "total",
+        "english": "total",
+        "code": "FR"
+    },
+    {
+        "position": 944,
+        "foreign": "de base",
+        "english": "basic",
+        "code": "FR"
+    },
+    {
+        "position": 945,
+        "foreign": "odeur",
+        "english": "smell",
+        "code": "FR"
+    },
+    {
+        "position": 946,
+        "foreign": "vallée",
+        "english": "valley",
+        "code": "FR"
+    },
+    { "position": 947, "foreign": "ni", "english": "nor", "code": "FR" },
+    {
+        "position": 948,
+        "foreign": "double",
+        "english": "double",
+        "code": "FR"
+    },
+    {
+        "position": 949,
+        "foreign": "siège",
+        "english": "seat",
+        "code": "FR"
+    },
+    {
+        "position": 950,
+        "foreign": "continuer",
+        "english": "continue",
+        "code": "FR"
+    },
+    {
+        "position": 951,
+        "foreign": "bloc",
+        "english": "block",
+        "code": "FR"
+    },
+    {
+        "position": 952,
+        "foreign": "graphique",
+        "english": "chart",
+        "code": "FR"
+    },
+    {
+        "position": 953,
+        "foreign": "chapeau",
+        "english": "hat",
+        "code": "FR"
+    },
+    {
+        "position": 954,
+        "foreign": "vendre",
+        "english": "sell",
+        "code": "FR"
+    },
+    {
+        "position": 955,
+        "foreign": "succès",
+        "english": "success",
+        "code": "FR"
+    },
+    {
+        "position": 956,
+        "foreign": "entreprise",
+        "english": "company",
+        "code": "FR"
+    },
+    {
+        "position": 957,
+        "foreign": "soustraire",
+        "english": "subtract",
+        "code": "FR"
+    },
+    {
+        "position": 958,
+        "foreign": "événement",
+        "english": "event",
+        "code": "FR"
+    },
+    {
+        "position": 959,
+        "foreign": "particulier",
+        "english": "particular",
+        "code": "FR"
+    },
+    {
+        "position": 960,
+        "foreign": "accord",
+        "english": "deal",
+        "code": "FR"
+    },
+    {
+        "position": 961,
+        "foreign": "baignade",
+        "english": "swim",
+        "code": "FR"
+    },
+    {
+        "position": 962,
+        "foreign": "terme",
+        "english": "term",
+        "code": "FR"
+    },
+    {
+        "position": 963,
+        "foreign": "opposé",
+        "english": "opposite",
+        "code": "FR"
+    },
+    {
+        "position": 964,
+        "foreign": "femme",
+        "english": "wife",
+        "code": "FR"
+    },
+    {
+        "position": 965,
+        "foreign": "chaussure",
+        "english": "shoe",
+        "code": "FR"
+    },
+    {
+        "position": 966,
+        "foreign": "épaule",
+        "english": "shoulder",
+        "code": "FR"
+    },
+    {
+        "position": 967,
+        "foreign": "propagation",
+        "english": "spread",
+        "code": "FR"
+    },
+    {
+        "position": 968,
+        "foreign": "organiser",
+        "english": "arrange",
+        "code": "FR"
+    },
+    { "position": 969, "foreign": "camp", "english": "camp", "code": "FR" },
+    {
+        "position": 970,
+        "foreign": "inventer",
+        "english": "invent",
+        "code": "FR"
+    },
+    {
+        "position": 971,
+        "foreign": "coton",
+        "english": "cotton",
+        "code": "FR"
+    },
+    { "position": 972, "foreign": "né", "english": "born", "code": "FR" },
+    {
+        "position": 973,
+        "foreign": "déterminer",
+        "english": "determine",
+        "code": "FR"
+    },
+    {
+        "position": 974,
+        "foreign": "litre",
+        "english": "quart",
+        "code": "FR"
+    },
+    { "position": 975, "foreign": "neuf", "english": "nine", "code": "FR" },
+    {
+        "position": 976,
+        "foreign": "camion",
+        "english": "truck",
+        "code": "FR"
+    },
+    {
+        "position": 977,
+        "foreign": "bruit",
+        "english": "noise",
+        "code": "FR"
+    },
+    {
+        "position": 978,
+        "foreign": "niveau",
+        "english": "level",
+        "code": "FR"
+    },
+    {
+        "position": 979,
+        "foreign": "chance",
+        "english": "chance",
+        "code": "FR"
+    },
+    {
+        "position": 980,
+        "foreign": "recueillir",
+        "english": "gather",
+        "code": "FR"
+    },
+    {
+        "position": 981,
+        "foreign": "boutique",
+        "english": "shop",
+        "code": "FR"
+    },
+    {
+        "position": 982,
+        "foreign": "tronçon",
+        "english": "stretch",
+        "code": "FR"
+    },
+    {
+        "position": 983,
+        "foreign": "jeter",
+        "english": "throw",
+        "code": "FR"
+    },
+    {
+        "position": 984,
+        "foreign": "éclat",
+        "english": "shine",
+        "code": "FR"
+    },
+    {
+        "position": 985,
+        "foreign": "propriété",
+        "english": "property",
+        "code": "FR"
+    },
+    {
+        "position": 986,
+        "foreign": "colonne",
+        "english": "column",
+        "code": "FR"
+    },
+    {
+        "position": 987,
+        "foreign": "molécule",
+        "english": "molecule",
+        "code": "FR"
+    },
+    {
+        "position": 988,
+        "foreign": "sélectionner",
+        "english": "select",
+        "code": "FR"
+    },
+    { "position": 989, "foreign": "mal", "english": "wrong", "code": "FR" },
+    { "position": 990, "foreign": "gris", "english": "gray", "code": "FR" },
+    {
+        "position": 991,
+        "foreign": "répétition",
+        "english": "repeat",
+        "code": "FR"
+    },
+    {
+        "position": 992,
+        "foreign": "exiger",
+        "english": "require",
+        "code": "FR"
+    },
+    {
+        "position": 993,
+        "foreign": "large",
+        "english": "broad",
+        "code": "FR"
+    },
+    {
+        "position": 994,
+        "foreign": "préparer",
+        "english": "prepare",
+        "code": "FR"
+    },
+    { "position": 995, "foreign": "sel", "english": "salt", "code": "FR" },
+    { "position": 996, "foreign": "nez", "english": "nose", "code": "FR" },
+    {
+        "position": 997,
+        "foreign": "pluriel",
+        "english": "plural",
+        "code": "FR"
+    },
+    {
+        "position": 998,
+        "foreign": "colère",
+        "english": "anger",
+        "code": "FR"
+    },
+    {
+        "position": 999,
+        "foreign": "revendication",
+        "english": "claim",
+        "code": "FR"
+    },
+    {
+        "position": 1000,
+        "foreign": "continent…",
+        "english": "continent",
+        "code": "FR"
+    }
+]

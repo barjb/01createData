@@ -1,0 +1,2817 @@
+[
+    { "position": 1, "foreign": "como", "english": "as", "code": "SPA" },
+    { "position": 2, "foreign": "I", "english": "I", "code": "SPA" },
+    { "position": 3, "foreign": "su", "english": "his", "code": "SPA" },
+    { "position": 4, "foreign": "que", "english": "that", "code": "SPA" },
+    { "position": 5, "foreign": "él", "english": "he", "code": "SPA" },
+    { "position": 6, "foreign": "era", "english": "was", "code": "SPA" },
+    { "position": 7, "foreign": "para", "english": "for", "code": "SPA" },
+    { "position": 8, "foreign": "en", "english": "on", "code": "SPA" },
+    { "position": 9, "foreign": "son", "english": "are", "code": "SPA" },
+    { "position": 10, "foreign": "con", "english": "with", "code": "SPA" },
+    { "position": 11, "foreign": "ellos", "english": "they", "code": "SPA" },
+    { "position": 12, "foreign": "ser", "english": "be", "code": "SPA" },
+    { "position": 13, "foreign": "en", "english": "at", "code": "SPA" },
+    { "position": 14, "foreign": "uno", "english": "one", "code": "SPA" },
+    { "position": 15, "foreign": "tener", "english": "have", "code": "SPA" },
+    { "position": 16, "foreign": "este", "english": "this", "code": "SPA" },
+    { "position": 17, "foreign": "desde", "english": "from", "code": "SPA" },
+    { "position": 18, "foreign": "por", "english": "by", "code": "SPA" },
+    { "position": 19, "foreign": "caliente", "english": "hot", "code": "SPA" },
+    { "position": 20, "foreign": "palabra", "english": "word", "code": "SPA" },
+    { "position": 21, "foreign": "pero", "english": "but", "code": "SPA" },
+    { "position": 22, "foreign": "qué", "english": "what", "code": "SPA" },
+    { "position": 23, "foreign": "algunos", "english": "some", "code": "SPA" },
+    { "position": 24, "foreign": "es", "english": "is", "code": "SPA" },
+    { "position": 25, "foreign": "lo", "english": "it", "code": "SPA" },
+    { "position": 26, "foreign": "usted", "english": "you", "code": "SPA" },
+    { "position": 27, "foreign": "o", "english": "or", "code": "SPA" },
+    { "position": 28, "foreign": "tenido", "english": "had", "code": "SPA" },
+    { "position": 29, "foreign": "la", "english": "the", "code": "SPA" },
+    { "position": 30, "foreign": "de", "english": "of", "code": "SPA" },
+    { "position": 31, "foreign": "a", "english": "to", "code": "SPA" },
+    { "position": 32, "foreign": "y", "english": "and", "code": "SPA" },
+    { "position": 33, "foreign": "un", "english": "a", "code": "SPA" },
+    { "position": 34, "foreign": "en", "english": "in", "code": "SPA" },
+    { "position": 35, "foreign": "nos", "english": "we", "code": "SPA" },
+    { "position": 36, "foreign": "lata", "english": "can", "code": "SPA" },
+    { "position": 37, "foreign": "fuera", "english": "out", "code": "SPA" },
+    { "position": 38, "foreign": "otros", "english": "other", "code": "SPA" },
+    { "position": 39, "foreign": "eran", "english": "were", "code": "SPA" },
+    { "position": 40, "foreign": "que", "english": "which", "code": "SPA" },
+    { "position": 41, "foreign": "hacer", "english": "do", "code": "SPA" },
+    { "position": 42, "foreign": "su", "english": "their", "code": "SPA" },
+    { "position": 43, "foreign": "tiempo", "english": "time", "code": "SPA" },
+    { "position": 44, "foreign": "si", "english": "if", "code": "SPA" },
+    { "position": 45, "foreign": "lo hará", "english": "will", "code": "SPA" },
+    { "position": 46, "foreign": "cómo", "english": "how", "code": "SPA" },
+    { "position": 47, "foreign": "dicho", "english": "said", "code": "SPA" },
+    { "position": 48, "foreign": "un", "english": "an", "code": "SPA" },
+    { "position": 49, "foreign": "cada", "english": "each", "code": "SPA" },
+    { "position": 50, "foreign": "decir", "english": "tell", "code": "SPA" },
+    { "position": 51, "foreign": "hace", "english": "does", "code": "SPA" },
+    { "position": 52, "foreign": "conjunto", "english": "set", "code": "SPA" },
+    { "position": 53, "foreign": "tres", "english": "three", "code": "SPA" },
+    { "position": 54, "foreign": "querer", "english": "want", "code": "SPA" },
+    { "position": 55, "foreign": "aire", "english": "air", "code": "SPA" },
+    { "position": 56, "foreign": "así", "english": "well", "code": "SPA" },
+    { "position": 57, "foreign": "también", "english": "also", "code": "SPA" },
+    { "position": 58, "foreign": "jugar", "english": "play", "code": "SPA" },
+    { "position": 59, "foreign": "pequeño", "english": "small", "code": "SPA" },
+    { "position": 60, "foreign": "fin", "english": "end", "code": "SPA" },
+    { "position": 61, "foreign": "poner", "english": "put", "code": "SPA" },
+    { "position": 62, "foreign": "casa", "english": "home", "code": "SPA" },
+    { "position": 63, "foreign": "leer", "english": "read", "code": "SPA" },
+    { "position": 64, "foreign": "mano", "english": "hand", "code": "SPA" },
+    { "position": 65, "foreign": "puerto", "english": "port", "code": "SPA" },
+    { "position": 66, "foreign": "grande", "english": "large", "code": "SPA" },
+    {
+        "position": 67,
+        "foreign": "deletrear",
+        "english": "spell",
+        "code": "SPA"
+    },
+    { "position": 68, "foreign": "añadir", "english": "add", "code": "SPA" },
+    { "position": 69, "foreign": "incluso", "english": "even", "code": "SPA" },
+    { "position": 70, "foreign": "tierra", "english": "land", "code": "SPA" },
+    { "position": 71, "foreign": "aquí", "english": "here", "code": "SPA" },
+    { "position": 72, "foreign": "debe", "english": "must", "code": "SPA" },
+    { "position": 73, "foreign": "grande", "english": "big", "code": "SPA" },
+    { "position": 74, "foreign": "alto", "english": "high", "code": "SPA" },
+    { "position": 75, "foreign": "tal", "english": "such", "code": "SPA" },
+    { "position": 76, "foreign": "siga", "english": "follow", "code": "SPA" },
+    { "position": 77, "foreign": "acto", "english": "act", "code": "SPA" },
+    { "position": 78, "foreign": "por qué", "english": "why", "code": "SPA" },
+    { "position": 79, "foreign": "preguntar", "english": "ask", "code": "SPA" },
+    { "position": 80, "foreign": "hombres", "english": "men", "code": "SPA" },
+    { "position": 81, "foreign": "cambio", "english": "change", "code": "SPA" },
+    { "position": 82, "foreign": "se fue", "english": "went", "code": "SPA" },
+    { "position": 83, "foreign": "luz", "english": "light", "code": "SPA" },
+    { "position": 84, "foreign": "tipo", "english": "kind", "code": "SPA" },
+    { "position": 85, "foreign": "fuera", "english": "off", "code": "SPA" },
+    {
+        "position": 86,
+        "foreign": "necesitará",
+        "english": "need",
+        "code": "SPA"
+    },
+    { "position": 87, "foreign": "casa", "english": "house", "code": "SPA" },
+    {
+        "position": 88,
+        "foreign": "imagen",
+        "english": "picture",
+        "code": "SPA"
+    },
+    { "position": 89, "foreign": "tratar", "english": "try", "code": "SPA" },
+    { "position": 90, "foreign": "nosotros", "english": "us", "code": "SPA" },
+    {
+        "position": 91,
+        "foreign": "de nuevo",
+        "english": "again",
+        "code": "SPA"
+    },
+    { "position": 92, "foreign": "animal", "english": "animal", "code": "SPA" },
+    { "position": 93, "foreign": "punto", "english": "point", "code": "SPA" },
+    { "position": 94, "foreign": "madre", "english": "mother", "code": "SPA" },
+    { "position": 95, "foreign": "mundo", "english": "world", "code": "SPA" },
+    { "position": 96, "foreign": "cerca", "english": "near", "code": "SPA" },
+    {
+        "position": 97,
+        "foreign": "construir",
+        "english": "build",
+        "code": "SPA"
+    },
+    { "position": 98, "foreign": "auto", "english": "self", "code": "SPA" },
+    { "position": 99, "foreign": "tierra", "english": "earth", "code": "SPA" },
+    { "position": 100, "foreign": "padre", "english": "father", "code": "SPA" },
+    {
+        "position": 101,
+        "foreign": "cualquier",
+        "english": "any",
+        "code": "SPA"
+    },
+    { "position": 102, "foreign": "nuevo", "english": "new", "code": "SPA" },
+    { "position": 103, "foreign": "trabajo", "english": "work", "code": "SPA" },
+    { "position": 104, "foreign": "parte", "english": "part", "code": "SPA" },
+    { "position": 105, "foreign": "tomar", "english": "take", "code": "SPA" },
+    {
+        "position": 106,
+        "foreign": "conseguir",
+        "english": "get",
+        "code": "SPA"
+    },
+    { "position": 107, "foreign": "lugar", "english": "place", "code": "SPA" },
+    { "position": 108, "foreign": "hecho", "english": "made", "code": "SPA" },
+    { "position": 109, "foreign": "vivir", "english": "live", "code": "SPA" },
+    { "position": 110, "foreign": "donde", "english": "where", "code": "SPA" },
+    {
+        "position": 111,
+        "foreign": "después",
+        "english": "after",
+        "code": "SPA"
+    },
+    { "position": 112, "foreign": "espalda", "english": "back", "code": "SPA" },
+    { "position": 113, "foreign": "poco", "english": "little", "code": "SPA" },
+    { "position": 114, "foreign": "sólo", "english": "only", "code": "SPA" },
+    { "position": 115, "foreign": "ronda", "english": "round", "code": "SPA" },
+    { "position": 116, "foreign": "hombre", "english": "man", "code": "SPA" },
+    { "position": 117, "foreign": "años", "english": "year", "code": "SPA" },
+    { "position": 118, "foreign": "vino", "english": "came", "code": "SPA" },
+    { "position": 119, "foreign": "show", "english": "show", "code": "SPA" },
+    { "position": 120, "foreign": "cada", "english": "every", "code": "SPA" },
+    { "position": 121, "foreign": "buena", "english": "good", "code": "SPA" },
+    { "position": 122, "foreign": "me", "english": "me", "code": "SPA" },
+    { "position": 123, "foreign": "dar", "english": "give", "code": "SPA" },
+    { "position": 124, "foreign": "nuestro", "english": "our", "code": "SPA" },
+    { "position": 125, "foreign": "bajo", "english": "under", "code": "SPA" },
+    { "position": 126, "foreign": "nombre", "english": "name", "code": "SPA" },
+    { "position": 127, "foreign": "muy", "english": "very", "code": "SPA" },
+    {
+        "position": 128,
+        "foreign": "a través de",
+        "english": "through",
+        "code": "SPA"
+    },
+    { "position": 129, "foreign": "sólo", "english": "just", "code": "SPA" },
+    { "position": 130, "foreign": "forma", "english": "form", "code": "SPA" },
+    {
+        "position": 131,
+        "foreign": "frase",
+        "english": "sentence",
+        "code": "SPA"
+    },
+    { "position": 132, "foreign": "gran", "english": "great", "code": "SPA" },
+    { "position": 133, "foreign": "pensar", "english": "think", "code": "SPA" },
+    { "position": 134, "foreign": "decir", "english": "say", "code": "SPA" },
+    { "position": 135, "foreign": "ayudar", "english": "help", "code": "SPA" },
+    { "position": 136, "foreign": "bajo", "english": "low", "code": "SPA" },
+    { "position": 137, "foreign": "línea", "english": "line", "code": "SPA" },
+    {
+        "position": 138,
+        "foreign": "ser distinto",
+        "english": "differ",
+        "code": "SPA"
+    },
+    {
+        "position": 139,
+        "foreign": "a su vez,",
+        "english": "turn",
+        "code": "SPA"
+    },
+    { "position": 140, "foreign": "causa", "english": "cause", "code": "SPA" },
+    { "position": 141, "foreign": "mucho", "english": "much", "code": "SPA" },
+    {
+        "position": 142,
+        "foreign": "significará",
+        "english": "mean",
+        "code": "SPA"
+    },
+    { "position": 143, "foreign": "antes", "english": "before", "code": "SPA" },
+    {
+        "position": 144,
+        "foreign": "movimiento",
+        "english": "move",
+        "code": "SPA"
+    },
+    {
+        "position": 145,
+        "foreign": "derecho",
+        "english": "right",
+        "code": "SPA"
+    },
+    { "position": 146, "foreign": "niño", "english": "boy", "code": "SPA" },
+    { "position": 147, "foreign": "viejo", "english": "old", "code": "SPA" },
+    {
+        "position": 148,
+        "foreign": "demasiado",
+        "english": "too",
+        "code": "SPA"
+    },
+    { "position": 149, "foreign": "misma", "english": "same", "code": "SPA" },
+    { "position": 150, "foreign": "ella", "english": "she", "code": "SPA" },
+    { "position": 151, "foreign": "todo", "english": "all", "code": "SPA" },
+    { "position": 152, "foreign": "hay", "english": "there", "code": "SPA" },
+    { "position": 153, "foreign": "cuando", "english": "when", "code": "SPA" },
+    { "position": 154, "foreign": "hasta", "english": "up", "code": "SPA" },
+    { "position": 155, "foreign": "uso", "english": "use", "code": "SPA" },
+    { "position": 156, "foreign": "su", "english": "your", "code": "SPA" },
+    { "position": 157, "foreign": "camino", "english": "way", "code": "SPA" },
+    { "position": 158, "foreign": "acerca", "english": "about", "code": "SPA" },
+    { "position": 159, "foreign": "muchos", "english": "many", "code": "SPA" },
+    {
+        "position": 160,
+        "foreign": "entonces",
+        "english": "then",
+        "code": "SPA"
+    },
+    { "position": 161, "foreign": "ellos", "english": "them", "code": "SPA" },
+    {
+        "position": 162,
+        "foreign": "escribir",
+        "english": "write",
+        "code": "SPA"
+    },
+    { "position": 163, "foreign": "haría", "english": "would", "code": "SPA" },
+    { "position": 164, "foreign": "como", "english": "like", "code": "SPA" },
+    { "position": 165, "foreign": "así", "english": "so", "code": "SPA" },
+    { "position": 166, "foreign": "éstos", "english": "these", "code": "SPA" },
+    { "position": 167, "foreign": "su", "english": "her", "code": "SPA" },
+    { "position": 168, "foreign": "largo", "english": "long", "code": "SPA" },
+    { "position": 169, "foreign": "hacer", "english": "make", "code": "SPA" },
+    { "position": 170, "foreign": "cosa", "english": "thing", "code": "SPA" },
+    { "position": 171, "foreign": "ver", "english": "see", "code": "SPA" },
+    { "position": 172, "foreign": "él", "english": "him", "code": "SPA" },
+    { "position": 173, "foreign": "dos", "english": "two", "code": "SPA" },
+    { "position": 174, "foreign": "tiene", "english": "has", "code": "SPA" },
+    { "position": 175, "foreign": "buscar", "english": "look", "code": "SPA" },
+    { "position": 176, "foreign": "más", "english": "more", "code": "SPA" },
+    { "position": 177, "foreign": "día", "english": "day", "code": "SPA" },
+    { "position": 178, "foreign": "podía", "english": "could", "code": "SPA" },
+    { "position": 179, "foreign": "ir", "english": "go", "code": "SPA" },
+    { "position": 180, "foreign": "venir", "english": "come", "code": "SPA" },
+    { "position": 181, "foreign": "hizo", "english": "did", "code": "SPA" },
+    {
+        "position": 182,
+        "foreign": "número",
+        "english": "number",
+        "code": "SPA"
+    },
+    { "position": 183, "foreign": "sonar", "english": "sound", "code": "SPA" },
+    { "position": 184, "foreign": "no", "english": "no", "code": "SPA" },
+    { "position": 185, "foreign": "más", "english": "most", "code": "SPA" },
+    {
+        "position": 186,
+        "foreign": "personas",
+        "english": "people",
+        "code": "SPA"
+    },
+    { "position": 187, "foreign": "mi", "english": "my", "code": "SPA" },
+    { "position": 188, "foreign": "sobre", "english": "over", "code": "SPA" },
+    { "position": 189, "foreign": "saber", "english": "know", "code": "SPA" },
+    { "position": 190, "foreign": "agua", "english": "water", "code": "SPA" },
+    { "position": 191, "foreign": "que", "english": "than", "code": "SPA" },
+    { "position": 192, "foreign": "llamada", "english": "call", "code": "SPA" },
+    {
+        "position": 193,
+        "foreign": "primero",
+        "english": "first",
+        "code": "SPA"
+    },
+    { "position": 194, "foreign": "que", "english": "who", "code": "SPA" },
+    { "position": 195, "foreign": "puede", "english": "may", "code": "SPA" },
+    { "position": 196, "foreign": "abajo", "english": "down", "code": "SPA" },
+    { "position": 197, "foreign": "lado", "english": "side", "code": "SPA" },
+    { "position": 198, "foreign": "estado", "english": "been", "code": "SPA" },
+    { "position": 199, "foreign": "ahora", "english": "now", "code": "SPA" },
+    {
+        "position": 200,
+        "foreign": "encontrar",
+        "english": "find",
+        "code": "SPA"
+    },
+    { "position": 201, "foreign": "cabeza", "english": "head", "code": "SPA" },
+    { "position": 202, "foreign": "de pie", "english": "stand", "code": "SPA" },
+    { "position": 203, "foreign": "propio", "english": "own", "code": "SPA" },
+    { "position": 204, "foreign": "página", "english": "page", "code": "SPA" },
+    {
+        "position": 205,
+        "foreign": "debería",
+        "english": "should",
+        "code": "SPA"
+    },
+    { "position": 206, "foreign": "país", "english": "country", "code": "SPA" },
+    {
+        "position": 207,
+        "foreign": "encontrado",
+        "english": "found",
+        "code": "SPA"
+    },
+    {
+        "position": 208,
+        "foreign": "respuesta",
+        "english": "answer",
+        "code": "SPA"
+    },
+    {
+        "position": 209,
+        "foreign": "escuela",
+        "english": "school",
+        "code": "SPA"
+    },
+    { "position": 210, "foreign": "crecer", "english": "grow", "code": "SPA" },
+    {
+        "position": 211,
+        "foreign": "estudio",
+        "english": "study",
+        "code": "SPA"
+    },
+    {
+        "position": 212,
+        "foreign": "todavía",
+        "english": "still",
+        "code": "SPA"
+    },
+    {
+        "position": 213,
+        "foreign": "aprender",
+        "english": "learn",
+        "code": "SPA"
+    },
+    { "position": 214, "foreign": "planta", "english": "plant", "code": "SPA" },
+    {
+        "position": 215,
+        "foreign": "cubierta",
+        "english": "cover",
+        "code": "SPA"
+    },
+    {
+        "position": 216,
+        "foreign": "alimentos",
+        "english": "food",
+        "code": "SPA"
+    },
+    { "position": 217, "foreign": "sol", "english": "sun", "code": "SPA" },
+    { "position": 218, "foreign": "cuatro", "english": "four", "code": "SPA" },
+    {
+        "position": 219,
+        "foreign": "entre",
+        "english": "between",
+        "code": "SPA"
+    },
+    { "position": 220, "foreign": "estado", "english": "state", "code": "SPA" },
+    {
+        "position": 221,
+        "foreign": "mantener",
+        "english": "keep",
+        "code": "SPA"
+    },
+    { "position": 222, "foreign": "ojo", "english": "eye", "code": "SPA" },
+    { "position": 223, "foreign": "nunca", "english": "never", "code": "SPA" },
+    { "position": 224, "foreign": "último", "english": "last", "code": "SPA" },
+    { "position": 225, "foreign": "dejar", "english": "let", "code": "SPA" },
+    {
+        "position": 226,
+        "foreign": "pensado",
+        "english": "thought",
+        "code": "SPA"
+    },
+    { "position": 227, "foreign": "ciudad", "english": "city", "code": "SPA" },
+    { "position": 228, "foreign": "árbol", "english": "tree", "code": "SPA" },
+    { "position": 229, "foreign": "cruzar", "english": "cross", "code": "SPA" },
+    { "position": 230, "foreign": "granja", "english": "farm", "code": "SPA" },
+    { "position": 231, "foreign": "duro", "english": "hard", "code": "SPA" },
+    { "position": 232, "foreign": "inicio", "english": "start", "code": "SPA" },
+    { "position": 233, "foreign": "podría", "english": "might", "code": "SPA" },
+    {
+        "position": 234,
+        "foreign": "historia",
+        "english": "story",
+        "code": "SPA"
+    },
+    { "position": 235, "foreign": "sierra", "english": "saw", "code": "SPA" },
+    { "position": 236, "foreign": "ahora", "english": "far", "code": "SPA" },
+    { "position": 237, "foreign": "mar", "english": "sea", "code": "SPA" },
+    { "position": 238, "foreign": "dibujar", "english": "draw", "code": "SPA" },
+    {
+        "position": 239,
+        "foreign": "izquierda",
+        "english": "left",
+        "code": "SPA"
+    },
+    { "position": 240, "foreign": "tarde", "english": "late", "code": "SPA" },
+    { "position": 241, "foreign": "ejecutar", "english": "run", "code": "SPA" },
+    { "position": 242, "foreign": "no", "english": "don’t", "code": "SPA" },
+    {
+        "position": 243,
+        "foreign": "mientras",
+        "english": "while",
+        "code": "SPA"
+    },
+    { "position": 244, "foreign": "prensa", "english": "press", "code": "SPA" },
+    { "position": 245, "foreign": "Cerrar", "english": "close", "code": "SPA" },
+    { "position": 246, "foreign": "noche", "english": "night", "code": "SPA" },
+    { "position": 247, "foreign": "reales", "english": "real", "code": "SPA" },
+    { "position": 248, "foreign": "vida", "english": "life", "code": "SPA" },
+    { "position": 249, "foreign": "pocos", "english": "few", "code": "SPA" },
+    { "position": 250, "foreign": "norte", "english": "north", "code": "SPA" },
+    { "position": 251, "foreign": "libro", "english": "book", "code": "SPA" },
+    { "position": 252, "foreign": "llevar", "english": "carry", "code": "SPA" },
+    { "position": 253, "foreign": "tomó", "english": "took", "code": "SPA" },
+    {
+        "position": 254,
+        "foreign": "ciencia",
+        "english": "science",
+        "code": "SPA"
+    },
+    { "position": 255, "foreign": "comer", "english": "eat", "code": "SPA" },
+    {
+        "position": 256,
+        "foreign": "habitación",
+        "english": "room",
+        "code": "SPA"
+    },
+    { "position": 257, "foreign": "amigo", "english": "friend", "code": "SPA" },
+    {
+        "position": 258,
+        "foreign": "comenzó",
+        "english": "began",
+        "code": "SPA"
+    },
+    { "position": 259, "foreign": "gusta", "english": "idea", "code": "SPA" },
+    { "position": 260, "foreign": "peces", "english": "fish", "code": "SPA" },
+    {
+        "position": 261,
+        "foreign": "montaña",
+        "english": "mountain",
+        "code": "SPA"
+    },
+    {
+        "position": 262,
+        "foreign": "Deténgase",
+        "english": "stop",
+        "code": "SPA"
+    },
+    { "position": 263, "foreign": "una vez", "english": "once", "code": "SPA" },
+    { "position": 264, "foreign": "base de", "english": "base", "code": "SPA" },
+    {
+        "position": 265,
+        "foreign": "escuchar",
+        "english": "hear",
+        "code": "SPA"
+    },
+    {
+        "position": 266,
+        "foreign": "caballo",
+        "english": "horse",
+        "code": "SPA"
+    },
+    { "position": 267, "foreign": "cortada", "english": "cut", "code": "SPA" },
+    { "position": 268, "foreign": "seguro", "english": "sure", "code": "SPA" },
+    { "position": 269, "foreign": "ver", "english": "watch", "code": "SPA" },
+    {
+        "position": 270,
+        "foreign": "colores",
+        "english": "color",
+        "code": "SPA"
+    },
+    { "position": 271, "foreign": "cara", "english": "face", "code": "SPA" },
+    { "position": 272, "foreign": "madera", "english": "wood", "code": "SPA" },
+    {
+        "position": 273,
+        "foreign": "principal",
+        "english": "main",
+        "code": "SPA"
+    },
+    { "position": 274, "foreign": "abierta", "english": "open", "code": "SPA" },
+    { "position": 275, "foreign": "parecer", "english": "seem", "code": "SPA" },
+    {
+        "position": 276,
+        "foreign": "juntos",
+        "english": "together",
+        "code": "SPA"
+    },
+    { "position": 277, "foreign": "próximo", "english": "next", "code": "SPA" },
+    { "position": 278, "foreign": "blanco", "english": "white", "code": "SPA" },
+    {
+        "position": 279,
+        "foreign": "niños",
+        "english": "children",
+        "code": "SPA"
+    },
+    {
+        "position": 280,
+        "foreign": "comenzar",
+        "english": "begin",
+        "code": "SPA"
+    },
+    {
+        "position": 281,
+        "foreign": "conseguido",
+        "english": "got",
+        "code": "SPA"
+    },
+    { "position": 282, "foreign": "caminar", "english": "walk", "code": "SPA" },
+    {
+        "position": 283,
+        "foreign": "ejemplo",
+        "english": "example",
+        "code": "SPA"
+    },
+    { "position": 284, "foreign": "aliviar", "english": "ease", "code": "SPA" },
+    { "position": 285, "foreign": "papel", "english": "paper", "code": "SPA" },
+    { "position": 286, "foreign": "grupo", "english": "group", "code": "SPA" },
+    {
+        "position": 287,
+        "foreign": "siempre",
+        "english": "always",
+        "code": "SPA"
+    },
+    { "position": 288, "foreign": "música", "english": "music", "code": "SPA" },
+    { "position": 289, "foreign": "los", "english": "those", "code": "SPA" },
+    { "position": 290, "foreign": "ambos", "english": "both", "code": "SPA" },
+    { "position": 291, "foreign": "marca", "english": "mark", "code": "SPA" },
+    { "position": 292, "foreign": "menudo", "english": "often", "code": "SPA" },
+    { "position": 293, "foreign": "carta", "english": "letter", "code": "SPA" },
+    { "position": 294, "foreign": "hasta", "english": "until", "code": "SPA" },
+    { "position": 295, "foreign": "milla", "english": "mile", "code": "SPA" },
+    { "position": 296, "foreign": "río", "english": "river", "code": "SPA" },
+    { "position": 297, "foreign": "coche", "english": "car", "code": "SPA" },
+    { "position": 298, "foreign": "pies", "english": "feet", "code": "SPA" },
+    { "position": 299, "foreign": "cuidado", "english": "care", "code": "SPA" },
+    {
+        "position": 300,
+        "foreign": "segundo",
+        "english": "second",
+        "code": "SPA"
+    },
+    {
+        "position": 301,
+        "foreign": "suficiente",
+        "english": "enough",
+        "code": "SPA"
+    },
+    { "position": 302, "foreign": "llano", "english": "plain", "code": "SPA" },
+    { "position": 303, "foreign": "chica", "english": "girl", "code": "SPA" },
+    {
+        "position": 304,
+        "foreign": "habitual",
+        "english": "usual",
+        "code": "SPA"
+    },
+    { "position": 305, "foreign": "joven", "english": "young", "code": "SPA" },
+    { "position": 306, "foreign": "listo", "english": "ready", "code": "SPA" },
+    {
+        "position": 307,
+        "foreign": "por encima de",
+        "english": "above",
+        "code": "SPA"
+    },
+    { "position": 308, "foreign": "nunca", "english": "ever", "code": "SPA" },
+    { "position": 309, "foreign": "rojo", "english": "red", "code": "SPA" },
+    { "position": 310, "foreign": "lista", "english": "list", "code": "SPA" },
+    {
+        "position": 311,
+        "foreign": "aunque",
+        "english": "though",
+        "code": "SPA"
+    },
+    { "position": 312, "foreign": "sentir", "english": "feel", "code": "SPA" },
+    { "position": 313, "foreign": "charla", "english": "talk", "code": "SPA" },
+    { "position": 314, "foreign": "pájaro", "english": "bird", "code": "SPA" },
+    { "position": 315, "foreign": "pronto", "english": "soon", "code": "SPA" },
+    { "position": 316, "foreign": "cuerpo", "english": "body", "code": "SPA" },
+    { "position": 317, "foreign": "perro", "english": "dog", "code": "SPA" },
+    {
+        "position": 318,
+        "foreign": "familia",
+        "english": "family",
+        "code": "SPA"
+    },
+    {
+        "position": 319,
+        "foreign": "directa",
+        "english": "direct",
+        "code": "SPA"
+    },
+    {
+        "position": 320,
+        "foreign": "plantear",
+        "english": "pose",
+        "code": "SPA"
+    },
+    { "position": 321, "foreign": "dejar", "english": "leave", "code": "SPA" },
+    { "position": 322, "foreign": "canción", "english": "song", "code": "SPA" },
+    {
+        "position": 323,
+        "foreign": "medir",
+        "english": "measure",
+        "code": "SPA"
+    },
+    { "position": 324, "foreign": "puerta", "english": "door", "code": "SPA" },
+    {
+        "position": 325,
+        "foreign": "producto",
+        "english": "product",
+        "code": "SPA"
+    },
+    { "position": 326, "foreign": "negro", "english": "black", "code": "SPA" },
+    { "position": 327, "foreign": "corto", "english": "short", "code": "SPA" },
+    {
+        "position": 328,
+        "foreign": "numeral",
+        "english": "numeral",
+        "code": "SPA"
+    },
+    { "position": 329, "foreign": "clase", "english": "class", "code": "SPA" },
+    { "position": 330, "foreign": "viento", "english": "wind", "code": "SPA" },
+    {
+        "position": 331,
+        "foreign": "pregunta",
+        "english": "question",
+        "code": "SPA"
+    },
+    {
+        "position": 332,
+        "foreign": "suceder",
+        "english": "happen",
+        "code": "SPA"
+    },
+    {
+        "position": 333,
+        "foreign": "completo",
+        "english": "complete",
+        "code": "SPA"
+    },
+    { "position": 334, "foreign": "buque", "english": "ship", "code": "SPA" },
+    { "position": 335, "foreign": "zona", "english": "area", "code": "SPA" },
+    { "position": 336, "foreign": "medio", "english": "half", "code": "SPA" },
+    { "position": 337, "foreign": "roca", "english": "rock", "code": "SPA" },
+    { "position": 338, "foreign": "orden", "english": "order", "code": "SPA" },
+    { "position": 339, "foreign": "fuego", "english": "fire", "code": "SPA" },
+    { "position": 340, "foreign": "sur", "english": "south", "code": "SPA" },
+    {
+        "position": 341,
+        "foreign": "problema",
+        "english": "problem",
+        "code": "SPA"
+    },
+    { "position": 342, "foreign": "pieza", "english": "piece", "code": "SPA" },
+    { "position": 343, "foreign": "dicho", "english": "told", "code": "SPA" },
+    { "position": 344, "foreign": "sabía", "english": "knew", "code": "SPA" },
+    { "position": 345, "foreign": "pasar", "english": "pass", "code": "SPA" },
+    { "position": 346, "foreign": "desde", "english": "since", "code": "SPA" },
+    { "position": 347, "foreign": "cima", "english": "top", "code": "SPA" },
+    { "position": 348, "foreign": "todo", "english": "whole", "code": "SPA" },
+    { "position": 349, "foreign": "rey", "english": "king", "code": "SPA" },
+    { "position": 350, "foreign": "calle", "english": "street", "code": "SPA" },
+    {
+        "position": 351,
+        "foreign": "pulgadas",
+        "english": "inch",
+        "code": "SPA"
+    },
+    {
+        "position": 352,
+        "foreign": "multiplicar",
+        "english": "multiply",
+        "code": "SPA"
+    },
+    { "position": 353, "foreign": "nada", "english": "nothing", "code": "SPA" },
+    { "position": 354, "foreign": "curso", "english": "course", "code": "SPA" },
+    {
+        "position": 355,
+        "foreign": "quedarse",
+        "english": "stay",
+        "code": "SPA"
+    },
+    { "position": 356, "foreign": "rueda", "english": "wheel", "code": "SPA" },
+    {
+        "position": 357,
+        "foreign": "completo",
+        "english": "full",
+        "code": "SPA"
+    },
+    { "position": 358, "foreign": "fuerza", "english": "force", "code": "SPA" },
+    { "position": 359, "foreign": "azul", "english": "blue", "code": "SPA" },
+    {
+        "position": 360,
+        "foreign": "objeto",
+        "english": "object",
+        "code": "SPA"
+    },
+    {
+        "position": 361,
+        "foreign": "decidir",
+        "english": "decide",
+        "code": "SPA"
+    },
+    {
+        "position": 362,
+        "foreign": "superficie",
+        "english": "surface",
+        "code": "SPA"
+    },
+    {
+        "position": 363,
+        "foreign": "profunda",
+        "english": "deep",
+        "code": "SPA"
+    },
+    { "position": 364, "foreign": "luna", "english": "moon", "code": "SPA" },
+    { "position": 365, "foreign": "isla", "english": "island", "code": "SPA" },
+    { "position": 366, "foreign": "pie", "english": "foot", "code": "SPA" },
+    {
+        "position": 367,
+        "foreign": "sistema",
+        "english": "system",
+        "code": "SPA"
+    },
+    { "position": 368, "foreign": "ocupado", "english": "busy", "code": "SPA" },
+    { "position": 369, "foreign": "prueba", "english": "test", "code": "SPA" },
+    {
+        "position": 370,
+        "foreign": "registro",
+        "english": "record",
+        "code": "SPA"
+    },
+    { "position": 371, "foreign": "barco", "english": "boat", "code": "SPA" },
+    { "position": 372, "foreign": "común", "english": "common", "code": "SPA" },
+    { "position": 373, "foreign": "oro", "english": "gold", "code": "SPA" },
+    {
+        "position": 374,
+        "foreign": "posible",
+        "english": "possible",
+        "code": "SPA"
+    },
+    { "position": 375, "foreign": "plano", "english": "plane", "code": "SPA" },
+    { "position": 376, "foreign": "lugar", "english": "stead", "code": "SPA" },
+    { "position": 377, "foreign": "seco", "english": "dry", "code": "SPA" },
+    {
+        "position": 378,
+        "foreign": "maravilla",
+        "english": "wonder",
+        "code": "SPA"
+    },
+    { "position": 379, "foreign": "risa", "english": "laugh", "code": "SPA" },
+    { "position": 380, "foreign": "mil", "english": "thousand", "code": "SPA" },
+    { "position": 381, "foreign": "hace", "english": "ago", "code": "SPA" },
+    { "position": 382, "foreign": "corrió", "english": "ran", "code": "SPA" },
+    {
+        "position": 383,
+        "foreign": "comprobar",
+        "english": "check",
+        "code": "SPA"
+    },
+    { "position": 384, "foreign": "juego", "english": "game", "code": "SPA" },
+    { "position": 385, "foreign": "forma", "english": "shape", "code": "SPA" },
+    {
+        "position": 386,
+        "foreign": "equiparar",
+        "english": "equate",
+        "code": "SPA"
+    },
+    { "position": 387, "foreign": "caliente", "english": "hot", "code": "SPA" },
+    {
+        "position": 388,
+        "foreign": "señorita",
+        "english": "miss",
+        "code": "SPA"
+    },
+    {
+        "position": 389,
+        "foreign": "traído",
+        "english": "brought",
+        "code": "SPA"
+    },
+    { "position": 390, "foreign": "calor", "english": "heat", "code": "SPA" },
+    { "position": 391, "foreign": "nieve", "english": "snow", "code": "SPA" },
+    {
+        "position": 392,
+        "foreign": "neumáticos",
+        "english": "tire",
+        "code": "SPA"
+    },
+    { "position": 393, "foreign": "traer", "english": "bring", "code": "SPA" },
+    { "position": 394, "foreign": "sí", "english": "yes", "code": "SPA" },
+    {
+        "position": 395,
+        "foreign": "distante",
+        "english": "distant",
+        "code": "SPA"
+    },
+    { "position": 396, "foreign": "llenar", "english": "fill", "code": "SPA" },
+    { "position": 397, "foreign": "al este", "english": "east", "code": "SPA" },
+    { "position": 398, "foreign": "pintar", "english": "paint", "code": "SPA" },
+    {
+        "position": 399,
+        "foreign": "idioma",
+        "english": "language",
+        "code": "SPA"
+    },
+    { "position": 400, "foreign": "entre", "english": "among", "code": "SPA" },
+    { "position": 401, "foreign": "unidad", "english": "unit", "code": "SPA" },
+    {
+        "position": 402,
+        "foreign": "potencia",
+        "english": "power",
+        "code": "SPA"
+    },
+    { "position": 403, "foreign": "ciudad", "english": "town", "code": "SPA" },
+    { "position": 404, "foreign": "fina", "english": "fine", "code": "SPA" },
+    {
+        "position": 405,
+        "foreign": "cierto",
+        "english": "certain",
+        "code": "SPA"
+    },
+    { "position": 406, "foreign": "volar", "english": "fly", "code": "SPA" },
+    { "position": 407, "foreign": "caer", "english": "fall", "code": "SPA" },
+    {
+        "position": 408,
+        "foreign": "conducir",
+        "english": "lead",
+        "code": "SPA"
+    },
+    { "position": 409, "foreign": "grito", "english": "cry", "code": "SPA" },
+    { "position": 410, "foreign": "oscuro", "english": "dark", "code": "SPA" },
+    {
+        "position": 411,
+        "foreign": "máquina",
+        "english": "machine",
+        "code": "SPA"
+    },
+    { "position": 412, "foreign": "nota", "english": "note", "code": "SPA" },
+    { "position": 413, "foreign": "espere", "english": "wait", "code": "SPA" },
+    { "position": 414, "foreign": "plan de", "english": "plan", "code": "SPA" },
+    {
+        "position": 415,
+        "foreign": "figura",
+        "english": "figure",
+        "code": "SPA"
+    },
+    {
+        "position": 416,
+        "foreign": "estrella",
+        "english": "star",
+        "code": "SPA"
+    },
+    { "position": 417, "foreign": "caja", "english": "box", "code": "SPA" },
+    {
+        "position": 418,
+        "foreign": "sustantivo",
+        "english": "noun",
+        "code": "SPA"
+    },
+    { "position": 419, "foreign": "campo", "english": "field", "code": "SPA" },
+    { "position": 420, "foreign": "resto", "english": "rest", "code": "SPA" },
+    {
+        "position": 421,
+        "foreign": "correcta",
+        "english": "correct",
+        "code": "SPA"
+    },
+    { "position": 422, "foreign": "capaz", "english": "able", "code": "SPA" },
+    { "position": 423, "foreign": "libra", "english": "pound", "code": "SPA" },
+    { "position": 424, "foreign": "hecho", "english": "done", "code": "SPA" },
+    {
+        "position": 425,
+        "foreign": "belleza",
+        "english": "beauty",
+        "code": "SPA"
+    },
+    { "position": 426, "foreign": "unidad", "english": "drive", "code": "SPA" },
+    {
+        "position": 427,
+        "foreign": "destacado",
+        "english": "stood",
+        "code": "SPA"
+    },
+    {
+        "position": 428,
+        "foreign": "contener",
+        "english": "contain",
+        "code": "SPA"
+    },
+    {
+        "position": 429,
+        "foreign": "delante",
+        "english": "front",
+        "code": "SPA"
+    },
+    {
+        "position": 430,
+        "foreign": "enseñar",
+        "english": "teach",
+        "code": "SPA"
+    },
+    { "position": 431, "foreign": "semana", "english": "week", "code": "SPA" },
+    { "position": 432, "foreign": "último", "english": "final", "code": "SPA" },
+    { "position": 433, "foreign": "dio", "english": "gave", "code": "SPA" },
+    { "position": 434, "foreign": "verde", "english": "green", "code": "SPA" },
+    { "position": 435, "foreign": "oh", "english": "oh", "code": "SPA" },
+    { "position": 436, "foreign": "rápido", "english": "quick", "code": "SPA" },
+    {
+        "position": 437,
+        "foreign": "desarrollar",
+        "english": "develop",
+        "code": "SPA"
+    },
+    { "position": 438, "foreign": "océano", "english": "ocean", "code": "SPA" },
+    {
+        "position": 439,
+        "foreign": "caliente",
+        "english": "warm",
+        "code": "SPA"
+    },
+    { "position": 440, "foreign": "libre", "english": "free", "code": "SPA" },
+    {
+        "position": 441,
+        "foreign": "minuto",
+        "english": "minute",
+        "code": "SPA"
+    },
+    {
+        "position": 442,
+        "foreign": "fuerte",
+        "english": "strong",
+        "code": "SPA"
+    },
+    {
+        "position": 443,
+        "foreign": "especial",
+        "english": "special",
+        "code": "SPA"
+    },
+    { "position": 444, "foreign": "mente", "english": "mind", "code": "SPA" },
+    {
+        "position": 445,
+        "foreign": "detrás",
+        "english": "behind",
+        "code": "SPA"
+    },
+    { "position": 446, "foreign": "claro", "english": "clear", "code": "SPA" },
+    { "position": 447, "foreign": "cola", "english": "tail", "code": "SPA" },
+    {
+        "position": 448,
+        "foreign": "Produce",
+        "english": "produce",
+        "code": "SPA"
+    },
+    { "position": 449, "foreign": "hecho", "english": "fact", "code": "SPA" },
+    {
+        "position": 450,
+        "foreign": "espacio",
+        "english": "space",
+        "code": "SPA"
+    },
+    { "position": 451, "foreign": "oído", "english": "heard", "code": "SPA" },
+    { "position": 452, "foreign": "mejor", "english": "best", "code": "SPA" },
+    { "position": 453, "foreign": "horas", "english": "hour", "code": "SPA" },
+    { "position": 454, "foreign": "mejor", "english": "better", "code": "SPA" },
+    {
+        "position": 455,
+        "foreign": "verdadero",
+        "english": "true",
+        "code": "SPA"
+    },
+    {
+        "position": 456,
+        "foreign": "durante",
+        "english": "during",
+        "code": "SPA"
+    },
+    { "position": 457, "foreign": "cien", "english": "hundred", "code": "SPA" },
+    { "position": 458, "foreign": "cinco", "english": "five", "code": "SPA" },
+    {
+        "position": 459,
+        "foreign": "recordar",
+        "english": "remember",
+        "code": "SPA"
+    },
+    { "position": 460, "foreign": "paso", "english": "step", "code": "SPA" },
+    {
+        "position": 461,
+        "foreign": "temprana",
+        "english": "early",
+        "code": "SPA"
+    },
+    {
+        "position": 462,
+        "foreign": "mantenga",
+        "english": "hold",
+        "code": "SPA"
+    },
+    { "position": 463, "foreign": "oeste", "english": "west", "code": "SPA" },
+    { "position": 464, "foreign": "suelo", "english": "ground", "code": "SPA" },
+    {
+        "position": 465,
+        "foreign": "interés",
+        "english": "interest",
+        "code": "SPA"
+    },
+    { "position": 466, "foreign": "llegar", "english": "reach", "code": "SPA" },
+    { "position": 467, "foreign": "rápido", "english": "fast", "code": "SPA" },
+    { "position": 468, "foreign": "verbo", "english": "verb", "code": "SPA" },
+    { "position": 469, "foreign": "cantar", "english": "sing", "code": "SPA" },
+    {
+        "position": 470,
+        "foreign": "escuchar",
+        "english": "listen",
+        "code": "SPA"
+    },
+    { "position": 471, "foreign": "seis", "english": "six", "code": "SPA" },
+    { "position": 472, "foreign": "mesa", "english": "table", "code": "SPA" },
+    {
+        "position": 473,
+        "foreign": "viajes",
+        "english": "travel",
+        "code": "SPA"
+    },
+    { "position": 474, "foreign": "menos", "english": "less", "code": "SPA" },
+    {
+        "position": 475,
+        "foreign": "mañana",
+        "english": "morning",
+        "code": "SPA"
+    },
+    { "position": 476, "foreign": "diez", "english": "ten", "code": "SPA" },
+    {
+        "position": 477,
+        "foreign": "sencilla",
+        "english": "simple",
+        "code": "SPA"
+    },
+    {
+        "position": 478,
+        "foreign": "varios",
+        "english": "several",
+        "code": "SPA"
+    },
+    { "position": 479, "foreign": "vocal", "english": "vowel", "code": "SPA" },
+    { "position": 480, "foreign": "hacia", "english": "toward", "code": "SPA" },
+    { "position": 481, "foreign": "guerra", "english": "war", "code": "SPA" },
+    { "position": 482, "foreign": "sentar", "english": "lay", "code": "SPA" },
+    {
+        "position": 483,
+        "foreign": "contra",
+        "english": "against",
+        "code": "SPA"
+    },
+    {
+        "position": 484,
+        "foreign": "patrón",
+        "english": "pattern",
+        "code": "SPA"
+    },
+    { "position": 485, "foreign": "lenta", "english": "slow", "code": "SPA" },
+    {
+        "position": 486,
+        "foreign": "centro",
+        "english": "center",
+        "code": "SPA"
+    },
+    { "position": 487, "foreign": "amar", "english": "love", "code": "SPA" },
+    {
+        "position": 488,
+        "foreign": "persona",
+        "english": "person",
+        "code": "SPA"
+    },
+    { "position": 489, "foreign": "dinero", "english": "money", "code": "SPA" },
+    { "position": 490, "foreign": "servir", "english": "serve", "code": "SPA" },
+    {
+        "position": 491,
+        "foreign": "aparecerá",
+        "english": "appear",
+        "code": "SPA"
+    },
+    {
+        "position": 492,
+        "foreign": "carretera",
+        "english": "road",
+        "code": "SPA"
+    },
+    { "position": 493, "foreign": "mapa", "english": "map", "code": "SPA" },
+    { "position": 494, "foreign": "lluvia", "english": "rain", "code": "SPA" },
+    { "position": 495, "foreign": "regla", "english": "rule", "code": "SPA" },
+    {
+        "position": 496,
+        "foreign": "gobernar",
+        "english": "govern",
+        "code": "SPA"
+    },
+    { "position": 497, "foreign": "Halar", "english": "pull", "code": "SPA" },
+    { "position": 498, "foreign": "frío", "english": "cold", "code": "SPA" },
+    { "position": 499, "foreign": "aviso", "english": "notice", "code": "SPA" },
+    { "position": 500, "foreign": "voz", "english": "voice", "code": "SPA" },
+    {
+        "position": 501,
+        "foreign": "energía",
+        "english": "energy",
+        "code": "SPA"
+    },
+    { "position": 502, "foreign": "caza", "english": "hunt", "code": "SPA" },
+    {
+        "position": 503,
+        "foreign": "probable",
+        "english": "probable",
+        "code": "SPA"
+    },
+    { "position": 504, "foreign": "cama", "english": "bed", "code": "SPA" },
+    {
+        "position": 505,
+        "foreign": "hermano",
+        "english": "brother",
+        "code": "SPA"
+    },
+    { "position": 506, "foreign": "huevo", "english": "egg", "code": "SPA" },
+    { "position": 507, "foreign": "paseo", "english": "ride", "code": "SPA" },
+    { "position": 508, "foreign": "celular", "english": "cell", "code": "SPA" },
+    {
+        "position": 509,
+        "foreign": "creer",
+        "english": "believe",
+        "code": "SPA"
+    },
+    {
+        "position": 510,
+        "foreign": "quizás",
+        "english": "perhaps",
+        "code": "SPA"
+    },
+    { "position": 511, "foreign": "recoger", "english": "pick", "code": "SPA" },
+    {
+        "position": 512,
+        "foreign": "repentina",
+        "english": "sudden",
+        "code": "SPA"
+    },
+    { "position": 513, "foreign": "contar", "english": "count", "code": "SPA" },
+    { "position": 514, "foreign": "plaza", "english": "square", "code": "SPA" },
+    { "position": 515, "foreign": "razón", "english": "reason", "code": "SPA" },
+    {
+        "position": 516,
+        "foreign": "longitud",
+        "english": "length",
+        "code": "SPA"
+    },
+    {
+        "position": 517,
+        "foreign": "representar",
+        "english": "represent",
+        "code": "SPA"
+    },
+    { "position": 518, "foreign": "arte", "english": "art", "code": "SPA" },
+    {
+        "position": 519,
+        "foreign": "sujeto",
+        "english": "subject",
+        "code": "SPA"
+    },
+    {
+        "position": 520,
+        "foreign": "región",
+        "english": "region",
+        "code": "SPA"
+    },
+    { "position": 521, "foreign": "tamaño", "english": "size", "code": "SPA" },
+    { "position": 522, "foreign": "variar", "english": "vary", "code": "SPA" },
+    {
+        "position": 523,
+        "foreign": "resolver",
+        "english": "settle",
+        "code": "SPA"
+    },
+    { "position": 524, "foreign": "hablar", "english": "speak", "code": "SPA" },
+    { "position": 525, "foreign": "peso", "english": "weight", "code": "SPA" },
+    {
+        "position": 526,
+        "foreign": "general",
+        "english": "general",
+        "code": "SPA"
+    },
+    { "position": 527, "foreign": "hielo", "english": "ice", "code": "SPA" },
+    {
+        "position": 528,
+        "foreign": "materia",
+        "english": "matter",
+        "code": "SPA"
+    },
+    {
+        "position": 529,
+        "foreign": "círculo",
+        "english": "circle",
+        "code": "SPA"
+    },
+    { "position": 530, "foreign": "par", "english": "pair", "code": "SPA" },
+    {
+        "position": 531,
+        "foreign": "incluir",
+        "english": "include",
+        "code": "SPA"
+    },
+    {
+        "position": 532,
+        "foreign": "brecha",
+        "english": "divide",
+        "code": "SPA"
+    },
+    {
+        "position": 533,
+        "foreign": "sílaba",
+        "english": "syllable",
+        "code": "SPA"
+    },
+    { "position": 534, "foreign": "sentido", "english": "felt", "code": "SPA" },
+    { "position": 535, "foreign": "gran", "english": "grand", "code": "SPA" },
+    { "position": 536, "foreign": "bola", "english": "ball", "code": "SPA" },
+    { "position": 537, "foreign": "aún", "english": "yet", "code": "SPA" },
+    { "position": 538, "foreign": "ola", "english": "wave", "code": "SPA" },
+    { "position": 539, "foreign": "caer", "english": "drop", "code": "SPA" },
+    {
+        "position": 540,
+        "foreign": "corazón",
+        "english": "heart",
+        "code": "SPA"
+    },
+    { "position": 541, "foreign": "am", "english": "am", "code": "SPA" },
+    {
+        "position": 542,
+        "foreign": "presente",
+        "english": "present",
+        "code": "SPA"
+    },
+    { "position": 543, "foreign": "pesada", "english": "heavy", "code": "SPA" },
+    { "position": 544, "foreign": "danza", "english": "dance", "code": "SPA" },
+    { "position": 545, "foreign": "motor", "english": "engine", "code": "SPA" },
+    {
+        "position": 546,
+        "foreign": "posición",
+        "english": "position",
+        "code": "SPA"
+    },
+    { "position": 547, "foreign": "brazo", "english": "arm", "code": "SPA" },
+    { "position": 548, "foreign": "amplio", "english": "wide", "code": "SPA" },
+    { "position": 549, "foreign": "vela", "english": "sail", "code": "SPA" },
+    {
+        "position": 550,
+        "foreign": "materiales",
+        "english": "material",
+        "code": "SPA"
+    },
+    {
+        "position": 551,
+        "foreign": "fracción",
+        "english": "fraction",
+        "code": "SPA"
+    },
+    {
+        "position": 552,
+        "foreign": "bosque",
+        "english": "forest",
+        "code": "SPA"
+    },
+    { "position": 553, "foreign": "sentarse", "english": "sit", "code": "SPA" },
+    { "position": 554, "foreign": "carrera", "english": "race", "code": "SPA" },
+    {
+        "position": 555,
+        "foreign": "ventana",
+        "english": "window",
+        "code": "SPA"
+    },
+    { "position": 556, "foreign": "tienda", "english": "store", "code": "SPA" },
+    {
+        "position": 557,
+        "foreign": "verano",
+        "english": "summer",
+        "code": "SPA"
+    },
+    { "position": 558, "foreign": "tren", "english": "train", "code": "SPA" },
+    { "position": 559, "foreign": "sueño", "english": "sleep", "code": "SPA" },
+    {
+        "position": 560,
+        "foreign": "demostrar",
+        "english": "prove",
+        "code": "SPA"
+    },
+    {
+        "position": 561,
+        "foreign": "solitario",
+        "english": "lone",
+        "code": "SPA"
+    },
+    { "position": 562, "foreign": "pierna", "english": "leg", "code": "SPA" },
+    {
+        "position": 563,
+        "foreign": "ejercicio",
+        "english": "exercise",
+        "code": "SPA"
+    },
+    { "position": 564, "foreign": "pared", "english": "wall", "code": "SPA" },
+    {
+        "position": 565,
+        "foreign": "capturas",
+        "english": "catch",
+        "code": "SPA"
+    },
+    { "position": 566, "foreign": "monte", "english": "mount", "code": "SPA" },
+    { "position": 567, "foreign": "desear", "english": "wish", "code": "SPA" },
+    { "position": 568, "foreign": "cielo", "english": "sky", "code": "SPA" },
+    { "position": 569, "foreign": "bordo", "english": "board", "code": "SPA" },
+    { "position": 570, "foreign": "alegría", "english": "joy", "code": "SPA" },
+    {
+        "position": 571,
+        "foreign": "invierno",
+        "english": "winter",
+        "code": "SPA"
+    },
+    { "position": 572, "foreign": "satélite", "english": "sat", "code": "SPA" },
+    {
+        "position": 573,
+        "foreign": "escrito",
+        "english": "written",
+        "code": "SPA"
+    },
+    { "position": 574, "foreign": "salvaje", "english": "wild", "code": "SPA" },
+    {
+        "position": 575,
+        "foreign": "instrumento",
+        "english": "instrument",
+        "code": "SPA"
+    },
+    {
+        "position": 576,
+        "foreign": "guardado",
+        "english": "kept",
+        "code": "SPA"
+    },
+    { "position": 577, "foreign": "vidrio", "english": "glass", "code": "SPA" },
+    { "position": 578, "foreign": "hierba", "english": "grass", "code": "SPA" },
+    { "position": 579, "foreign": "vaca", "english": "cow", "code": "SPA" },
+    { "position": 580, "foreign": "trabajo", "english": "job", "code": "SPA" },
+    { "position": 581, "foreign": "borde", "english": "edge", "code": "SPA" },
+    { "position": 582, "foreign": "signo", "english": "sign", "code": "SPA" },
+    { "position": 583, "foreign": "visita", "english": "visit", "code": "SPA" },
+    { "position": 584, "foreign": "pasado", "english": "past", "code": "SPA" },
+    { "position": 585, "foreign": "suave", "english": "soft", "code": "SPA" },
+    {
+        "position": 586,
+        "foreign": "diversión",
+        "english": "fun",
+        "code": "SPA"
+    },
+    {
+        "position": 587,
+        "foreign": "brillante",
+        "english": "bright",
+        "code": "SPA"
+    },
+    { "position": 588, "foreign": "gas", "english": "gas", "code": "SPA" },
+    {
+        "position": 589,
+        "foreign": "tiempo",
+        "english": "weather",
+        "code": "SPA"
+    },
+    { "position": 590, "foreign": "mes", "english": "month", "code": "SPA" },
+    {
+        "position": 591,
+        "foreign": "millones",
+        "english": "million",
+        "code": "SPA"
+    },
+    {
+        "position": 592,
+        "foreign": "soportar",
+        "english": "bear",
+        "code": "SPA"
+    },
+    {
+        "position": 593,
+        "foreign": "acabado",
+        "english": "finish",
+        "code": "SPA"
+    },
+    { "position": 594, "foreign": "feliz", "english": "happy", "code": "SPA" },
+    {
+        "position": 595,
+        "foreign": "esperanza",
+        "english": "hope",
+        "code": "SPA"
+    },
+    { "position": 596, "foreign": "flor", "english": "flower", "code": "SPA" },
+    {
+        "position": 597,
+        "foreign": "vestir",
+        "english": "clothe",
+        "code": "SPA"
+    },
+    {
+        "position": 598,
+        "foreign": "extraño",
+        "english": "strange",
+        "code": "SPA"
+    },
+    {
+        "position": 599,
+        "foreign": "se ha ido",
+        "english": "gone",
+        "code": "SPA"
+    },
+    {
+        "position": 600,
+        "foreign": "comercio",
+        "english": "trade",
+        "code": "SPA"
+    },
+    {
+        "position": 601,
+        "foreign": "melodía",
+        "english": "melody",
+        "code": "SPA"
+    },
+    { "position": 602, "foreign": "viaje", "english": "trip", "code": "SPA" },
+    {
+        "position": 603,
+        "foreign": "oficina",
+        "english": "office",
+        "code": "SPA"
+    },
+    {
+        "position": 604,
+        "foreign": "recibir",
+        "english": "receive",
+        "code": "SPA"
+    },
+    { "position": 605, "foreign": "fila", "english": "row", "code": "SPA" },
+    { "position": 606, "foreign": "boca", "english": "mouth", "code": "SPA" },
+    { "position": 607, "foreign": "exacta", "english": "exact", "code": "SPA" },
+    {
+        "position": 608,
+        "foreign": "símbolo",
+        "english": "symbol",
+        "code": "SPA"
+    },
+    { "position": 609, "foreign": "morir", "english": "die", "code": "SPA" },
+    { "position": 610, "foreign": "menos", "english": "least", "code": "SPA" },
+    {
+        "position": 611,
+        "foreign": "problema",
+        "english": "trouble",
+        "code": "SPA"
+    },
+    { "position": 612, "foreign": "grito", "english": "shout", "code": "SPA" },
+    {
+        "position": 613,
+        "foreign": "excepto",
+        "english": "except",
+        "code": "SPA"
+    },
+    {
+        "position": 614,
+        "foreign": "escribió",
+        "english": "wrote",
+        "code": "SPA"
+    },
+    { "position": 615, "foreign": "semilla", "english": "seed", "code": "SPA" },
+    { "position": 616, "foreign": "tono", "english": "tone", "code": "SPA" },
+    { "position": 617, "foreign": "unirse", "english": "join", "code": "SPA" },
+    {
+        "position": 618,
+        "foreign": "sugerir",
+        "english": "suggest",
+        "code": "SPA"
+    },
+    { "position": 619, "foreign": "limpia", "english": "clean", "code": "SPA" },
+    { "position": 620, "foreign": "rotura", "english": "break", "code": "SPA" },
+    { "position": 621, "foreign": "dama", "english": "lady", "code": "SPA" },
+    { "position": 622, "foreign": "patio", "english": "yard", "code": "SPA" },
+    {
+        "position": 623,
+        "foreign": "aumentando",
+        "english": "rise",
+        "code": "SPA"
+    },
+    { "position": 624, "foreign": "mal", "english": "bad", "code": "SPA" },
+    { "position": 625, "foreign": "golpe", "english": "blow", "code": "SPA" },
+    { "position": 626, "foreign": "aceite", "english": "oil", "code": "SPA" },
+    { "position": 627, "foreign": "sangre", "english": "blood", "code": "SPA" },
+    { "position": 628, "foreign": "tocar", "english": "touch", "code": "SPA" },
+    { "position": 629, "foreign": "creció", "english": "grew", "code": "SPA" },
+    { "position": 630, "foreign": "ciento", "english": "cent", "code": "SPA" },
+    { "position": 631, "foreign": "mezclar", "english": "mix", "code": "SPA" },
+    { "position": 632, "foreign": "equipo", "english": "team", "code": "SPA" },
+    { "position": 633, "foreign": "alambre", "english": "wire", "code": "SPA" },
+    { "position": 634, "foreign": "costo", "english": "cost", "code": "SPA" },
+    { "position": 635, "foreign": "perdido", "english": "lost", "code": "SPA" },
+    { "position": 636, "foreign": "marrón", "english": "brown", "code": "SPA" },
+    {
+        "position": 637,
+        "foreign": "desgaste",
+        "english": "wear",
+        "code": "SPA"
+    },
+    {
+        "position": 638,
+        "foreign": "jardín",
+        "english": "garden",
+        "code": "SPA"
+    },
+    { "position": 639, "foreign": "igual", "english": "equal", "code": "SPA" },
+    { "position": 640, "foreign": "enviado", "english": "sent", "code": "SPA" },
+    {
+        "position": 641,
+        "foreign": "elegir",
+        "english": "choose",
+        "code": "SPA"
+    },
+    { "position": 642, "foreign": "cayó", "english": "fell", "code": "SPA" },
+    { "position": 643, "foreign": "encajar", "english": "fit", "code": "SPA" },
+    { "position": 644, "foreign": "fluir", "english": "flow", "code": "SPA" },
+    { "position": 645, "foreign": "justo", "english": "fair", "code": "SPA" },
+    { "position": 646, "foreign": "banco", "english": "bank", "code": "SPA" },
+    {
+        "position": 647,
+        "foreign": "recoger",
+        "english": "collect",
+        "code": "SPA"
+    },
+    { "position": 648, "foreign": "guardar", "english": "save", "code": "SPA" },
+    {
+        "position": 649,
+        "foreign": "el control",
+        "english": "control",
+        "code": "SPA"
+    },
+    {
+        "position": 650,
+        "foreign": "decimal",
+        "english": "decimal",
+        "code": "SPA"
+    },
+    { "position": 651, "foreign": "oído", "english": "ear", "code": "SPA" },
+    { "position": 652, "foreign": "demás", "english": "else", "code": "SPA" },
+    {
+        "position": 653,
+        "foreign": "bastante",
+        "english": "quite",
+        "code": "SPA"
+    },
+    { "position": 654, "foreign": "rompió", "english": "broke", "code": "SPA" },
+    { "position": 655, "foreign": "caso", "english": "case", "code": "SPA" },
+    { "position": 656, "foreign": "medio", "english": "middle", "code": "SPA" },
+    { "position": 657, "foreign": "matar", "english": "kill", "code": "SPA" },
+    { "position": 658, "foreign": "hijo", "english": "son", "code": "SPA" },
+    { "position": 659, "foreign": "lago", "english": "lake", "code": "SPA" },
+    {
+        "position": 660,
+        "foreign": "momento",
+        "english": "moment",
+        "code": "SPA"
+    },
+    { "position": 661, "foreign": "escala", "english": "scale", "code": "SPA" },
+    { "position": 662, "foreign": "fuerte", "english": "loud", "code": "SPA" },
+    {
+        "position": 663,
+        "foreign": "primavera",
+        "english": "spring",
+        "code": "SPA"
+    },
+    {
+        "position": 664,
+        "foreign": "observar",
+        "english": "observe",
+        "code": "SPA"
+    },
+    { "position": 665, "foreign": "niño", "english": "child", "code": "SPA" },
+    {
+        "position": 666,
+        "foreign": "recta",
+        "english": "straight",
+        "code": "SPA"
+    },
+    {
+        "position": 667,
+        "foreign": "consonante",
+        "english": "consonant",
+        "code": "SPA"
+    },
+    {
+        "position": 668,
+        "foreign": "nación",
+        "english": "nation",
+        "code": "SPA"
+    },
+    {
+        "position": 669,
+        "foreign": "diccionario",
+        "english": "dictionary",
+        "code": "SPA"
+    },
+    { "position": 670, "foreign": "leche", "english": "milk", "code": "SPA" },
+    {
+        "position": 671,
+        "foreign": "velocidad",
+        "english": "speed",
+        "code": "SPA"
+    },
+    {
+        "position": 672,
+        "foreign": "método",
+        "english": "method",
+        "code": "SPA"
+    },
+    { "position": 673, "foreign": "órgano", "english": "organ", "code": "SPA" },
+    { "position": 674, "foreign": "pagar", "english": "pay", "code": "SPA" },
+    { "position": 675, "foreign": "edad", "english": "age", "code": "SPA" },
+    {
+        "position": 676,
+        "foreign": "sección",
+        "english": "section",
+        "code": "SPA"
+    },
+    {
+        "position": 677,
+        "foreign": "vestido",
+        "english": "dress",
+        "code": "SPA"
+    },
+    { "position": 678, "foreign": "nube", "english": "cloud", "code": "SPA" },
+    {
+        "position": 679,
+        "foreign": "sorpresa",
+        "english": "surprise",
+        "code": "SPA"
+    },
+    {
+        "position": 680,
+        "foreign": "tranquila",
+        "english": "quiet",
+        "code": "SPA"
+    },
+    { "position": 681, "foreign": "piedra", "english": "stone", "code": "SPA" },
+    { "position": 682, "foreign": "pequeño", "english": "tiny", "code": "SPA" },
+    {
+        "position": 683,
+        "foreign": "ascenso",
+        "english": "climb",
+        "code": "SPA"
+    },
+    { "position": 684, "foreign": "fresco", "english": "cool", "code": "SPA" },
+    {
+        "position": 685,
+        "foreign": "diseño",
+        "english": "design",
+        "code": "SPA"
+    },
+    { "position": 686, "foreign": "pobre", "english": "poor", "code": "SPA" },
+    { "position": 687, "foreign": "mucho", "english": "lot", "code": "SPA" },
+    {
+        "position": 688,
+        "foreign": "experimento",
+        "english": "experiment",
+        "code": "SPA"
+    },
+    {
+        "position": 689,
+        "foreign": "inferior",
+        "english": "bottom",
+        "code": "SPA"
+    },
+    { "position": 690, "foreign": "clave", "english": "key", "code": "SPA" },
+    { "position": 691, "foreign": "hierro", "english": "iron", "code": "SPA" },
+    { "position": 692, "foreign": "sola", "english": "single", "code": "SPA" },
+    {
+        "position": 693,
+        "foreign": "palillo",
+        "english": "stick",
+        "code": "SPA"
+    },
+    { "position": 694, "foreign": "plana", "english": "flat", "code": "SPA" },
+    {
+        "position": 695,
+        "foreign": "veinte",
+        "english": "twenty",
+        "code": "SPA"
+    },
+    { "position": 696, "foreign": "piel", "english": "skin", "code": "SPA" },
+    {
+        "position": 697,
+        "foreign": "sonrisa",
+        "english": "smile",
+        "code": "SPA"
+    },
+    {
+        "position": 698,
+        "foreign": "pliegue",
+        "english": "crease",
+        "code": "SPA"
+    },
+    { "position": 699, "foreign": "agujero", "english": "hole", "code": "SPA" },
+    { "position": 700, "foreign": "saltar", "english": "jump", "code": "SPA" },
+    { "position": 701, "foreign": "bebé", "english": "baby", "code": "SPA" },
+    { "position": 702, "foreign": "ocho", "english": "eight", "code": "SPA" },
+    {
+        "position": 703,
+        "foreign": "pueblo",
+        "english": "village",
+        "code": "SPA"
+    },
+    {
+        "position": 704,
+        "foreign": "se reúnen",
+        "english": "meet",
+        "code": "SPA"
+    },
+    { "position": 705, "foreign": "raíz", "english": "root", "code": "SPA" },
+    { "position": 706, "foreign": "comprar", "english": "buy", "code": "SPA" },
+    {
+        "position": 707,
+        "foreign": "aumentar",
+        "english": "raise",
+        "code": "SPA"
+    },
+    {
+        "position": 708,
+        "foreign": "resolver",
+        "english": "solve",
+        "code": "SPA"
+    },
+    {
+        "position": 709,
+        "foreign": "de metal",
+        "english": "metal",
+        "code": "SPA"
+    },
+    { "position": 710, "foreign": "si", "english": "whether", "code": "SPA" },
+    { "position": 711, "foreign": "empujar", "english": "push", "code": "SPA" },
+    { "position": 712, "foreign": "siete", "english": "seven", "code": "SPA" },
+    {
+        "position": 713,
+        "foreign": "párrafo",
+        "english": "paragraph",
+        "code": "SPA"
+    },
+    {
+        "position": 714,
+        "foreign": "tercero",
+        "english": "third",
+        "code": "SPA"
+    },
+    { "position": 715, "foreign": "deberá", "english": "shall", "code": "SPA" },
+    {
+        "position": 716,
+        "foreign": "en espera",
+        "english": "held",
+        "code": "SPA"
+    },
+    { "position": 717, "foreign": "pelo", "english": "hair", "code": "SPA" },
+    {
+        "position": 718,
+        "foreign": "describir",
+        "english": "describe",
+        "code": "SPA"
+    },
+    {
+        "position": 719,
+        "foreign": "cocinero",
+        "english": "cook",
+        "code": "SPA"
+    },
+    { "position": 720, "foreign": "piso", "english": "floor", "code": "SPA" },
+    {
+        "position": 721,
+        "foreign": "ya sea",
+        "english": "either",
+        "code": "SPA"
+    },
+    {
+        "position": 722,
+        "foreign": "resultado",
+        "english": "result",
+        "code": "SPA"
+    },
+    { "position": 723, "foreign": "quemar", "english": "burn", "code": "SPA" },
+    { "position": 724, "foreign": "colina", "english": "hill", "code": "SPA" },
+    { "position": 725, "foreign": "seguro", "english": "safe", "code": "SPA" },
+    { "position": 726, "foreign": "gato", "english": "cat", "code": "SPA" },
+    {
+        "position": 727,
+        "foreign": "siglo",
+        "english": "century",
+        "code": "SPA"
+    },
+    {
+        "position": 728,
+        "foreign": "considerar",
+        "english": "consider",
+        "code": "SPA"
+    },
+    { "position": 729, "foreign": "tipo", "english": "type", "code": "SPA" },
+    { "position": 730, "foreign": "ley", "english": "law", "code": "SPA" },
+    { "position": 731, "foreign": "bit", "english": "bit", "code": "SPA" },
+    { "position": 732, "foreign": "costa", "english": "coast", "code": "SPA" },
+    { "position": 733, "foreign": "copia", "english": "copy", "code": "SPA" },
+    { "position": 734, "foreign": "frase", "english": "phrase", "code": "SPA" },
+    {
+        "position": 735,
+        "foreign": "silencio",
+        "english": "silent",
+        "code": "SPA"
+    },
+    {
+        "position": 736,
+        "foreign": "de altura",
+        "english": "tall",
+        "code": "SPA"
+    },
+    { "position": 737, "foreign": "arena", "english": "sand", "code": "SPA" },
+    { "position": 738, "foreign": "suelo", "english": "soil", "code": "SPA" },
+    { "position": 739, "foreign": "rollo", "english": "roll", "code": "SPA" },
+    {
+        "position": 740,
+        "foreign": "temperatura",
+        "english": "temperature",
+        "code": "SPA"
+    },
+    { "position": 741, "foreign": "dedo", "english": "finger", "code": "SPA" },
+    {
+        "position": 742,
+        "foreign": "industria",
+        "english": "industry",
+        "code": "SPA"
+    },
+    { "position": 743, "foreign": "valor", "english": "value", "code": "SPA" },
+    { "position": 744, "foreign": "lucha", "english": "fight", "code": "SPA" },
+    { "position": 745, "foreign": "mentira", "english": "lie", "code": "SPA" },
+    { "position": 746, "foreign": "batir", "english": "beat", "code": "SPA" },
+    {
+        "position": 747,
+        "foreign": "excitar",
+        "english": "excite",
+        "code": "SPA"
+    },
+    {
+        "position": 748,
+        "foreign": "naturales",
+        "english": "natural",
+        "code": "SPA"
+    },
+    { "position": 749, "foreign": "vista", "english": "view", "code": "SPA" },
+    {
+        "position": 750,
+        "foreign": "sentido",
+        "english": "sense",
+        "code": "SPA"
+    },
+    {
+        "position": 751,
+        "foreign": "de capital",
+        "english": "capital",
+        "code": "SPA"
+    },
+    {
+        "position": 752,
+        "foreign": "no lo hará",
+        "english": "won’t",
+        "code": "SPA"
+    },
+    { "position": 753, "foreign": "silla", "english": "chair", "code": "SPA" },
+    {
+        "position": 754,
+        "foreign": "peligro",
+        "english": "danger",
+        "code": "SPA"
+    },
+    { "position": 755, "foreign": "fruta", "english": "fruit", "code": "SPA" },
+    { "position": 756, "foreign": "rica", "english": "rich", "code": "SPA" },
+    {
+        "position": 757,
+        "foreign": "de espesor",
+        "english": "thick",
+        "code": "SPA"
+    },
+    {
+        "position": 758,
+        "foreign": "soldado",
+        "english": "soldier",
+        "code": "SPA"
+    },
+    {
+        "position": 759,
+        "foreign": "proceso",
+        "english": "process",
+        "code": "SPA"
+    },
+    {
+        "position": 760,
+        "foreign": "operar",
+        "english": "operate",
+        "code": "SPA"
+    },
+    {
+        "position": 761,
+        "foreign": "práctica",
+        "english": "practice",
+        "code": "SPA"
+    },
+    {
+        "position": 762,
+        "foreign": "separada",
+        "english": "separate",
+        "code": "SPA"
+    },
+    {
+        "position": 763,
+        "foreign": "difícil",
+        "english": "difficult",
+        "code": "SPA"
+    },
+    {
+        "position": 764,
+        "foreign": "médico",
+        "english": "doctor",
+        "code": "SPA"
+    },
+    {
+        "position": 765,
+        "foreign": "por favor",
+        "english": "please",
+        "code": "SPA"
+    },
+    {
+        "position": 766,
+        "foreign": "proteger",
+        "english": "protect",
+        "code": "SPA"
+    },
+    {
+        "position": 767,
+        "foreign": "mediodía",
+        "english": "noon",
+        "code": "SPA"
+    },
+    {
+        "position": 768,
+        "foreign": "de cultivos",
+        "english": "crop",
+        "code": "SPA"
+    },
+    {
+        "position": 769,
+        "foreign": "moderno",
+        "english": "modern",
+        "code": "SPA"
+    },
+    {
+        "position": 770,
+        "foreign": "elemento",
+        "english": "element",
+        "code": "SPA"
+    },
+    { "position": 771, "foreign": "golpear", "english": "hit", "code": "SPA" },
+    {
+        "position": 772,
+        "foreign": "estudiante",
+        "english": "student",
+        "code": "SPA"
+    },
+    {
+        "position": 773,
+        "foreign": "esquina",
+        "english": "corner",
+        "code": "SPA"
+    },
+    {
+        "position": 774,
+        "foreign": "partido",
+        "english": "party",
+        "code": "SPA"
+    },
+    {
+        "position": 775,
+        "foreign": "suministro",
+        "english": "supply",
+        "code": "SPA"
+    },
+    { "position": 776, "foreign": "cuya", "english": "whose", "code": "SPA" },
+    {
+        "position": 777,
+        "foreign": "localizar",
+        "english": "locate",
+        "code": "SPA"
+    },
+    { "position": 778, "foreign": "anillo", "english": "ring", "code": "SPA" },
+    {
+        "position": 779,
+        "foreign": "carácter",
+        "english": "character",
+        "code": "SPA"
+    },
+    {
+        "position": 780,
+        "foreign": "insecto",
+        "english": "insect",
+        "code": "SPA"
+    },
+    {
+        "position": 781,
+        "foreign": "capturado",
+        "english": "caught",
+        "code": "SPA"
+    },
+    {
+        "position": 782,
+        "foreign": "período",
+        "english": "period",
+        "code": "SPA"
+    },
+    {
+        "position": 783,
+        "foreign": "indicar",
+        "english": "indicate",
+        "code": "SPA"
+    },
+    { "position": 784, "foreign": "Radio", "english": "radio", "code": "SPA" },
+    { "position": 785, "foreign": "habló", "english": "spoke", "code": "SPA" },
+    { "position": 786, "foreign": "átomo", "english": "atom", "code": "SPA" },
+    { "position": 787, "foreign": "humana", "english": "human", "code": "SPA" },
+    {
+        "position": 788,
+        "foreign": "historia",
+        "english": "history",
+        "code": "SPA"
+    },
+    {
+        "position": 789,
+        "foreign": "efecto",
+        "english": "effect",
+        "code": "SPA"
+    },
+    {
+        "position": 790,
+        "foreign": "eléctrica",
+        "english": "electric",
+        "code": "SPA"
+    },
+    {
+        "position": 791,
+        "foreign": "esperar",
+        "english": "expect",
+        "code": "SPA"
+    },
+    { "position": 792, "foreign": "hueso", "english": "bone", "code": "SPA" },
+    {
+        "position": 793,
+        "foreign": "ferrocarril",
+        "english": "rail",
+        "code": "SPA"
+    },
+    {
+        "position": 794,
+        "foreign": "imaginar",
+        "english": "imagine",
+        "code": "SPA"
+    },
+    {
+        "position": 795,
+        "foreign": "proporcionar",
+        "english": "provide",
+        "code": "SPA"
+    },
+    {
+        "position": 796,
+        "foreign": "acuerdo",
+        "english": "agree",
+        "code": "SPA"
+    },
+    {
+        "position": 797,
+        "foreign": "por tanto,",
+        "english": "thus",
+        "code": "SPA"
+    },
+    { "position": 798, "foreign": "suave", "english": "gentle", "code": "SPA" },
+    { "position": 799, "foreign": "mujer", "english": "woman", "code": "SPA" },
+    {
+        "position": 800,
+        "foreign": "capitán",
+        "english": "captain",
+        "code": "SPA"
+    },
+    {
+        "position": 801,
+        "foreign": "adivinar",
+        "english": "guess",
+        "code": "SPA"
+    },
+    {
+        "position": 802,
+        "foreign": "necesario",
+        "english": "necessary",
+        "code": "SPA"
+    },
+    { "position": 803, "foreign": "agudo", "english": "sharp", "code": "SPA" },
+    { "position": 804, "foreign": "ala", "english": "wing", "code": "SPA" },
+    { "position": 805, "foreign": "crear", "english": "create", "code": "SPA" },
+    {
+        "position": 806,
+        "foreign": "vecino",
+        "english": "neighbor",
+        "code": "SPA"
+    },
+    { "position": 807, "foreign": "lavado", "english": "wash", "code": "SPA" },
+    { "position": 808, "foreign": "bate", "english": "bat", "code": "SPA" },
+    {
+        "position": 809,
+        "foreign": "más bien",
+        "english": "rather",
+        "code": "SPA"
+    },
+    {
+        "position": 810,
+        "foreign": "multitud",
+        "english": "crowd",
+        "code": "SPA"
+    },
+    { "position": 811, "foreign": "maíz", "english": "corn", "code": "SPA" },
+    {
+        "position": 812,
+        "foreign": "comparar",
+        "english": "compare",
+        "code": "SPA"
+    },
+    { "position": 813, "foreign": "poema", "english": "poem", "code": "SPA" },
+    {
+        "position": 814,
+        "foreign": "cadena",
+        "english": "string",
+        "code": "SPA"
+    },
+    { "position": 815, "foreign": "campana", "english": "bell", "code": "SPA" },
+    {
+        "position": 816,
+        "foreign": "dependerá",
+        "english": "depend",
+        "code": "SPA"
+    },
+    { "position": 817, "foreign": "carne", "english": "meat", "code": "SPA" },
+    { "position": 818, "foreign": "frotar", "english": "rub", "code": "SPA" },
+    { "position": 819, "foreign": "tubo", "english": "tube", "code": "SPA" },
+    {
+        "position": 820,
+        "foreign": "famoso",
+        "english": "famous",
+        "code": "SPA"
+    },
+    { "position": 921, "foreign": "dólar", "english": "dollar", "code": "SPA" },
+    {
+        "position": 822,
+        "foreign": "corriente",
+        "english": "stream",
+        "code": "SPA"
+    },
+    { "position": 823, "foreign": "miedo", "english": "fear", "code": "SPA" },
+    { "position": 284, "foreign": "vista", "english": "sight", "code": "SPA" },
+    { "position": 825, "foreign": "delgado", "english": "thin", "code": "SPA" },
+    {
+        "position": 826,
+        "foreign": "triángulo",
+        "english": "triangle",
+        "code": "SPA"
+    },
+    {
+        "position": 827,
+        "foreign": "planeta",
+        "english": "planet",
+        "code": "SPA"
+    },
+    { "position": 828, "foreign": "prisa", "english": "hurry", "code": "SPA" },
+    { "position": 829, "foreign": "jefe", "english": "chief", "code": "SPA" },
+    {
+        "position": 830,
+        "foreign": "colonia",
+        "english": "colony",
+        "code": "SPA"
+    },
+    { "position": 831, "foreign": "reloj", "english": "clock", "code": "SPA" },
+    { "position": 832, "foreign": "mina", "english": "mine", "code": "SPA" },
+    { "position": 833, "foreign": "empate", "english": "tie", "code": "SPA" },
+    { "position": 834, "foreign": "entrar", "english": "enter", "code": "SPA" },
+    {
+        "position": 835,
+        "foreign": "importante",
+        "english": "major",
+        "code": "SPA"
+    },
+    { "position": 836, "foreign": "fresco", "english": "fresh", "code": "SPA" },
+    {
+        "position": 837,
+        "foreign": "búsqueda",
+        "english": "search",
+        "code": "SPA"
+    },
+    { "position": 838, "foreign": "enviar", "english": "send", "code": "SPA" },
+    {
+        "position": 839,
+        "foreign": "amarillo",
+        "english": "yellow",
+        "code": "SPA"
+    },
+    { "position": 840, "foreign": "pistola", "english": "gun", "code": "SPA" },
+    {
+        "position": 841,
+        "foreign": "permitir",
+        "english": "allow",
+        "code": "SPA"
+    },
+    { "position": 842, "foreign": "print", "english": "print", "code": "SPA" },
+    { "position": 843, "foreign": "muerto", "english": "dead", "code": "SPA" },
+    { "position": 844, "foreign": "lugar", "english": "spot", "code": "SPA" },
+    {
+        "position": 845,
+        "foreign": "desierto",
+        "english": "desert",
+        "code": "SPA"
+    },
+    { "position": 846, "foreign": "traje", "english": "suit", "code": "SPA" },
+    {
+        "position": 847,
+        "foreign": "actual",
+        "english": "current",
+        "code": "SPA"
+    },
+    {
+        "position": 848,
+        "foreign": "ascensor",
+        "english": "lift",
+        "code": "SPA"
+    },
+    { "position": 840, "foreign": "rosa", "english": "rose", "code": "SPA" },
+    {
+        "position": 850,
+        "foreign": "llegar",
+        "english": "arrive",
+        "code": "SPA"
+    },
+    {
+        "position": 851,
+        "foreign": "master",
+        "english": "master",
+        "code": "SPA"
+    },
+    { "position": 852, "foreign": "pista", "english": "track", "code": "SPA" },
+    { "position": 853, "foreign": "padre", "english": "parent", "code": "SPA" },
+    { "position": 854, "foreign": "orilla", "english": "shore", "code": "SPA" },
+    {
+        "position": 855,
+        "foreign": "división",
+        "english": "division",
+        "code": "SPA"
+    },
+    { "position": 856, "foreign": "hoja", "english": "sheet", "code": "SPA" },
+    {
+        "position": 857,
+        "foreign": "sustancia",
+        "english": "substance",
+        "code": "SPA"
+    },
+    {
+        "position": 858,
+        "foreign": "favorecer",
+        "english": "favor",
+        "code": "SPA"
+    },
+    {
+        "position": 859,
+        "foreign": "conectar",
+        "english": "connect",
+        "code": "SPA"
+    },
+    { "position": 860, "foreign": "mensaje", "english": "post", "code": "SPA" },
+    { "position": 861, "foreign": "pasar", "english": "spend", "code": "SPA" },
+    { "position": 862, "foreign": "acorde", "english": "chord", "code": "SPA" },
+    { "position": 863, "foreign": "grasa", "english": "fat", "code": "SPA" },
+    {
+        "position": 864,
+        "foreign": "contento",
+        "english": "glad",
+        "code": "SPA"
+    },
+    {
+        "position": 865,
+        "foreign": "originales",
+        "english": "original",
+        "code": "SPA"
+    },
+    { "position": 866, "foreign": "cuota", "english": "share", "code": "SPA" },
+    {
+        "position": 867,
+        "foreign": "estación",
+        "english": "station",
+        "code": "SPA"
+    },
+    { "position": 868, "foreign": "papá", "english": "dad", "code": "SPA" },
+    { "position": 869, "foreign": "pan", "english": "bread", "code": "SPA" },
+    {
+        "position": 870,
+        "foreign": "cobrar",
+        "english": "charge",
+        "code": "SPA"
+    },
+    {
+        "position": 871,
+        "foreign": "adecuada",
+        "english": "proper",
+        "code": "SPA"
+    },
+    { "position": 872, "foreign": "barra", "english": "bar", "code": "SPA" },
+    { "position": 873, "foreign": "oferta", "english": "offer", "code": "SPA" },
+    {
+        "position": 874,
+        "foreign": "segmento",
+        "english": "segment",
+        "code": "SPA"
+    },
+    {
+        "position": 875,
+        "foreign": "esclavo",
+        "english": "slave",
+        "code": "SPA"
+    },
+    { "position": 876, "foreign": "pato", "english": "duck", "code": "SPA" },
+    {
+        "position": 877,
+        "foreign": "instantánea",
+        "english": "instant",
+        "code": "SPA"
+    },
+    {
+        "position": 878,
+        "foreign": "mercado",
+        "english": "market",
+        "code": "SPA"
+    },
+    { "position": 879, "foreign": "grado", "english": "degree", "code": "SPA" },
+    {
+        "position": 880,
+        "foreign": "poblar",
+        "english": "populate",
+        "code": "SPA"
+    },
+    {
+        "position": 881,
+        "foreign": "polluelo",
+        "english": "chick",
+        "code": "SPA"
+    },
+    { "position": 882, "foreign": "querido", "english": "dear", "code": "SPA" },
+    {
+        "position": 883,
+        "foreign": "enemigo",
+        "english": "enemy",
+        "code": "SPA"
+    },
+    {
+        "position": 884,
+        "foreign": "responder",
+        "english": "reply",
+        "code": "SPA"
+    },
+    { "position": 885, "foreign": "bebida", "english": "drink", "code": "SPA" },
+    {
+        "position": 886,
+        "foreign": "producirse",
+        "english": "occur",
+        "code": "SPA"
+    },
+    {
+        "position": 887,
+        "foreign": "apoyo",
+        "english": "support",
+        "code": "SPA"
+    },
+    {
+        "position": 888,
+        "foreign": "discurso",
+        "english": "speech",
+        "code": "SPA"
+    },
+    {
+        "position": 889,
+        "foreign": "naturaleza",
+        "english": "nature",
+        "code": "SPA"
+    },
+    {
+        "position": 890,
+        "foreign": "alcance",
+        "english": "range",
+        "code": "SPA"
+    },
+    { "position": 891, "foreign": "vapor", "english": "steam", "code": "SPA" },
+    {
+        "position": 892,
+        "foreign": "movimiento",
+        "english": "motion",
+        "code": "SPA"
+    },
+    { "position": 893, "foreign": "camino", "english": "path", "code": "SPA" },
+    {
+        "position": 894,
+        "foreign": "líquido",
+        "english": "liquid",
+        "code": "SPA"
+    },
+    { "position": 895, "foreign": "log", "english": "log", "code": "SPA" },
+    {
+        "position": 896,
+        "foreign": "significado",
+        "english": "meant",
+        "code": "SPA"
+    },
+    {
+        "position": 897,
+        "foreign": "cociente",
+        "english": "quotient",
+        "code": "SPA"
+    },
+    {
+        "position": 898,
+        "foreign": "dientes",
+        "english": "teeth",
+        "code": "SPA"
+    },
+    { "position": 899, "foreign": "concha", "english": "shell", "code": "SPA" },
+    { "position": 900, "foreign": "cuello", "english": "neck", "code": "SPA" },
+    {
+        "position": 901,
+        "foreign": "oxígeno",
+        "english": "oxygen",
+        "code": "SPA"
+    },
+    { "position": 902, "foreign": "azúcar", "english": "sugar", "code": "SPA" },
+    { "position": 903, "foreign": "muerte", "english": "death", "code": "SPA" },
+    {
+        "position": 904,
+        "foreign": "bastante",
+        "english": "pretty",
+        "code": "SPA"
+    },
+    {
+        "position": 905,
+        "foreign": "habilidad",
+        "english": "skill",
+        "code": "SPA"
+    },
+    {
+        "position": 906,
+        "foreign": "mujeres",
+        "english": "women",
+        "code": "SPA"
+    },
+    {
+        "position": 907,
+        "foreign": "temporada",
+        "english": "season",
+        "code": "SPA"
+    },
+    {
+        "position": 908,
+        "foreign": "solución",
+        "english": "solution",
+        "code": "SPA"
+    },
+    { "position": 909, "foreign": "imán", "english": "magnet", "code": "SPA" },
+    { "position": 910, "foreign": "plata", "english": "silver", "code": "SPA" },
+    {
+        "position": 911,
+        "foreign": "gracias",
+        "english": "thank",
+        "code": "SPA"
+    },
+    { "position": 912, "foreign": "rama", "english": "branch", "code": "SPA" },
+    {
+        "position": 913,
+        "foreign": "partido",
+        "english": "match",
+        "code": "SPA"
+    },
+    {
+        "position": 914,
+        "foreign": "sufijo",
+        "english": "suffix",
+        "code": "SPA"
+    },
+    {
+        "position": 915,
+        "foreign": "especialmente",
+        "english": "especially",
+        "code": "SPA"
+    },
+    { "position": 916, "foreign": "higo", "english": "fig", "code": "SPA" },
+    { "position": 917, "foreign": "miedo", "english": "afraid", "code": "SPA" },
+    { "position": 918, "foreign": "enorme", "english": "huge", "code": "SPA" },
+    {
+        "position": 919,
+        "foreign": "hermana",
+        "english": "sister",
+        "code": "SPA"
+    },
+    { "position": 920, "foreign": "acero", "english": "steel", "code": "SPA" },
+    {
+        "position": 921,
+        "foreign": "discutir",
+        "english": "discuss",
+        "code": "SPA"
+    },
+    {
+        "position": 922,
+        "foreign": "adelante",
+        "english": "forward",
+        "code": "SPA"
+    },
+    {
+        "position": 923,
+        "foreign": "similar",
+        "english": "similar",
+        "code": "SPA"
+    },
+    { "position": 924, "foreign": "guiar", "english": "guide", "code": "SPA" },
+    {
+        "position": 925,
+        "foreign": "experiencia",
+        "english": "experience",
+        "code": "SPA"
+    },
+    {
+        "position": 926,
+        "foreign": "puntuación",
+        "english": "score",
+        "code": "SPA"
+    },
+    {
+        "position": 927,
+        "foreign": "manzana",
+        "english": "apple",
+        "code": "SPA"
+    },
+    {
+        "position": 928,
+        "foreign": "comprado",
+        "english": "bought",
+        "code": "SPA"
+    },
+    { "position": 929, "foreign": "llevado", "english": "led", "code": "SPA" },
+    { "position": 930, "foreign": "pitch", "english": "pitch", "code": "SPA" },
+    { "position": 931, "foreign": "abrigo", "english": "coat", "code": "SPA" },
+    { "position": 932, "foreign": "masa", "english": "mass", "code": "SPA" },
+    { "position": 933, "foreign": "tarjeta", "english": "card", "code": "SPA" },
+    { "position": 934, "foreign": "banda", "english": "band", "code": "SPA" },
+    { "position": 935, "foreign": "cuerda", "english": "rope", "code": "SPA" },
+    {
+        "position": 936,
+        "foreign": "deslizamiento",
+        "english": "slip",
+        "code": "SPA"
+    },
+    { "position": 937, "foreign": "ganar", "english": "win", "code": "SPA" },
+    { "position": 938, "foreign": "soñar", "english": "dream", "code": "SPA" },
+    {
+        "position": 939,
+        "foreign": "noche",
+        "english": "evening",
+        "code": "SPA"
+    },
+    {
+        "position": 940,
+        "foreign": "condición",
+        "english": "condition",
+        "code": "SPA"
+    },
+    { "position": 941, "foreign": "pienso", "english": "feed", "code": "SPA" },
+    {
+        "position": 942,
+        "foreign": "herramienta",
+        "english": "tool",
+        "code": "SPA"
+    },
+    {
+        "position": 943,
+        "foreign": "totales",
+        "english": "total",
+        "code": "SPA"
+    },
+    { "position": 944, "foreign": "básico", "english": "basic", "code": "SPA" },
+    { "position": 945, "foreign": "olor", "english": "smell", "code": "SPA" },
+    { "position": 946, "foreign": "valle", "english": "valley", "code": "SPA" },
+    { "position": 947, "foreign": "ni", "english": "nor", "code": "SPA" },
+    { "position": 948, "foreign": "doble", "english": "double", "code": "SPA" },
+    { "position": 949, "foreign": "asiento", "english": "seat", "code": "SPA" },
+    {
+        "position": 950,
+        "foreign": "continuar",
+        "english": "continue",
+        "code": "SPA"
+    },
+    { "position": 951, "foreign": "bloque", "english": "block", "code": "SPA" },
+    { "position": 952, "foreign": "tabla", "english": "chart", "code": "SPA" },
+    { "position": 953, "foreign": "sombrero", "english": "hat", "code": "SPA" },
+    { "position": 954, "foreign": "vender", "english": "sell", "code": "SPA" },
+    {
+        "position": 955,
+        "foreign": "éxito",
+        "english": "success",
+        "code": "SPA"
+    },
+    {
+        "position": 956,
+        "foreign": "empresa",
+        "english": "company",
+        "code": "SPA"
+    },
+    {
+        "position": 957,
+        "foreign": "restar",
+        "english": "subtract",
+        "code": "SPA"
+    },
+    { "position": 958, "foreign": "evento", "english": "event", "code": "SPA" },
+    {
+        "position": 959,
+        "foreign": "particular,",
+        "english": "particular",
+        "code": "SPA"
+    },
+    { "position": 960, "foreign": "acuerdo", "english": "deal", "code": "SPA" },
+    { "position": 961, "foreign": "nadar", "english": "swim", "code": "SPA" },
+    { "position": 962, "foreign": "plazo", "english": "term", "code": "SPA" },
+    {
+        "position": 963,
+        "foreign": "opuesta",
+        "english": "opposite",
+        "code": "SPA"
+    },
+    { "position": 964, "foreign": "esposa", "english": "wife", "code": "SPA" },
+    { "position": 965, "foreign": "zapato", "english": "shoe", "code": "SPA" },
+    {
+        "position": 966,
+        "foreign": "hombro",
+        "english": "shoulder",
+        "code": "SPA"
+    },
+    {
+        "position": 967,
+        "foreign": "propagación",
+        "english": "spread",
+        "code": "SPA"
+    },
+    {
+        "position": 968,
+        "foreign": "organizar",
+        "english": "arrange",
+        "code": "SPA"
+    },
+    {
+        "position": 969,
+        "foreign": "campamento",
+        "english": "camp",
+        "code": "SPA"
+    },
+    {
+        "position": 970,
+        "foreign": "inventar",
+        "english": "invent",
+        "code": "SPA"
+    },
+    {
+        "position": 971,
+        "foreign": "algodón",
+        "english": "cotton",
+        "code": "SPA"
+    },
+    { "position": 972, "foreign": "nacido", "english": "born", "code": "SPA" },
+    {
+        "position": 973,
+        "foreign": "determinar",
+        "english": "determine",
+        "code": "SPA"
+    },
+    {
+        "position": 974,
+        "foreign": "cuarto de galón",
+        "english": "quart",
+        "code": "SPA"
+    },
+    { "position": 975, "foreign": "nueve", "english": "nine", "code": "SPA" },
+    { "position": 976, "foreign": "camión", "english": "truck", "code": "SPA" },
+    { "position": 977, "foreign": "ruido", "english": "noise", "code": "SPA" },
+    { "position": 978, "foreign": "nivel", "english": "level", "code": "SPA" },
+    {
+        "position": 979,
+        "foreign": "oportunidad",
+        "english": "chance",
+        "code": "SPA"
+    },
+    {
+        "position": 980,
+        "foreign": "reunir",
+        "english": "gather",
+        "code": "SPA"
+    },
+    { "position": 981, "foreign": "tienda", "english": "shop", "code": "SPA" },
+    {
+        "position": 982,
+        "foreign": "tramo",
+        "english": "stretch",
+        "code": "SPA"
+    },
+    { "position": 983, "foreign": "lanzar", "english": "throw", "code": "SPA" },
+    { "position": 984, "foreign": "brillo", "english": "shine", "code": "SPA" },
+    {
+        "position": 985,
+        "foreign": "propiedad",
+        "english": "property",
+        "code": "SPA"
+    },
+    {
+        "position": 986,
+        "foreign": "columna",
+        "english": "column",
+        "code": "SPA"
+    },
+    {
+        "position": 987,
+        "foreign": "molécula",
+        "english": "molecule",
+        "code": "SPA"
+    },
+    {
+        "position": 988,
+        "foreign": "seleccionar",
+        "english": "select",
+        "code": "SPA"
+    },
+    { "position": 989, "foreign": "mal", "english": "wrong", "code": "SPA" },
+    { "position": 990, "foreign": "gris", "english": "gray", "code": "SPA" },
+    {
+        "position": 991,
+        "foreign": "repita",
+        "english": "repeat",
+        "code": "SPA"
+    },
+    {
+        "position": 992,
+        "foreign": "exigir",
+        "english": "require",
+        "code": "SPA"
+    },
+    { "position": 993, "foreign": "amplio", "english": "broad", "code": "SPA" },
+    {
+        "position": 994,
+        "foreign": "preparar",
+        "english": "prepare",
+        "code": "SPA"
+    },
+    { "position": 995, "foreign": "sal", "english": "salt", "code": "SPA" },
+    { "position": 996, "foreign": "nariz", "english": "nose", "code": "SPA" },
+    {
+        "position": 997,
+        "foreign": "plurales",
+        "english": "plural",
+        "code": "SPA"
+    },
+    { "position": 998, "foreign": "cólera", "english": "anger", "code": "SPA" },
+    {
+        "position": 999,
+        "foreign": "reclamación",
+        "english": "claim",
+        "code": "SPA"
+    },
+    {
+        "position": 1000,
+        "foreign": "continente",
+        "english": "continent",
+        "code": "SPA"
+    }
+]

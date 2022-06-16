@@ -1,0 +1,5 @@
+AS ARAY OF OBJECTS
+mongoimport address  --db LangLearnNode --collection dictionaries --type json --file ./0french.json --jsonArray --username admin
+
+AS ONE OBJECT
+mongoimport address  --db LangLearnNode --collection dictionaries --type json --file ./0french.json --username admin

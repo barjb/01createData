@@ -1,0 +1,2732 @@
+[
+    { "position": 1, "foreign": "como", "english": "as", "code": "POR" },
+    { "position": 2, "foreign": "I", "english": "I", "code": "POR" },
+    { "position": 3, "foreign": "seu", "english": "his", "code": "POR" },
+    { "position": 4, "foreign": "que", "english": "that", "code": "POR" },
+    { "position": 5, "foreign": "ele", "english": "he", "code": "POR" },
+    { "position": 6, "foreign": "foi", "english": "was", "code": "POR" },
+    { "position": 7, "foreign": "para", "english": "for", "code": "POR" },
+    { "position": 8, "foreign": "em", "english": "on", "code": "POR" },
+    { "position": 9, "foreign": "são", "english": "are", "code": "POR" },
+    { "position": 10, "foreign": "com", "english": "with", "code": "POR" },
+    { "position": 11, "foreign": "eles", "english": "they", "code": "POR" },
+    { "position": 12, "foreign": "ser", "english": "be", "code": "POR" },
+    { "position": 13, "foreign": "em", "english": "at", "code": "POR" },
+    { "position": 14, "foreign": "uma", "english": "one", "code": "POR" },
+    { "position": 15, "foreign": "tem", "english": "have", "code": "POR" },
+    { "position": 16, "foreign": "este", "english": "this", "code": "POR" },
+    {
+        "position": 17,
+        "foreign": "a partir de",
+        "english": "from",
+        "code": "POR"
+    },
+    { "position": 18, "foreign": "por", "english": "by", "code": "POR" },
+    { "position": 19, "foreign": "quente", "english": "hot", "code": "POR" },
+    { "position": 20, "foreign": "palavra", "english": "word", "code": "POR" },
+    { "position": 21, "foreign": "mas", "english": "but", "code": "POR" },
+    { "position": 22, "foreign": "o que", "english": "what", "code": "POR" },
+    { "position": 23, "foreign": "alguns", "english": "some", "code": "POR" },
+    { "position": 24, "foreign": "é", "english": "is", "code": "POR" },
+    { "position": 25, "foreign": "ele", "english": "it", "code": "POR" },
+    { "position": 26, "foreign": "você", "english": "you", "code": "POR" },
+    { "position": 27, "foreign": "ou", "english": "or", "code": "POR" },
+    { "position": 28, "foreign": "teve", "english": "had", "code": "POR" },
+    { "position": 29, "foreign": "o", "english": "the", "code": "POR" },
+    { "position": 30, "foreign": "de", "english": "of", "code": "POR" },
+    { "position": 31, "foreign": "a", "english": "to", "code": "POR" },
+    { "position": 32, "foreign": "e", "english": "and", "code": "POR" },
+    { "position": 33, "foreign": "uma", "english": "a", "code": "POR" },
+    { "position": 34, "foreign": "em", "english": "in", "code": "POR" },
+    { "position": 35, "foreign": "nós", "english": "we", "code": "POR" },
+    { "position": 36, "foreign": "lata", "english": "can", "code": "POR" },
+    { "position": 37, "foreign": "fora", "english": "out", "code": "POR" },
+    { "position": 38, "foreign": "outro", "english": "other", "code": "POR" },
+    { "position": 39, "foreign": "foram", "english": "were", "code": "POR" },
+    { "position": 40, "foreign": "que", "english": "which", "code": "POR" },
+    { "position": 41, "foreign": "fazer", "english": "do", "code": "POR" },
+    { "position": 42, "foreign": "seu", "english": "their", "code": "POR" },
+    { "position": 43, "foreign": "tempo", "english": "time", "code": "POR" },
+    { "position": 44, "foreign": "se", "english": "if", "code": "POR" },
+    { "position": 45, "foreign": "vontade", "english": "will", "code": "POR" },
+    { "position": 46, "foreign": "como", "english": "how", "code": "POR" },
+    { "position": 47, "foreign": "disse", "english": "said", "code": "POR" },
+    { "position": 48, "foreign": "uma", "english": "an", "code": "POR" },
+    { "position": 49, "foreign": "cada", "english": "each", "code": "POR" },
+    { "position": 50, "foreign": "dizer", "english": "tell", "code": "POR" },
+    { "position": 51, "foreign": "faz", "english": "does", "code": "POR" },
+    { "position": 52, "foreign": "conjunto", "english": "set", "code": "POR" },
+    { "position": 53, "foreign": "três", "english": "three", "code": "POR" },
+    { "position": 54, "foreign": "quer", "english": "want", "code": "POR" },
+    { "position": 55, "foreign": "ar", "english": "air", "code": "POR" },
+    { "position": 56, "foreign": "bem", "english": "well", "code": "POR" },
+    { "position": 57, "foreign": "também", "english": "also", "code": "POR" },
+    { "position": 58, "foreign": "jogar", "english": "play", "code": "POR" },
+    { "position": 59, "foreign": "pequeno", "english": "small", "code": "POR" },
+    { "position": 60, "foreign": "fim", "english": "end", "code": "POR" },
+    { "position": 61, "foreign": "colocar", "english": "put", "code": "POR" },
+    { "position": 62, "foreign": "casa", "english": "home", "code": "POR" },
+    { "position": 63, "foreign": "ler", "english": "read", "code": "POR" },
+    { "position": 64, "foreign": "mão", "english": "hand", "code": "POR" },
+    { "position": 65, "foreign": "port", "english": "port", "code": "POR" },
+    { "position": 66, "foreign": "grande", "english": "large", "code": "POR" },
+    {
+        "position": 67,
+        "foreign": "soletrar",
+        "english": "spell",
+        "code": "POR"
+    },
+    { "position": 68, "foreign": "adicionar", "english": "add", "code": "POR" },
+    { "position": 69, "foreign": "mesmo", "english": "even", "code": "POR" },
+    { "position": 70, "foreign": "terra", "english": "land", "code": "POR" },
+    { "position": 71, "foreign": "aqui", "english": "here", "code": "POR" },
+    {
+        "position": 72,
+        "foreign": "necessário",
+        "english": "must",
+        "code": "POR"
+    },
+    { "position": 73, "foreign": "grande", "english": "big", "code": "POR" },
+    { "position": 74, "foreign": "alto", "english": "high", "code": "POR" },
+    { "position": 75, "foreign": "tais", "english": "such", "code": "POR" },
+    { "position": 76, "foreign": "siga", "english": "follow", "code": "POR" },
+    { "position": 77, "foreign": "ato", "english": "act", "code": "POR" },
+    { "position": 78, "foreign": "por que", "english": "why", "code": "POR" },
+    { "position": 79, "foreign": "perguntar", "english": "ask", "code": "POR" },
+    { "position": 80, "foreign": "homens", "english": "men", "code": "POR" },
+    {
+        "position": 81,
+        "foreign": "mudança",
+        "english": "change",
+        "code": "POR"
+    },
+    { "position": 82, "foreign": "fui", "english": "went", "code": "POR" },
+    { "position": 83, "foreign": "luz", "english": "light", "code": "POR" },
+    { "position": 84, "foreign": "tipo", "english": "kind", "code": "POR" },
+    { "position": 85, "foreign": "off", "english": "off", "code": "POR" },
+    { "position": 86, "foreign": "precisa", "english": "need", "code": "POR" },
+    { "position": 87, "foreign": "casa", "english": "house", "code": "POR" },
+    {
+        "position": 88,
+        "foreign": "imagem",
+        "english": "picture",
+        "code": "POR"
+    },
+    { "position": 89, "foreign": "tentar", "english": "try", "code": "POR" },
+    { "position": 90, "foreign": "nós", "english": "us", "code": "POR" },
+    {
+        "position": 91,
+        "foreign": "novamente",
+        "english": "again",
+        "code": "POR"
+    },
+    {
+        "position": 92,
+        "foreign": "animais",
+        "english": "animal",
+        "code": "POR"
+    },
+    { "position": 93, "foreign": "ponto", "english": "point", "code": "POR" },
+    { "position": 94, "foreign": "mãe", "english": "mother", "code": "POR" },
+    { "position": 95, "foreign": "mundo", "english": "world", "code": "POR" },
+    { "position": 96, "foreign": "perto", "english": "near", "code": "POR" },
+    {
+        "position": 97,
+        "foreign": "construir",
+        "english": "build",
+        "code": "POR"
+    },
+    { "position": 98, "foreign": "auto", "english": "self", "code": "POR" },
+    { "position": 99, "foreign": "terra", "english": "earth", "code": "POR" },
+    { "position": 100, "foreign": "pai", "english": "father", "code": "POR" },
+    { "position": 101, "foreign": "qualquer", "english": "any", "code": "POR" },
+    { "position": 102, "foreign": "novo", "english": "new", "code": "POR" },
+    {
+        "position": 103,
+        "foreign": "trabalho",
+        "english": "work",
+        "code": "POR"
+    },
+    { "position": 104, "foreign": "parte", "english": "part", "code": "POR" },
+    { "position": 105, "foreign": "tomar", "english": "take", "code": "POR" },
+    { "position": 106, "foreign": "obter", "english": "get", "code": "POR" },
+    { "position": 107, "foreign": "lugar", "english": "place", "code": "POR" },
+    { "position": 108, "foreign": "feito", "english": "made", "code": "POR" },
+    { "position": 109, "foreign": "viver", "english": "live", "code": "POR" },
+    { "position": 110, "foreign": "onde", "english": "where", "code": "POR" },
+    { "position": 111, "foreign": "depois", "english": "after", "code": "POR" },
+    {
+        "position": 112,
+        "foreign": "de volta",
+        "english": "back",
+        "code": "POR"
+    },
+    { "position": 113, "foreign": "pouco", "english": "little", "code": "POR" },
+    { "position": 114, "foreign": "apenas", "english": "only", "code": "POR" },
+    { "position": 115, "foreign": "rodada", "english": "round", "code": "POR" },
+    { "position": 116, "foreign": "homem", "english": "man", "code": "POR" },
+    { "position": 117, "foreign": "ano", "english": "year", "code": "POR" },
+    { "position": 118, "foreign": "veio", "english": "came", "code": "POR" },
+    {
+        "position": 119,
+        "foreign": "exposição",
+        "english": "show",
+        "code": "POR"
+    },
+    { "position": 120, "foreign": "cada", "english": "every", "code": "POR" },
+    { "position": 121, "foreign": "bom", "english": "good", "code": "POR" },
+    { "position": 122, "foreign": "me", "english": "me", "code": "POR" },
+    { "position": 123, "foreign": "dar", "english": "give", "code": "POR" },
+    { "position": 124, "foreign": "nossa", "english": "our", "code": "POR" },
+    { "position": 125, "foreign": "sob", "english": "under", "code": "POR" },
+    { "position": 126, "foreign": "nome", "english": "name", "code": "POR" },
+    { "position": 127, "foreign": "muito", "english": "very", "code": "POR" },
+    {
+        "position": 128,
+        "foreign": "através",
+        "english": "through",
+        "code": "POR"
+    },
+    { "position": 129, "foreign": "justo", "english": "just", "code": "POR" },
+    { "position": 130, "foreign": "forma", "english": "form", "code": "POR" },
+    {
+        "position": 131,
+        "foreign": "sentença",
+        "english": "sentence",
+        "code": "POR"
+    },
+    { "position": 132, "foreign": "grande", "english": "great", "code": "POR" },
+    {
+        "position": 133,
+        "foreign": "acho que",
+        "english": "think",
+        "code": "POR"
+    },
+    { "position": 134, "foreign": "dizer", "english": "say", "code": "POR" },
+    { "position": 135, "foreign": "ajudar", "english": "help", "code": "POR" },
+    { "position": 136, "foreign": "baixo", "english": "low", "code": "POR" },
+    { "position": 137, "foreign": "linha", "english": "line", "code": "POR" },
+    {
+        "position": 138,
+        "foreign": "diferir",
+        "english": "differ",
+        "code": "POR"
+    },
+    { "position": 139, "foreign": "vez", "english": "turn", "code": "POR" },
+    { "position": 140, "foreign": "causa", "english": "cause", "code": "POR" },
+    { "position": 141, "foreign": "muito", "english": "much", "code": "POR" },
+    {
+        "position": 142,
+        "foreign": "significar",
+        "english": "mean",
+        "code": "POR"
+    },
+    { "position": 143, "foreign": "antes", "english": "before", "code": "POR" },
+    { "position": 144, "foreign": "mudança", "english": "move", "code": "POR" },
+    {
+        "position": 145,
+        "foreign": "direito",
+        "english": "right",
+        "code": "POR"
+    },
+    { "position": 146, "foreign": "menino", "english": "boy", "code": "POR" },
+    { "position": 147, "foreign": "velho", "english": "old", "code": "POR" },
+    { "position": 148, "foreign": "também", "english": "too", "code": "POR" },
+    { "position": 149, "foreign": "mesmo", "english": "same", "code": "POR" },
+    { "position": 150, "foreign": "ela", "english": "she", "code": "POR" },
+    { "position": 151, "foreign": "tudo", "english": "all", "code": "POR" },
+    { "position": 152, "foreign": "lá", "english": "there", "code": "POR" },
+    { "position": 153, "foreign": "quando", "english": "when", "code": "POR" },
+    { "position": 154, "foreign": "up", "english": "up", "code": "POR" },
+    { "position": 155, "foreign": "usar", "english": "use", "code": "POR" },
+    { "position": 156, "foreign": "seu", "english": "your", "code": "POR" },
+    { "position": 157, "foreign": "maneira", "english": "way", "code": "POR" },
+    { "position": 158, "foreign": "sobre", "english": "about", "code": "POR" },
+    { "position": 159, "foreign": "muitos", "english": "many", "code": "POR" },
+    { "position": 160, "foreign": "depois", "english": "then", "code": "POR" },
+    { "position": 161, "foreign": "eles", "english": "them", "code": "POR" },
+    {
+        "position": 162,
+        "foreign": "escrever",
+        "english": "write",
+        "code": "POR"
+    },
+    { "position": 163, "foreign": "faria", "english": "would", "code": "POR" },
+    { "position": 164, "foreign": "como", "english": "like", "code": "POR" },
+    { "position": 165, "foreign": "assim", "english": "so", "code": "POR" },
+    { "position": 166, "foreign": "estes", "english": "these", "code": "POR" },
+    { "position": 167, "foreign": "seu", "english": "her", "code": "POR" },
+    { "position": 168, "foreign": "longo", "english": "long", "code": "POR" },
+    { "position": 169, "foreign": "fazer", "english": "make", "code": "POR" },
+    { "position": 170, "foreign": "coisa", "english": "thing", "code": "POR" },
+    { "position": 171, "foreign": "veja", "english": "see", "code": "POR" },
+    { "position": 172, "foreign": "ele", "english": "him", "code": "POR" },
+    { "position": 173, "foreign": "dois", "english": "two", "code": "POR" },
+    { "position": 174, "foreign": "tem", "english": "has", "code": "POR" },
+    { "position": 175, "foreign": "olhar", "english": "look", "code": "POR" },
+    { "position": 176, "foreign": "mais", "english": "more", "code": "POR" },
+    { "position": 177, "foreign": "dia", "english": "day", "code": "POR" },
+    {
+        "position": 178,
+        "foreign": "poderia",
+        "english": "could",
+        "code": "POR"
+    },
+    { "position": 179, "foreign": "ir", "english": "go", "code": "POR" },
+    { "position": 180, "foreign": "vir", "english": "come", "code": "POR" },
+    { "position": 181, "foreign": "fez", "english": "did", "code": "POR" },
+    {
+        "position": 182,
+        "foreign": "número",
+        "english": "number",
+        "code": "POR"
+    },
+    { "position": 183, "foreign": "som", "english": "sound", "code": "POR" },
+    { "position": 184, "foreign": "não", "english": "no", "code": "POR" },
+    { "position": 185, "foreign": "mais", "english": "most", "code": "POR" },
+    {
+        "position": 186,
+        "foreign": "pessoas",
+        "english": "people",
+        "code": "POR"
+    },
+    { "position": 187, "foreign": "meu", "english": "my", "code": "POR" },
+    { "position": 188, "foreign": "sobre", "english": "over", "code": "POR" },
+    { "position": 189, "foreign": "sei", "english": "know", "code": "POR" },
+    { "position": 190, "foreign": "água", "english": "water", "code": "POR" },
+    { "position": 191, "foreign": "que", "english": "than", "code": "POR" },
+    { "position": 192, "foreign": "chamada", "english": "call", "code": "POR" },
+    {
+        "position": 193,
+        "foreign": "primeiro",
+        "english": "first",
+        "code": "POR"
+    },
+    { "position": 194, "foreign": "que", "english": "who", "code": "POR" },
+    { "position": 195, "foreign": "pode", "english": "may", "code": "POR" },
+    {
+        "position": 196,
+        "foreign": "para baixo",
+        "english": "down",
+        "code": "POR"
+    },
+    { "position": 197, "foreign": "lado", "english": "side", "code": "POR" },
+    { "position": 198, "foreign": "sido", "english": "been", "code": "POR" },
+    { "position": 199, "foreign": "agora", "english": "now", "code": "POR" },
+    {
+        "position": 200,
+        "foreign": "encontrar",
+        "english": "find",
+        "code": "POR"
+    },
+    { "position": 201, "foreign": "cabeça", "english": "head", "code": "POR" },
+    { "position": 202, "foreign": "ficar", "english": "stand", "code": "POR" },
+    { "position": 203, "foreign": "próprio", "english": "own", "code": "POR" },
+    { "position": 204, "foreign": "página", "english": "page", "code": "POR" },
+    {
+        "position": 205,
+        "foreign": "deveria",
+        "english": "should",
+        "code": "POR"
+    },
+    { "position": 206, "foreign": "país", "english": "country", "code": "POR" },
+    {
+        "position": 207,
+        "foreign": "encontrado",
+        "english": "found",
+        "code": "POR"
+    },
+    {
+        "position": 208,
+        "foreign": "resposta",
+        "english": "answer",
+        "code": "POR"
+    },
+    {
+        "position": 209,
+        "foreign": "escola",
+        "english": "school",
+        "code": "POR"
+    },
+    { "position": 210, "foreign": "crescer", "english": "grow", "code": "POR" },
+    { "position": 211, "foreign": "estudo", "english": "study", "code": "POR" },
+    { "position": 212, "foreign": "ainda", "english": "still", "code": "POR" },
+    {
+        "position": 213,
+        "foreign": "aprender",
+        "english": "learn",
+        "code": "POR"
+    },
+    { "position": 214, "foreign": "planta", "english": "plant", "code": "POR" },
+    {
+        "position": 215,
+        "foreign": "cobertura",
+        "english": "cover",
+        "code": "POR"
+    },
+    {
+        "position": 216,
+        "foreign": "alimentos",
+        "english": "food",
+        "code": "POR"
+    },
+    { "position": 217, "foreign": "sol", "english": "sun", "code": "POR" },
+    { "position": 218, "foreign": "quatro", "english": "four", "code": "POR" },
+    {
+        "position": 219,
+        "foreign": "entre",
+        "english": "between",
+        "code": "POR"
+    },
+    { "position": 220, "foreign": "estado", "english": "state", "code": "POR" },
+    { "position": 221, "foreign": "manter", "english": "keep", "code": "POR" },
+    { "position": 222, "foreign": "olho", "english": "eye", "code": "POR" },
+    { "position": 223, "foreign": "nunca", "english": "never", "code": "POR" },
+    { "position": 224, "foreign": "último", "english": "last", "code": "POR" },
+    { "position": 225, "foreign": "deixar", "english": "let", "code": "POR" },
+    {
+        "position": 226,
+        "foreign": "pensava",
+        "english": "thought",
+        "code": "POR"
+    },
+    { "position": 227, "foreign": "cidade", "english": "city", "code": "POR" },
+    { "position": 228, "foreign": "árvore", "english": "tree", "code": "POR" },
+    {
+        "position": 229,
+        "foreign": "atravessar",
+        "english": "cross",
+        "code": "POR"
+    },
+    { "position": 230, "foreign": "fazenda", "english": "farm", "code": "POR" },
+    { "position": 231, "foreign": "difícil", "english": "hard", "code": "POR" },
+    { "position": 232, "foreign": "começo", "english": "start", "code": "POR" },
+    { "position": 233, "foreign": "poder", "english": "might", "code": "POR" },
+    {
+        "position": 234,
+        "foreign": "história",
+        "english": "story",
+        "code": "POR"
+    },
+    { "position": 235, "foreign": "serra", "english": "saw", "code": "POR" },
+    { "position": 236, "foreign": "longe", "english": "far", "code": "POR" },
+    { "position": 237, "foreign": "mar", "english": "sea", "code": "POR" },
+    {
+        "position": 238,
+        "foreign": "desenhar",
+        "english": "draw",
+        "code": "POR"
+    },
+    {
+        "position": 239,
+        "foreign": "esquerda",
+        "english": "left",
+        "code": "POR"
+    },
+    { "position": 240, "foreign": "tarde", "english": "late", "code": "POR" },
+    { "position": 241, "foreign": "run", "english": "run", "code": "POR" },
+    { "position": 242, "foreign": "não", "english": "don’t", "code": "POR" },
+    {
+        "position": 243,
+        "foreign": "enquanto",
+        "english": "while",
+        "code": "POR"
+    },
+    {
+        "position": 244,
+        "foreign": "imprensa",
+        "english": "press",
+        "code": "POR"
+    },
+    { "position": 245, "foreign": "perto", "english": "close", "code": "POR" },
+    { "position": 246, "foreign": "noite", "english": "night", "code": "POR" },
+    { "position": 247, "foreign": "reais", "english": "real", "code": "POR" },
+    { "position": 248, "foreign": "vida", "english": "life", "code": "POR" },
+    { "position": 249, "foreign": "poucos", "english": "few", "code": "POR" },
+    { "position": 250, "foreign": "norte", "english": "north", "code": "POR" },
+    { "position": 251, "foreign": "livro", "english": "book", "code": "POR" },
+    {
+        "position": 252,
+        "foreign": "carregam",
+        "english": "carry",
+        "code": "POR"
+    },
+    { "position": 253, "foreign": "tomou", "english": "took", "code": "POR" },
+    {
+        "position": 254,
+        "foreign": "ciência",
+        "english": "science",
+        "code": "POR"
+    },
+    { "position": 255, "foreign": "comer", "english": "eat", "code": "POR" },
+    { "position": 256, "foreign": "quarto", "english": "room", "code": "POR" },
+    { "position": 257, "foreign": "amigo", "english": "friend", "code": "POR" },
+    {
+        "position": 258,
+        "foreign": "começou",
+        "english": "began",
+        "code": "POR"
+    },
+    { "position": 259, "foreign": "idéia", "english": "idea", "code": "POR" },
+    { "position": 260, "foreign": "peixe", "english": "fish", "code": "POR" },
+    {
+        "position": 261,
+        "foreign": "montanha",
+        "english": "mountain",
+        "code": "POR"
+    },
+    { "position": 262, "foreign": "Pare", "english": "stop", "code": "POR" },
+    { "position": 263, "foreign": "uma vez", "english": "once", "code": "POR" },
+    { "position": 264, "foreign": "base", "english": "base", "code": "POR" },
+    { "position": 265, "foreign": "ouvir", "english": "hear", "code": "POR" },
+    { "position": 266, "foreign": "cavalo", "english": "horse", "code": "POR" },
+    { "position": 267, "foreign": "corte", "english": "cut", "code": "POR" },
+    { "position": 268, "foreign": "certo", "english": "sure", "code": "POR" },
+    {
+        "position": 269,
+        "foreign": "assista",
+        "english": "watch",
+        "code": "POR"
+    },
+    { "position": 270, "foreign": "cor", "english": "color", "code": "POR" },
+    { "position": 271, "foreign": "rosto", "english": "face", "code": "POR" },
+    { "position": 272, "foreign": "madeira", "english": "wood", "code": "POR" },
+    {
+        "position": 273,
+        "foreign": "principal",
+        "english": "main",
+        "code": "POR"
+    },
+    { "position": 274, "foreign": "aberto", "english": "open", "code": "POR" },
+    { "position": 275, "foreign": "parecem", "english": "seem", "code": "POR" },
+    {
+        "position": 276,
+        "foreign": "juntos",
+        "english": "together",
+        "code": "POR"
+    },
+    { "position": 277, "foreign": "próximo", "english": "next", "code": "POR" },
+    { "position": 278, "foreign": "branco", "english": "white", "code": "POR" },
+    {
+        "position": 279,
+        "foreign": "crianças",
+        "english": "children",
+        "code": "POR"
+    },
+    { "position": 280, "foreign": "início", "english": "begin", "code": "POR" },
+    { "position": 281, "foreign": "tem", "english": "got", "code": "POR" },
+    { "position": 282, "foreign": "andar", "english": "walk", "code": "POR" },
+    {
+        "position": 283,
+        "foreign": "exemplo",
+        "english": "example",
+        "code": "POR"
+    },
+    {
+        "position": 284,
+        "foreign": "facilidade",
+        "english": "ease",
+        "code": "POR"
+    },
+    { "position": 285, "foreign": "papel", "english": "paper", "code": "POR" },
+    { "position": 286, "foreign": "grupo", "english": "group", "code": "POR" },
+    {
+        "position": 287,
+        "foreign": "sempre",
+        "english": "always",
+        "code": "POR"
+    },
+    { "position": 288, "foreign": "música", "english": "music", "code": "POR" },
+    {
+        "position": 289,
+        "foreign": "aqueles",
+        "english": "those",
+        "code": "POR"
+    },
+    { "position": 290, "foreign": "tanto", "english": "both", "code": "POR" },
+    { "position": 291, "foreign": "marca", "english": "mark", "code": "POR" },
+    {
+        "position": 292,
+        "foreign": "muitas vezes",
+        "english": "often",
+        "code": "POR"
+    },
+    { "position": 293, "foreign": "carta", "english": "letter", "code": "POR" },
+    { "position": 294, "foreign": "até", "english": "until", "code": "POR" },
+    { "position": 295, "foreign": "milha", "english": "mile", "code": "POR" },
+    { "position": 296, "foreign": "rio", "english": "river", "code": "POR" },
+    { "position": 297, "foreign": "carro", "english": "car", "code": "POR" },
+    { "position": 298, "foreign": "pés", "english": "feet", "code": "POR" },
+    {
+        "position": 299,
+        "foreign": "cuidados",
+        "english": "care",
+        "code": "POR"
+    },
+    {
+        "position": 300,
+        "foreign": "segunda",
+        "english": "second",
+        "code": "POR"
+    },
+    {
+        "position": 301,
+        "foreign": "suficiente",
+        "english": "enough",
+        "code": "POR"
+    },
+    { "position": 302, "foreign": "plain", "english": "plain", "code": "POR" },
+    { "position": 303, "foreign": "menina", "english": "girl", "code": "POR" },
+    {
+        "position": 304,
+        "foreign": "habitual",
+        "english": "usual",
+        "code": "POR"
+    },
+    { "position": 305, "foreign": "jovem", "english": "young", "code": "POR" },
+    { "position": 306, "foreign": "pronto", "english": "ready", "code": "POR" },
+    { "position": 307, "foreign": "acima", "english": "above", "code": "POR" },
+    { "position": 308, "foreign": "sempre", "english": "ever", "code": "POR" },
+    { "position": 309, "foreign": "vermelho", "english": "red", "code": "POR" },
+    { "position": 310, "foreign": "lista", "english": "list", "code": "POR" },
+    {
+        "position": 311,
+        "foreign": "embora",
+        "english": "though",
+        "code": "POR"
+    },
+    { "position": 312, "foreign": "sentir", "english": "feel", "code": "POR" },
+    {
+        "position": 313,
+        "foreign": "Discussão",
+        "english": "talk",
+        "code": "POR"
+    },
+    { "position": 314, "foreign": "pássaro", "english": "bird", "code": "POR" },
+    {
+        "position": 315,
+        "foreign": "em breve",
+        "english": "soon",
+        "code": "POR"
+    },
+    { "position": 316, "foreign": "corpo", "english": "body", "code": "POR" },
+    { "position": 317, "foreign": "cão", "english": "dog", "code": "POR" },
+    {
+        "position": 318,
+        "foreign": "família",
+        "english": "family",
+        "code": "POR"
+    },
+    {
+        "position": 319,
+        "foreign": "direto",
+        "english": "direct",
+        "code": "POR"
+    },
+    {
+        "position": 320,
+        "foreign": "representar",
+        "english": "pose",
+        "code": "POR"
+    },
+    { "position": 321, "foreign": "deixar", "english": "leave", "code": "POR" },
+    { "position": 322, "foreign": "canção", "english": "song", "code": "POR" },
+    {
+        "position": 323,
+        "foreign": "medir",
+        "english": "measure",
+        "code": "POR"
+    },
+    { "position": 324, "foreign": "porta", "english": "door", "code": "POR" },
+    {
+        "position": 325,
+        "foreign": "produto",
+        "english": "product",
+        "code": "POR"
+    },
+    { "position": 326, "foreign": "preto", "english": "black", "code": "POR" },
+    { "position": 327, "foreign": "curta", "english": "short", "code": "POR" },
+    {
+        "position": 328,
+        "foreign": "numeral",
+        "english": "numeral",
+        "code": "POR"
+    },
+    { "position": 329, "foreign": "classe", "english": "class", "code": "POR" },
+    { "position": 330, "foreign": "vento", "english": "wind", "code": "POR" },
+    {
+        "position": 331,
+        "foreign": "pergunta",
+        "english": "question",
+        "code": "POR"
+    },
+    {
+        "position": 332,
+        "foreign": "acontecer",
+        "english": "happen",
+        "code": "POR"
+    },
+    {
+        "position": 333,
+        "foreign": "completo",
+        "english": "complete",
+        "code": "POR"
+    },
+    { "position": 334, "foreign": "navio", "english": "ship", "code": "POR" },
+    { "position": 335, "foreign": "área", "english": "area", "code": "POR" },
+    { "position": 336, "foreign": "metade", "english": "half", "code": "POR" },
+    { "position": 337, "foreign": "rocha", "english": "rock", "code": "POR" },
+    { "position": 338, "foreign": "ordem", "english": "order", "code": "POR" },
+    { "position": 339, "foreign": "fogo", "english": "fire", "code": "POR" },
+    { "position": 340, "foreign": "sul", "english": "south", "code": "POR" },
+    {
+        "position": 341,
+        "foreign": "problema",
+        "english": "problem",
+        "code": "POR"
+    },
+    { "position": 342, "foreign": "peça", "english": "piece", "code": "POR" },
+    { "position": 343, "foreign": "disse", "english": "told", "code": "POR" },
+    { "position": 344, "foreign": "sabia", "english": "knew", "code": "POR" },
+    { "position": 345, "foreign": "passar", "english": "pass", "code": "POR" },
+    { "position": 346, "foreign": "desde", "english": "since", "code": "POR" },
+    { "position": 347, "foreign": "topo", "english": "top", "code": "POR" },
+    {
+        "position": 348,
+        "foreign": "inteiro",
+        "english": "whole",
+        "code": "POR"
+    },
+    { "position": 349, "foreign": "rei", "english": "king", "code": "POR" },
+    { "position": 350, "foreign": "rua", "english": "street", "code": "POR" },
+    {
+        "position": 351,
+        "foreign": "polegada",
+        "english": "inch",
+        "code": "POR"
+    },
+    {
+        "position": 352,
+        "foreign": "multiplicar",
+        "english": "multiply",
+        "code": "POR"
+    },
+    { "position": 353, "foreign": "nada", "english": "nothing", "code": "POR" },
+    { "position": 354, "foreign": "curso", "english": "course", "code": "POR" },
+    { "position": 355, "foreign": "ficar", "english": "stay", "code": "POR" },
+    { "position": 356, "foreign": "roda", "english": "wheel", "code": "POR" },
+    {
+        "position": 357,
+        "foreign": "completo",
+        "english": "full",
+        "code": "POR"
+    },
+    { "position": 358, "foreign": "força", "english": "force", "code": "POR" },
+    { "position": 359, "foreign": "azul", "english": "blue", "code": "POR" },
+    {
+        "position": 360,
+        "foreign": "objeto",
+        "english": "object",
+        "code": "POR"
+    },
+    {
+        "position": 361,
+        "foreign": "decidir",
+        "english": "decide",
+        "code": "POR"
+    },
+    {
+        "position": 362,
+        "foreign": "superfície",
+        "english": "surface",
+        "code": "POR"
+    },
+    {
+        "position": 363,
+        "foreign": "profunda",
+        "english": "deep",
+        "code": "POR"
+    },
+    { "position": 364, "foreign": "lua", "english": "moon", "code": "POR" },
+    { "position": 365, "foreign": "ilha", "english": "island", "code": "POR" },
+    { "position": 366, "foreign": "pé", "english": "foot", "code": "POR" },
+    {
+        "position": 367,
+        "foreign": "sistema",
+        "english": "system",
+        "code": "POR"
+    },
+    { "position": 368, "foreign": "ocupado", "english": "busy", "code": "POR" },
+    { "position": 369, "foreign": "teste", "english": "test", "code": "POR" },
+    {
+        "position": 370,
+        "foreign": "registro",
+        "english": "record",
+        "code": "POR"
+    },
+    { "position": 371, "foreign": "barco", "english": "boat", "code": "POR" },
+    { "position": 372, "foreign": "comum", "english": "common", "code": "POR" },
+    { "position": 373, "foreign": "ouro", "english": "gold", "code": "POR" },
+    {
+        "position": 374,
+        "foreign": "possível",
+        "english": "possible",
+        "code": "POR"
+    },
+    { "position": 375, "foreign": "avião", "english": "plane", "code": "POR" },
+    { "position": 376, "foreign": "lugar", "english": "stead", "code": "POR" },
+    { "position": 377, "foreign": "seca", "english": "dry", "code": "POR" },
+    {
+        "position": 378,
+        "foreign": "pergunto",
+        "english": "wonder",
+        "code": "POR"
+    },
+    { "position": 379, "foreign": "risada", "english": "laugh", "code": "POR" },
+    { "position": 380, "foreign": "mil", "english": "thousand", "code": "POR" },
+    { "position": 381, "foreign": "atrás", "english": "ago", "code": "POR" },
+    { "position": 382, "foreign": "ran", "english": "ran", "code": "POR" },
+    {
+        "position": 383,
+        "foreign": "verifique",
+        "english": "check",
+        "code": "POR"
+    },
+    { "position": 384, "foreign": "jogo", "english": "game", "code": "POR" },
+    { "position": 385, "foreign": "forma", "english": "shape", "code": "POR" },
+    {
+        "position": 386,
+        "foreign": "equiparar",
+        "english": "equate",
+        "code": "POR"
+    },
+    { "position": 387, "foreign": "quente", "english": "hot", "code": "POR" },
+    {
+        "position": 388,
+        "foreign": "senhorita",
+        "english": "miss",
+        "code": "POR"
+    },
+    {
+        "position": 389,
+        "foreign": "trouxe",
+        "english": "brought",
+        "code": "POR"
+    },
+    { "position": 390, "foreign": "calor", "english": "heat", "code": "POR" },
+    { "position": 391, "foreign": "neve", "english": "snow", "code": "POR" },
+    { "position": 392, "foreign": "pneu", "english": "tire", "code": "POR" },
+    { "position": 393, "foreign": "trazer", "english": "bring", "code": "POR" },
+    { "position": 394, "foreign": "sim", "english": "yes", "code": "POR" },
+    {
+        "position": 395,
+        "foreign": "distante",
+        "english": "distant",
+        "code": "POR"
+    },
+    {
+        "position": 396,
+        "foreign": "preencher",
+        "english": "fill",
+        "code": "POR"
+    },
+    { "position": 397, "foreign": "leste", "english": "east", "code": "POR" },
+    { "position": 398, "foreign": "pintar", "english": "paint", "code": "POR" },
+    {
+        "position": 399,
+        "foreign": "linguagem",
+        "english": "language",
+        "code": "POR"
+    },
+    { "position": 400, "foreign": "entre", "english": "among", "code": "POR" },
+    { "position": 401, "foreign": "unidade", "english": "unit", "code": "POR" },
+    { "position": 402, "foreign": "poder", "english": "power", "code": "POR" },
+    { "position": 403, "foreign": "cidade", "english": "town", "code": "POR" },
+    { "position": 404, "foreign": "multa", "english": "fine", "code": "POR" },
+    {
+        "position": 405,
+        "foreign": "certo",
+        "english": "certain",
+        "code": "POR"
+    },
+    { "position": 406, "foreign": "voar", "english": "fly", "code": "POR" },
+    { "position": 407, "foreign": "cair", "english": "fall", "code": "POR" },
+    {
+        "position": 408,
+        "foreign": "conduzir",
+        "english": "lead",
+        "code": "POR"
+    },
+    { "position": 409, "foreign": "grito", "english": "cry", "code": "POR" },
+    { "position": 410, "foreign": "escuro", "english": "dark", "code": "POR" },
+    {
+        "position": 411,
+        "foreign": "máquina",
+        "english": "machine",
+        "code": "POR"
+    },
+    { "position": 412, "foreign": "nota", "english": "note", "code": "POR" },
+    { "position": 413, "foreign": "esperar", "english": "wait", "code": "POR" },
+    { "position": 414, "foreign": "plano", "english": "plan", "code": "POR" },
+    {
+        "position": 415,
+        "foreign": "figura",
+        "english": "figure",
+        "code": "POR"
+    },
+    { "position": 416, "foreign": "estrela", "english": "star", "code": "POR" },
+    { "position": 417, "foreign": "caixa", "english": "box", "code": "POR" },
+    {
+        "position": 418,
+        "foreign": "substantivo",
+        "english": "noun",
+        "code": "POR"
+    },
+    { "position": 419, "foreign": "campo", "english": "field", "code": "POR" },
+    { "position": 420, "foreign": "resto", "english": "rest", "code": "POR" },
+    {
+        "position": 421,
+        "foreign": "correto",
+        "english": "correct",
+        "code": "POR"
+    },
+    { "position": 422, "foreign": "capaz", "english": "able", "code": "POR" },
+    { "position": 423, "foreign": "libra", "english": "pound", "code": "POR" },
+    { "position": 424, "foreign": "done", "english": "done", "code": "POR" },
+    {
+        "position": 425,
+        "foreign": "beleza",
+        "english": "beauty",
+        "code": "POR"
+    },
+    {
+        "position": 426,
+        "foreign": "unidade",
+        "english": "drive",
+        "code": "POR"
+    },
+    { "position": 427, "foreign": "se", "english": "stood", "code": "POR" },
+    {
+        "position": 428,
+        "foreign": "contêm",
+        "english": "contain",
+        "code": "POR"
+    },
+    { "position": 429, "foreign": "frente", "english": "front", "code": "POR" },
+    {
+        "position": 430,
+        "foreign": "ensinar",
+        "english": "teach",
+        "code": "POR"
+    },
+    { "position": 431, "foreign": "semana", "english": "week", "code": "POR" },
+    { "position": 432, "foreign": "finais", "english": "final", "code": "POR" },
+    { "position": 433, "foreign": "deu", "english": "gave", "code": "POR" },
+    { "position": 434, "foreign": "verde", "english": "green", "code": "POR" },
+    { "position": 435, "foreign": "ó", "english": "oh", "code": "POR" },
+    { "position": 436, "foreign": "rápida", "english": "quick", "code": "POR" },
+    {
+        "position": 437,
+        "foreign": "desenvolver",
+        "english": "develop",
+        "code": "POR"
+    },
+    { "position": 438, "foreign": "oceano", "english": "ocean", "code": "POR" },
+    { "position": 439, "foreign": "quente", "english": "warm", "code": "POR" },
+    { "position": 440, "foreign": "livre", "english": "free", "code": "POR" },
+    {
+        "position": 441,
+        "foreign": "minuto",
+        "english": "minute",
+        "code": "POR"
+    },
+    { "position": 442, "foreign": "forte", "english": "strong", "code": "POR" },
+    {
+        "position": 443,
+        "foreign": "especial",
+        "english": "special",
+        "code": "POR"
+    },
+    { "position": 444, "foreign": "mente", "english": "mind", "code": "POR" },
+    { "position": 445, "foreign": "atrás", "english": "behind", "code": "POR" },
+    { "position": 446, "foreign": "claro", "english": "clear", "code": "POR" },
+    { "position": 447, "foreign": "cauda", "english": "tail", "code": "POR" },
+    {
+        "position": 448,
+        "foreign": "produzir",
+        "english": "produce",
+        "code": "POR"
+    },
+    { "position": 449, "foreign": "fato", "english": "fact", "code": "POR" },
+    { "position": 450, "foreign": "espaço", "english": "space", "code": "POR" },
+    { "position": 451, "foreign": "ouvido", "english": "heard", "code": "POR" },
+    { "position": 452, "foreign": "melhor", "english": "best", "code": "POR" },
+    { "position": 453, "foreign": "horas", "english": "hour", "code": "POR" },
+    {
+        "position": 454,
+        "foreign": "melhor",
+        "english": "better",
+        "code": "POR"
+    },
+    { "position": 455, "foreign": "verdade", "english": "true", "code": "POR" },
+    {
+        "position": 456,
+        "foreign": "durante",
+        "english": "during",
+        "code": "POR"
+    },
+    { "position": 457, "foreign": "cem", "english": "hundred", "code": "POR" },
+    { "position": 458, "foreign": "cinco", "english": "five", "code": "POR" },
+    {
+        "position": 459,
+        "foreign": "lembre-se",
+        "english": "remember",
+        "code": "POR"
+    },
+    { "position": 460, "foreign": "passo", "english": "step", "code": "POR" },
+    { "position": 461, "foreign": "cedo", "english": "early", "code": "POR" },
+    { "position": 462, "foreign": "segurar", "english": "hold", "code": "POR" },
+    { "position": 463, "foreign": "oeste", "english": "west", "code": "POR" },
+    { "position": 464, "foreign": "solo", "english": "ground", "code": "POR" },
+    {
+        "position": 465,
+        "foreign": "juros",
+        "english": "interest",
+        "code": "POR"
+    },
+    {
+        "position": 466,
+        "foreign": "alcançar",
+        "english": "reach",
+        "code": "POR"
+    },
+    { "position": 467, "foreign": "rápido", "english": "fast", "code": "POR" },
+    { "position": 468, "foreign": "verbo", "english": "verb", "code": "POR" },
+    { "position": 469, "foreign": "cantar", "english": "sing", "code": "POR" },
+    { "position": 470, "foreign": "ouça", "english": "listen", "code": "POR" },
+    { "position": 471, "foreign": "seis", "english": "six", "code": "POR" },
+    { "position": 472, "foreign": "mesa", "english": "table", "code": "POR" },
+    {
+        "position": 473,
+        "foreign": "viagens",
+        "english": "travel",
+        "code": "POR"
+    },
+    { "position": 474, "foreign": "menos", "english": "less", "code": "POR" },
+    {
+        "position": 475,
+        "foreign": "manhã",
+        "english": "morning",
+        "code": "POR"
+    },
+    { "position": 476, "foreign": "dez", "english": "ten", "code": "POR" },
+    {
+        "position": 477,
+        "foreign": "simples",
+        "english": "simple",
+        "code": "POR"
+    },
+    {
+        "position": 478,
+        "foreign": "vários",
+        "english": "several",
+        "code": "POR"
+    },
+    { "position": 479, "foreign": "vogal", "english": "vowel", "code": "POR" },
+    {
+        "position": 480,
+        "foreign": "direção",
+        "english": "toward",
+        "code": "POR"
+    },
+    { "position": 481, "foreign": "guerra", "english": "war", "code": "POR" },
+    { "position": 482, "foreign": "lay", "english": "lay", "code": "POR" },
+    {
+        "position": 483,
+        "foreign": "contra",
+        "english": "against",
+        "code": "POR"
+    },
+    {
+        "position": 484,
+        "foreign": "padrão",
+        "english": "pattern",
+        "code": "POR"
+    },
+    { "position": 485, "foreign": "lento", "english": "slow", "code": "POR" },
+    {
+        "position": 486,
+        "foreign": "centro",
+        "english": "center",
+        "code": "POR"
+    },
+    { "position": 487, "foreign": "amo", "english": "love", "code": "POR" },
+    {
+        "position": 488,
+        "foreign": "pessoa",
+        "english": "person",
+        "code": "POR"
+    },
+    {
+        "position": 489,
+        "foreign": "dinheiro",
+        "english": "money",
+        "code": "POR"
+    },
+    { "position": 490, "foreign": "servir", "english": "serve", "code": "POR" },
+    {
+        "position": 491,
+        "foreign": "aparecer",
+        "english": "appear",
+        "code": "POR"
+    },
+    { "position": 492, "foreign": "estrada", "english": "road", "code": "POR" },
+    { "position": 493, "foreign": "mapa", "english": "map", "code": "POR" },
+    { "position": 494, "foreign": "chuva", "english": "rain", "code": "POR" },
+    { "position": 495, "foreign": "regra", "english": "rule", "code": "POR" },
+    {
+        "position": 496,
+        "foreign": "governar",
+        "english": "govern",
+        "code": "POR"
+    },
+    { "position": 497, "foreign": "puxe", "english": "pull", "code": "POR" },
+    { "position": 498, "foreign": "frio", "english": "cold", "code": "POR" },
+    { "position": 499, "foreign": "aviso", "english": "notice", "code": "POR" },
+    { "position": 500, "foreign": "voz", "english": "voice", "code": "POR" },
+    {
+        "position": 501,
+        "foreign": "energia",
+        "english": "energy",
+        "code": "POR"
+    },
+    { "position": 502, "foreign": "caça", "english": "hunt", "code": "POR" },
+    {
+        "position": 503,
+        "foreign": "provável",
+        "english": "probable",
+        "code": "POR"
+    },
+    { "position": 504, "foreign": "cama", "english": "bed", "code": "POR" },
+    {
+        "position": 505,
+        "foreign": "irmão",
+        "english": "brother",
+        "code": "POR"
+    },
+    { "position": 506, "foreign": "ovo", "english": "egg", "code": "POR" },
+    { "position": 507, "foreign": "passeio", "english": "ride", "code": "POR" },
+    { "position": 508, "foreign": "celular", "english": "cell", "code": "POR" },
+    {
+        "position": 509,
+        "foreign": "acreditar",
+        "english": "believe",
+        "code": "POR"
+    },
+    {
+        "position": 510,
+        "foreign": "talvez",
+        "english": "perhaps",
+        "code": "POR"
+    },
+    {
+        "position": 511,
+        "foreign": "escolher",
+        "english": "pick",
+        "code": "POR"
+    },
+    {
+        "position": 512,
+        "foreign": "súbita",
+        "english": "sudden",
+        "code": "POR"
+    },
+    { "position": 513, "foreign": "contar", "english": "count", "code": "POR" },
+    {
+        "position": 514,
+        "foreign": "quadrado",
+        "english": "square",
+        "code": "POR"
+    },
+    { "position": 515, "foreign": "razão", "english": "reason", "code": "POR" },
+    {
+        "position": 516,
+        "foreign": "comprimento",
+        "english": "length",
+        "code": "POR"
+    },
+    {
+        "position": 517,
+        "foreign": "representar",
+        "english": "represent",
+        "code": "POR"
+    },
+    { "position": 518, "foreign": "arte", "english": "art", "code": "POR" },
+    {
+        "position": 519,
+        "foreign": "assunto",
+        "english": "subject",
+        "code": "POR"
+    },
+    {
+        "position": 520,
+        "foreign": "região",
+        "english": "region",
+        "code": "POR"
+    },
+    { "position": 521, "foreign": "tamanho", "english": "size", "code": "POR" },
+    { "position": 522, "foreign": "variar", "english": "vary", "code": "POR" },
+    {
+        "position": 523,
+        "foreign": "resolver",
+        "english": "settle",
+        "code": "POR"
+    },
+    { "position": 524, "foreign": "falar", "english": "speak", "code": "POR" },
+    { "position": 525, "foreign": "peso", "english": "weight", "code": "POR" },
+    {
+        "position": 526,
+        "foreign": "geral",
+        "english": "general",
+        "code": "POR"
+    },
+    { "position": 527, "foreign": "gelo", "english": "ice", "code": "POR" },
+    {
+        "position": 528,
+        "foreign": "assunto",
+        "english": "matter",
+        "code": "POR"
+    },
+    {
+        "position": 529,
+        "foreign": "círculo",
+        "english": "circle",
+        "code": "POR"
+    },
+    { "position": 530, "foreign": "par", "english": "pair", "code": "POR" },
+    {
+        "position": 531,
+        "foreign": "incluir",
+        "english": "include",
+        "code": "POR"
+    },
+    {
+        "position": 532,
+        "foreign": "dividir",
+        "english": "divide",
+        "code": "POR"
+    },
+    {
+        "position": 533,
+        "foreign": "sílaba",
+        "english": "syllable",
+        "code": "POR"
+    },
+    { "position": 534, "foreign": "sentido", "english": "felt", "code": "POR" },
+    { "position": 535, "foreign": "grande", "english": "grand", "code": "POR" },
+    { "position": 536, "foreign": "bola", "english": "ball", "code": "POR" },
+    { "position": 537, "foreign": "ainda", "english": "yet", "code": "POR" },
+    { "position": 538, "foreign": "onda", "english": "wave", "code": "POR" },
+    { "position": 539, "foreign": "cair", "english": "drop", "code": "POR" },
+    {
+        "position": 540,
+        "foreign": "coração",
+        "english": "heart",
+        "code": "POR"
+    },
+    { "position": 541, "foreign": "am", "english": "am", "code": "POR" },
+    {
+        "position": 542,
+        "foreign": "presente",
+        "english": "present",
+        "code": "POR"
+    },
+    { "position": 543, "foreign": "pesado", "english": "heavy", "code": "POR" },
+    { "position": 544, "foreign": "dança", "english": "dance", "code": "POR" },
+    { "position": 545, "foreign": "motor", "english": "engine", "code": "POR" },
+    {
+        "position": 546,
+        "foreign": "posição",
+        "english": "position",
+        "code": "POR"
+    },
+    { "position": 547, "foreign": "braço", "english": "arm", "code": "POR" },
+    { "position": 548, "foreign": "ampla", "english": "wide", "code": "POR" },
+    { "position": 549, "foreign": "vela", "english": "sail", "code": "POR" },
+    {
+        "position": 550,
+        "foreign": "material de",
+        "english": "material",
+        "code": "POR"
+    },
+    {
+        "position": 551,
+        "foreign": "fração",
+        "english": "fraction",
+        "code": "POR"
+    },
+    {
+        "position": 552,
+        "foreign": "floresta",
+        "english": "forest",
+        "code": "POR"
+    },
+    {
+        "position": 553,
+        "foreign": "sentar-se",
+        "english": "sit",
+        "code": "POR"
+    },
+    { "position": 554, "foreign": "corrida", "english": "race", "code": "POR" },
+    {
+        "position": 555,
+        "foreign": "janela",
+        "english": "window",
+        "code": "POR"
+    },
+    { "position": 556, "foreign": "loja", "english": "store", "code": "POR" },
+    { "position": 557, "foreign": "verão", "english": "summer", "code": "POR" },
+    { "position": 558, "foreign": "trem", "english": "train", "code": "POR" },
+    { "position": 559, "foreign": "sono", "english": "sleep", "code": "POR" },
+    { "position": 560, "foreign": "provar", "english": "prove", "code": "POR" },
+    {
+        "position": 561,
+        "foreign": "solitário",
+        "english": "lone",
+        "code": "POR"
+    },
+    { "position": 562, "foreign": "perna", "english": "leg", "code": "POR" },
+    {
+        "position": 563,
+        "foreign": "exercício",
+        "english": "exercise",
+        "code": "POR"
+    },
+    { "position": 564, "foreign": "parede", "english": "wall", "code": "POR" },
+    {
+        "position": 565,
+        "foreign": "captura",
+        "english": "catch",
+        "code": "POR"
+    },
+    { "position": 566, "foreign": "mount", "english": "mount", "code": "POR" },
+    { "position": 567, "foreign": "desejo", "english": "wish", "code": "POR" },
+    { "position": 568, "foreign": "céu", "english": "sky", "code": "POR" },
+    {
+        "position": 569,
+        "foreign": "conselho",
+        "english": "board",
+        "code": "POR"
+    },
+    { "position": 570, "foreign": "alegria", "english": "joy", "code": "POR" },
+    {
+        "position": 571,
+        "foreign": "inverno",
+        "english": "winter",
+        "code": "POR"
+    },
+    { "position": 572, "foreign": "sat", "english": "sat", "code": "POR" },
+    {
+        "position": 573,
+        "foreign": "escrito",
+        "english": "written",
+        "code": "POR"
+    },
+    {
+        "position": 574,
+        "foreign": "selvagem",
+        "english": "wild",
+        "code": "POR"
+    },
+    {
+        "position": 575,
+        "foreign": "instrumento",
+        "english": "instrument",
+        "code": "POR"
+    },
+    {
+        "position": 576,
+        "foreign": "guardado",
+        "english": "kept",
+        "code": "POR"
+    },
+    { "position": 577, "foreign": "vidro", "english": "glass", "code": "POR" },
+    { "position": 578, "foreign": "grama", "english": "grass", "code": "POR" },
+    { "position": 579, "foreign": "vaca", "english": "cow", "code": "POR" },
+    { "position": 580, "foreign": "trabalho", "english": "job", "code": "POR" },
+    { "position": 581, "foreign": "borda", "english": "edge", "code": "POR" },
+    { "position": 582, "foreign": "sinal", "english": "sign", "code": "POR" },
+    { "position": 583, "foreign": "visita", "english": "visit", "code": "POR" },
+    { "position": 584, "foreign": "passado", "english": "past", "code": "POR" },
+    { "position": 585, "foreign": "suave", "english": "soft", "code": "POR" },
+    { "position": 586, "foreign": "diversão", "english": "fun", "code": "POR" },
+    {
+        "position": 587,
+        "foreign": "brilhante",
+        "english": "bright",
+        "code": "POR"
+    },
+    { "position": 588, "foreign": "gás", "english": "gas", "code": "POR" },
+    {
+        "position": 589,
+        "foreign": "tempo",
+        "english": "weather",
+        "code": "POR"
+    },
+    { "position": 590, "foreign": "mês", "english": "month", "code": "POR" },
+    {
+        "position": 591,
+        "foreign": "milhão",
+        "english": "million",
+        "code": "POR"
+    },
+    {
+        "position": 592,
+        "foreign": "suportar",
+        "english": "bear",
+        "code": "POR"
+    },
+    {
+        "position": 593,
+        "foreign": "acabamento",
+        "english": "finish",
+        "code": "POR"
+    },
+    { "position": 594, "foreign": "feliz", "english": "happy", "code": "POR" },
+    {
+        "position": 595,
+        "foreign": "Esperamos",
+        "english": "hope",
+        "code": "POR"
+    },
+    { "position": 596, "foreign": "flor", "english": "flower", "code": "POR" },
+    {
+        "position": 597,
+        "foreign": "vestir",
+        "english": "clothe",
+        "code": "POR"
+    },
+    {
+        "position": 598,
+        "foreign": "estranho",
+        "english": "strange",
+        "code": "POR"
+    },
+    { "position": 599, "foreign": "gone", "english": "gone", "code": "POR" },
+    {
+        "position": 600,
+        "foreign": "comércio",
+        "english": "trade",
+        "code": "POR"
+    },
+    {
+        "position": 601,
+        "foreign": "melodia",
+        "english": "melody",
+        "code": "POR"
+    },
+    { "position": 602, "foreign": "viagem", "english": "trip", "code": "POR" },
+    {
+        "position": 603,
+        "foreign": "escritório",
+        "english": "office",
+        "code": "POR"
+    },
+    {
+        "position": 604,
+        "foreign": "receber",
+        "english": "receive",
+        "code": "POR"
+    },
+    { "position": 605, "foreign": "linha", "english": "row", "code": "POR" },
+    { "position": 606, "foreign": "boca", "english": "mouth", "code": "POR" },
+    { "position": 607, "foreign": "exata", "english": "exact", "code": "POR" },
+    {
+        "position": 608,
+        "foreign": "símbolo",
+        "english": "symbol",
+        "code": "POR"
+    },
+    { "position": 609, "foreign": "morrer", "english": "die", "code": "POR" },
+    { "position": 610, "foreign": "menos", "english": "least", "code": "POR" },
+    {
+        "position": 611,
+        "foreign": "dificuldade",
+        "english": "trouble",
+        "code": "POR"
+    },
+    { "position": 612, "foreign": "grito", "english": "shout", "code": "POR" },
+    {
+        "position": 613,
+        "foreign": "exceto",
+        "english": "except",
+        "code": "POR"
+    },
+    {
+        "position": 614,
+        "foreign": "escreveu",
+        "english": "wrote",
+        "code": "POR"
+    },
+    { "position": 615, "foreign": "semente", "english": "seed", "code": "POR" },
+    { "position": 616, "foreign": "tom", "english": "tone", "code": "POR" },
+    {
+        "position": 617,
+        "foreign": "juntar-se",
+        "english": "join",
+        "code": "POR"
+    },
+    {
+        "position": 618,
+        "foreign": "sugerir",
+        "english": "suggest",
+        "code": "POR"
+    },
+    { "position": 619, "foreign": "limpo", "english": "clean", "code": "POR" },
+    { "position": 620, "foreign": "pausa", "english": "break", "code": "POR" },
+    { "position": 621, "foreign": "senhora", "english": "lady", "code": "POR" },
+    { "position": 622, "foreign": "quintal", "english": "yard", "code": "POR" },
+    { "position": 623, "foreign": "subir", "english": "rise", "code": "POR" },
+    { "position": 624, "foreign": "ruim", "english": "bad", "code": "POR" },
+    { "position": 625, "foreign": "golpe", "english": "blow", "code": "POR" },
+    { "position": 626, "foreign": "óleo", "english": "oil", "code": "POR" },
+    { "position": 627, "foreign": "sangue", "english": "blood", "code": "POR" },
+    { "position": 628, "foreign": "tocar", "english": "touch", "code": "POR" },
+    { "position": 629, "foreign": "cresceu", "english": "grew", "code": "POR" },
+    { "position": 630, "foreign": "cento", "english": "cent", "code": "POR" },
+    { "position": 631, "foreign": "misturar", "english": "mix", "code": "POR" },
+    { "position": 632, "foreign": "equipe", "english": "team", "code": "POR" },
+    { "position": 633, "foreign": "fio", "english": "wire", "code": "POR" },
+    { "position": 634, "foreign": "custo", "english": "cost", "code": "POR" },
+    { "position": 635, "foreign": "perdido", "english": "lost", "code": "POR" },
+    { "position": 636, "foreign": "marrom", "english": "brown", "code": "POR" },
+    {
+        "position": 637,
+        "foreign": "desgaste",
+        "english": "wear",
+        "code": "POR"
+    },
+    {
+        "position": 638,
+        "foreign": "jardim",
+        "english": "garden",
+        "code": "POR"
+    },
+    { "position": 639, "foreign": "igual", "english": "equal", "code": "POR" },
+    { "position": 640, "foreign": "enviado", "english": "sent", "code": "POR" },
+    {
+        "position": 641,
+        "foreign": "escolher",
+        "english": "choose",
+        "code": "POR"
+    },
+    { "position": 642, "foreign": "caiu", "english": "fell", "code": "POR" },
+    { "position": 643, "foreign": "caber", "english": "fit", "code": "POR" },
+    { "position": 644, "foreign": "fluir", "english": "flow", "code": "POR" },
+    { "position": 645, "foreign": "feira", "english": "fair", "code": "POR" },
+    { "position": 646, "foreign": "banco", "english": "bank", "code": "POR" },
+    {
+        "position": 647,
+        "foreign": "recolher",
+        "english": "collect",
+        "code": "POR"
+    },
+    { "position": 648, "foreign": "salvar", "english": "save", "code": "POR" },
+    {
+        "position": 649,
+        "foreign": "controle",
+        "english": "control",
+        "code": "POR"
+    },
+    {
+        "position": 650,
+        "foreign": "decimal",
+        "english": "decimal",
+        "code": "POR"
+    },
+    { "position": 651, "foreign": "ouvido", "english": "ear", "code": "POR" },
+    { "position": 652, "foreign": "mais", "english": "else", "code": "POR" },
+    {
+        "position": 653,
+        "foreign": "bastante",
+        "english": "quite",
+        "code": "POR"
+    },
+    {
+        "position": 654,
+        "foreign": "quebrado",
+        "english": "broke",
+        "code": "POR"
+    },
+    { "position": 655, "foreign": "caso", "english": "case", "code": "POR" },
+    { "position": 656, "foreign": "meio", "english": "middle", "code": "POR" },
+    { "position": 657, "foreign": "matar", "english": "kill", "code": "POR" },
+    { "position": 658, "foreign": "filho", "english": "son", "code": "POR" },
+    { "position": 659, "foreign": "lago", "english": "lake", "code": "POR" },
+    {
+        "position": 660,
+        "foreign": "momento",
+        "english": "moment",
+        "code": "POR"
+    },
+    { "position": 661, "foreign": "escala", "english": "scale", "code": "POR" },
+    { "position": 662, "foreign": "alto", "english": "loud", "code": "POR" },
+    {
+        "position": 663,
+        "foreign": "primavera",
+        "english": "spring",
+        "code": "POR"
+    },
+    {
+        "position": 664,
+        "foreign": "observar",
+        "english": "observe",
+        "code": "POR"
+    },
+    {
+        "position": 665,
+        "foreign": "criança",
+        "english": "child",
+        "code": "POR"
+    },
+    {
+        "position": 666,
+        "foreign": "reta",
+        "english": "straight",
+        "code": "POR"
+    },
+    {
+        "position": 667,
+        "foreign": "consoante",
+        "english": "consonant",
+        "code": "POR"
+    },
+    { "position": 668, "foreign": "nação", "english": "nation", "code": "POR" },
+    {
+        "position": 669,
+        "foreign": "dicionário",
+        "english": "dictionary",
+        "code": "POR"
+    },
+    { "position": 670, "foreign": "leite", "english": "milk", "code": "POR" },
+    {
+        "position": 671,
+        "foreign": "velocidade",
+        "english": "speed",
+        "code": "POR"
+    },
+    {
+        "position": 672,
+        "foreign": "método",
+        "english": "method",
+        "code": "POR"
+    },
+    { "position": 673, "foreign": "órgão", "english": "organ", "code": "POR" },
+    { "position": 674, "foreign": "pagar", "english": "pay", "code": "POR" },
+    { "position": 675, "foreign": "idade", "english": "age", "code": "POR" },
+    {
+        "position": 676,
+        "foreign": "seção",
+        "english": "section",
+        "code": "POR"
+    },
+    {
+        "position": 677,
+        "foreign": "vestido",
+        "english": "dress",
+        "code": "POR"
+    },
+    { "position": 678, "foreign": "nuvem", "english": "cloud", "code": "POR" },
+    {
+        "position": 679,
+        "foreign": "surpresa",
+        "english": "surprise",
+        "code": "POR"
+    },
+    { "position": 680, "foreign": "calma", "english": "quiet", "code": "POR" },
+    { "position": 681, "foreign": "pedra", "english": "stone", "code": "POR" },
+    {
+        "position": 682,
+        "foreign": "minúsculo",
+        "english": "tiny",
+        "code": "POR"
+    },
+    { "position": 683, "foreign": "subida", "english": "climb", "code": "POR" },
+    { "position": 684, "foreign": "legal", "english": "cool", "code": "POR" },
+    {
+        "position": 685,
+        "foreign": "projeto",
+        "english": "design",
+        "code": "POR"
+    },
+    { "position": 686, "foreign": "pobre", "english": "poor", "code": "POR" },
+    { "position": 687, "foreign": "muito", "english": "lot", "code": "POR" },
+    {
+        "position": 688,
+        "foreign": "experiência",
+        "english": "experiment",
+        "code": "POR"
+    },
+    {
+        "position": 689,
+        "foreign": "inferior",
+        "english": "bottom",
+        "code": "POR"
+    },
+    { "position": 690, "foreign": "chave", "english": "key", "code": "POR" },
+    { "position": 691, "foreign": "ferro", "english": "iron", "code": "POR" },
+    { "position": 692, "foreign": "único", "english": "single", "code": "POR" },
+    { "position": 693, "foreign": "vara", "english": "stick", "code": "POR" },
+    { "position": 694, "foreign": "plana", "english": "flat", "code": "POR" },
+    { "position": 695, "foreign": "vinte", "english": "twenty", "code": "POR" },
+    { "position": 696, "foreign": "pele", "english": "skin", "code": "POR" },
+    {
+        "position": 697,
+        "foreign": "sorriso",
+        "english": "smile",
+        "code": "POR"
+    },
+    { "position": 698, "foreign": "vinco", "english": "crease", "code": "POR" },
+    { "position": 699, "foreign": "buraco", "english": "hole", "code": "POR" },
+    { "position": 700, "foreign": "saltar", "english": "jump", "code": "POR" },
+    { "position": 701, "foreign": "bebê", "english": "baby", "code": "POR" },
+    { "position": 702, "foreign": "oito", "english": "eight", "code": "POR" },
+    {
+        "position": 703,
+        "foreign": "aldeia",
+        "english": "village",
+        "code": "POR"
+    },
+    { "position": 704, "foreign": "meet", "english": "meet", "code": "POR" },
+    { "position": 705, "foreign": "raiz", "english": "root", "code": "POR" },
+    { "position": 706, "foreign": "comprar", "english": "buy", "code": "POR" },
+    {
+        "position": 707,
+        "foreign": "levantar",
+        "english": "raise",
+        "code": "POR"
+    },
+    {
+        "position": 708,
+        "foreign": "resolver",
+        "english": "solve",
+        "code": "POR"
+    },
+    {
+        "position": 709,
+        "foreign": "de metal",
+        "english": "metal",
+        "code": "POR"
+    },
+    { "position": 710, "foreign": "se", "english": "whether", "code": "POR" },
+    { "position": 711, "foreign": "empurre", "english": "push", "code": "POR" },
+    { "position": 712, "foreign": "sete", "english": "seven", "code": "POR" },
+    {
+        "position": 713,
+        "foreign": "parágrafo",
+        "english": "paragraph",
+        "code": "POR"
+    },
+    {
+        "position": 714,
+        "foreign": "terceiro",
+        "english": "third",
+        "code": "POR"
+    },
+    { "position": 715, "foreign": "deve", "english": "shall", "code": "POR" },
+    { "position": 716, "foreign": "held", "english": "held", "code": "POR" },
+    { "position": 717, "foreign": "cabelo", "english": "hair", "code": "POR" },
+    {
+        "position": 718,
+        "foreign": "descrever",
+        "english": "describe",
+        "code": "POR"
+    },
+    {
+        "position": 719,
+        "foreign": "cozinheiro",
+        "english": "cook",
+        "code": "POR"
+    },
+    { "position": 720, "foreign": "piso", "english": "floor", "code": "POR" },
+    { "position": 721, "foreign": "ou", "english": "either", "code": "POR" },
+    {
+        "position": 722,
+        "foreign": "resultado",
+        "english": "result",
+        "code": "POR"
+    },
+    { "position": 723, "foreign": "queimar", "english": "burn", "code": "POR" },
+    { "position": 724, "foreign": "hill", "english": "hill", "code": "POR" },
+    { "position": 725, "foreign": "seguro", "english": "safe", "code": "POR" },
+    { "position": 726, "foreign": "cat", "english": "cat", "code": "POR" },
+    {
+        "position": 727,
+        "foreign": "século",
+        "english": "century",
+        "code": "POR"
+    },
+    {
+        "position": 728,
+        "foreign": "considerar",
+        "english": "consider",
+        "code": "POR"
+    },
+    { "position": 729, "foreign": "tipo", "english": "type", "code": "POR" },
+    { "position": 730, "foreign": "direito", "english": "law", "code": "POR" },
+    { "position": 731, "foreign": "bit", "english": "bit", "code": "POR" },
+    { "position": 732, "foreign": "costa", "english": "coast", "code": "POR" },
+    { "position": 733, "foreign": "cópia", "english": "copy", "code": "POR" },
+    { "position": 734, "foreign": "frase", "english": "phrase", "code": "POR" },
+    {
+        "position": 735,
+        "foreign": "silenciosa",
+        "english": "silent",
+        "code": "POR"
+    },
+    { "position": 736, "foreign": "alto", "english": "tall", "code": "POR" },
+    { "position": 737, "foreign": "areia", "english": "sand", "code": "POR" },
+    { "position": 738, "foreign": "solo", "english": "soil", "code": "POR" },
+    { "position": 739, "foreign": "rolo", "english": "roll", "code": "POR" },
+    {
+        "position": 740,
+        "foreign": "temperatura",
+        "english": "temperature",
+        "code": "POR"
+    },
+    { "position": 741, "foreign": "dedo", "english": "finger", "code": "POR" },
+    {
+        "position": 742,
+        "foreign": "indústria",
+        "english": "industry",
+        "code": "POR"
+    },
+    { "position": 743, "foreign": "valor", "english": "value", "code": "POR" },
+    { "position": 744, "foreign": "luta", "english": "fight", "code": "POR" },
+    { "position": 745, "foreign": "mentira", "english": "lie", "code": "POR" },
+    { "position": 746, "foreign": "bater", "english": "beat", "code": "POR" },
+    {
+        "position": 747,
+        "foreign": "excitar",
+        "english": "excite",
+        "code": "POR"
+    },
+    {
+        "position": 748,
+        "foreign": "naturais",
+        "english": "natural",
+        "code": "POR"
+    },
+    { "position": 749, "foreign": "vista", "english": "view", "code": "POR" },
+    {
+        "position": 750,
+        "foreign": "sentido",
+        "english": "sense",
+        "code": "POR"
+    },
+    {
+        "position": 751,
+        "foreign": "Capital",
+        "english": "capital",
+        "code": "POR"
+    },
+    {
+        "position": 752,
+        "foreign": "não vai",
+        "english": "won’t",
+        "code": "POR"
+    },
+    {
+        "position": 753,
+        "foreign": "cadeira",
+        "english": "chair",
+        "code": "POR"
+    },
+    {
+        "position": 754,
+        "foreign": "perigo",
+        "english": "danger",
+        "code": "POR"
+    },
+    { "position": 755, "foreign": "frutas", "english": "fruit", "code": "POR" },
+    { "position": 756, "foreign": "rico", "english": "rich", "code": "POR" },
+    { "position": 757, "foreign": "grossa", "english": "thick", "code": "POR" },
+    {
+        "position": 758,
+        "foreign": "soldado",
+        "english": "soldier",
+        "code": "POR"
+    },
+    {
+        "position": 759,
+        "foreign": "processo",
+        "english": "process",
+        "code": "POR"
+    },
+    {
+        "position": 760,
+        "foreign": "operar",
+        "english": "operate",
+        "code": "POR"
+    },
+    {
+        "position": 761,
+        "foreign": "prática",
+        "english": "practice",
+        "code": "POR"
+    },
+    {
+        "position": 762,
+        "foreign": "separado",
+        "english": "separate",
+        "code": "POR"
+    },
+    {
+        "position": 763,
+        "foreign": "difícil",
+        "english": "difficult",
+        "code": "POR"
+    },
+    {
+        "position": 764,
+        "foreign": "médico",
+        "english": "doctor",
+        "code": "POR"
+    },
+    {
+        "position": 765,
+        "foreign": "por favor",
+        "english": "please",
+        "code": "POR"
+    },
+    {
+        "position": 766,
+        "foreign": "proteger",
+        "english": "protect",
+        "code": "POR"
+    },
+    {
+        "position": 767,
+        "foreign": "meio-dia",
+        "english": "noon",
+        "code": "POR"
+    },
+    {
+        "position": 768,
+        "foreign": "colheita",
+        "english": "crop",
+        "code": "POR"
+    },
+    {
+        "position": 769,
+        "foreign": "moderno",
+        "english": "modern",
+        "code": "POR"
+    },
+    {
+        "position": 770,
+        "foreign": "elemento",
+        "english": "element",
+        "code": "POR"
+    },
+    { "position": 771, "foreign": "acertar", "english": "hit", "code": "POR" },
+    {
+        "position": 772,
+        "foreign": "estudante",
+        "english": "student",
+        "code": "POR"
+    },
+    { "position": 773, "foreign": "canto", "english": "corner", "code": "POR" },
+    { "position": 774, "foreign": "festa", "english": "party", "code": "POR" },
+    {
+        "position": 775,
+        "foreign": "fornecimento",
+        "english": "supply",
+        "code": "POR"
+    },
+    { "position": 776, "foreign": "cuja", "english": "whose", "code": "POR" },
+    {
+        "position": 777,
+        "foreign": "localizar",
+        "english": "locate",
+        "code": "POR"
+    },
+    { "position": 778, "foreign": "anel", "english": "ring", "code": "POR" },
+    {
+        "position": 779,
+        "foreign": "caráter",
+        "english": "character",
+        "code": "POR"
+    },
+    {
+        "position": 780,
+        "foreign": "inseto",
+        "english": "insect",
+        "code": "POR"
+    },
+    {
+        "position": 781,
+        "foreign": "capturados",
+        "english": "caught",
+        "code": "POR"
+    },
+    {
+        "position": 782,
+        "foreign": "período",
+        "english": "period",
+        "code": "POR"
+    },
+    {
+        "position": 783,
+        "foreign": "indicam",
+        "english": "indicate",
+        "code": "POR"
+    },
+    { "position": 784, "foreign": "rádio", "english": "radio", "code": "POR" },
+    { "position": 785, "foreign": "falou", "english": "spoke", "code": "POR" },
+    { "position": 786, "foreign": "átomo", "english": "atom", "code": "POR" },
+    { "position": 787, "foreign": "humano", "english": "human", "code": "POR" },
+    {
+        "position": 788,
+        "foreign": "história",
+        "english": "history",
+        "code": "POR"
+    },
+    {
+        "position": 789,
+        "foreign": "efeito",
+        "english": "effect",
+        "code": "POR"
+    },
+    {
+        "position": 790,
+        "foreign": "elétrica",
+        "english": "electric",
+        "code": "POR"
+    },
+    {
+        "position": 791,
+        "foreign": "esperar",
+        "english": "expect",
+        "code": "POR"
+    },
+    { "position": 792, "foreign": "osso", "english": "bone", "code": "POR" },
+    { "position": 793, "foreign": "trilho", "english": "rail", "code": "POR" },
+    {
+        "position": 794,
+        "foreign": "imaginar",
+        "english": "imagine",
+        "code": "POR"
+    },
+    {
+        "position": 795,
+        "foreign": "fornecer",
+        "english": "provide",
+        "code": "POR"
+    },
+    {
+        "position": 796,
+        "foreign": "concordar",
+        "english": "agree",
+        "code": "POR"
+    },
+    { "position": 797, "foreign": "assim", "english": "thus", "code": "POR" },
+    { "position": 798, "foreign": "suave", "english": "gentle", "code": "POR" },
+    { "position": 799, "foreign": "mulher", "english": "woman", "code": "POR" },
+    {
+        "position": 800,
+        "foreign": "capitão",
+        "english": "captain",
+        "code": "POR"
+    },
+    {
+        "position": 801,
+        "foreign": "acho que",
+        "english": "guess",
+        "code": "POR"
+    },
+    {
+        "position": 802,
+        "foreign": "necessário",
+        "english": "necessary",
+        "code": "POR"
+    },
+    { "position": 803, "foreign": "sharp", "english": "sharp", "code": "POR" },
+    { "position": 804, "foreign": "asa", "english": "wing", "code": "POR" },
+    { "position": 805, "foreign": "criar", "english": "create", "code": "POR" },
+    {
+        "position": 806,
+        "foreign": "vizinho",
+        "english": "neighbor",
+        "code": "POR"
+    },
+    { "position": 807, "foreign": "lavagem", "english": "wash", "code": "POR" },
+    { "position": 808, "foreign": "bat", "english": "bat", "code": "POR" },
+    { "position": 809, "foreign": "vez", "english": "rather", "code": "POR" },
+    {
+        "position": 810,
+        "foreign": "multidão",
+        "english": "crowd",
+        "code": "POR"
+    },
+    { "position": 811, "foreign": "milho", "english": "corn", "code": "POR" },
+    {
+        "position": 812,
+        "foreign": "comparar",
+        "english": "compare",
+        "code": "POR"
+    },
+    { "position": 813, "foreign": "poema", "english": "poem", "code": "POR" },
+    { "position": 814, "foreign": "corda", "english": "string", "code": "POR" },
+    { "position": 815, "foreign": "sino", "english": "bell", "code": "POR" },
+    {
+        "position": 816,
+        "foreign": "dependem",
+        "english": "depend",
+        "code": "POR"
+    },
+    { "position": 817, "foreign": "carne", "english": "meat", "code": "POR" },
+    { "position": 818, "foreign": "esfregar", "english": "rub", "code": "POR" },
+    { "position": 819, "foreign": "tubo", "english": "tube", "code": "POR" },
+    {
+        "position": 820,
+        "foreign": "famoso",
+        "english": "famous",
+        "code": "POR"
+    },
+    { "position": 921, "foreign": "dólar", "english": "dollar", "code": "POR" },
+    {
+        "position": 822,
+        "foreign": "córrego",
+        "english": "stream",
+        "code": "POR"
+    },
+    { "position": 823, "foreign": "medo", "english": "fear", "code": "POR" },
+    { "position": 284, "foreign": "vista", "english": "sight", "code": "POR" },
+    { "position": 825, "foreign": "fina", "english": "thin", "code": "POR" },
+    {
+        "position": 826,
+        "foreign": "triângulo",
+        "english": "triangle",
+        "code": "POR"
+    },
+    {
+        "position": 827,
+        "foreign": "planeta",
+        "english": "planet",
+        "code": "POR"
+    },
+    {
+        "position": 828,
+        "foreign": "apressar",
+        "english": "hurry",
+        "code": "POR"
+    },
+    { "position": 829, "foreign": "chefe", "english": "chief", "code": "POR" },
+    {
+        "position": 830,
+        "foreign": "colônia",
+        "english": "colony",
+        "code": "POR"
+    },
+    {
+        "position": 831,
+        "foreign": "relógio",
+        "english": "clock",
+        "code": "POR"
+    },
+    { "position": 832, "foreign": "mina", "english": "mine", "code": "POR" },
+    { "position": 833, "foreign": "amarrar", "english": "tie", "code": "POR" },
+    {
+        "position": 834,
+        "foreign": "introduzir",
+        "english": "enter",
+        "code": "POR"
+    },
+    { "position": 835, "foreign": "maior", "english": "major", "code": "POR" },
+    { "position": 836, "foreign": "fresco", "english": "fresh", "code": "POR" },
+    {
+        "position": 837,
+        "foreign": "pesquisa",
+        "english": "search",
+        "code": "POR"
+    },
+    { "position": 838, "foreign": "enviar", "english": "send", "code": "POR" },
+    {
+        "position": 839,
+        "foreign": "amarelo",
+        "english": "yellow",
+        "code": "POR"
+    },
+    { "position": 840, "foreign": "pistola", "english": "gun", "code": "POR" },
+    {
+        "position": 841,
+        "foreign": "permitir",
+        "english": "allow",
+        "code": "POR"
+    },
+    {
+        "position": 842,
+        "foreign": "impressão",
+        "english": "print",
+        "code": "POR"
+    },
+    { "position": 843, "foreign": "morto", "english": "dead", "code": "POR" },
+    { "position": 844, "foreign": "local", "english": "spot", "code": "POR" },
+    {
+        "position": 845,
+        "foreign": "deserto",
+        "english": "desert",
+        "code": "POR"
+    },
+    { "position": 846, "foreign": "terno", "english": "suit", "code": "POR" },
+    {
+        "position": 847,
+        "foreign": "atual",
+        "english": "current",
+        "code": "POR"
+    },
+    {
+        "position": 848,
+        "foreign": "elevador",
+        "english": "lift",
+        "code": "POR"
+    },
+    {
+        "position": 840,
+        "foreign": "aumentou",
+        "english": "rose",
+        "code": "POR"
+    },
+    {
+        "position": 850,
+        "foreign": "chegar",
+        "english": "arrive",
+        "code": "POR"
+    },
+    {
+        "position": 851,
+        "foreign": "mestre",
+        "english": "master",
+        "code": "POR"
+    },
+    { "position": 852, "foreign": "trilha", "english": "track", "code": "POR" },
+    { "position": 853, "foreign": "pai", "english": "parent", "code": "POR" },
+    { "position": 854, "foreign": "costa", "english": "shore", "code": "POR" },
+    {
+        "position": 855,
+        "foreign": "divisão",
+        "english": "division",
+        "code": "POR"
+    },
+    { "position": 856, "foreign": "folha", "english": "sheet", "code": "POR" },
+    {
+        "position": 857,
+        "foreign": "substância",
+        "english": "substance",
+        "code": "POR"
+    },
+    {
+        "position": 858,
+        "foreign": "favorecer",
+        "english": "favor",
+        "code": "POR"
+    },
+    {
+        "position": 859,
+        "foreign": "conectar",
+        "english": "connect",
+        "code": "POR"
+    },
+    { "position": 860, "foreign": "pós", "english": "post", "code": "POR" },
+    { "position": 861, "foreign": "passar", "english": "spend", "code": "POR" },
+    { "position": 862, "foreign": "acorde", "english": "chord", "code": "POR" },
+    { "position": 863, "foreign": "gordura", "english": "fat", "code": "POR" },
+    { "position": 864, "foreign": "feliz", "english": "glad", "code": "POR" },
+    {
+        "position": 865,
+        "foreign": "original",
+        "english": "original",
+        "code": "POR"
+    },
+    { "position": 866, "foreign": "share", "english": "share", "code": "POR" },
+    {
+        "position": 867,
+        "foreign": "estação",
+        "english": "station",
+        "code": "POR"
+    },
+    { "position": 868, "foreign": "pai", "english": "dad", "code": "POR" },
+    { "position": 869, "foreign": "pão", "english": "bread", "code": "POR" },
+    {
+        "position": 870,
+        "foreign": "cobrar",
+        "english": "charge",
+        "code": "POR"
+    },
+    {
+        "position": 871,
+        "foreign": "adequada",
+        "english": "proper",
+        "code": "POR"
+    },
+    { "position": 872, "foreign": "bar", "english": "bar", "code": "POR" },
+    { "position": 873, "foreign": "oferta", "english": "offer", "code": "POR" },
+    {
+        "position": 874,
+        "foreign": "segmento",
+        "english": "segment",
+        "code": "POR"
+    },
+    {
+        "position": 875,
+        "foreign": "escravo",
+        "english": "slave",
+        "code": "POR"
+    },
+    { "position": 876, "foreign": "pato", "english": "duck", "code": "POR" },
+    {
+        "position": 877,
+        "foreign": "instant",
+        "english": "instant",
+        "code": "POR"
+    },
+    {
+        "position": 878,
+        "foreign": "mercado",
+        "english": "market",
+        "code": "POR"
+    },
+    { "position": 879, "foreign": "grau", "english": "degree", "code": "POR" },
+    {
+        "position": 880,
+        "foreign": "preencher",
+        "english": "populate",
+        "code": "POR"
+    },
+    { "position": 881, "foreign": "pinto", "english": "chick", "code": "POR" },
+    { "position": 882, "foreign": "caro", "english": "dear", "code": "POR" },
+    {
+        "position": 883,
+        "foreign": "inimigo",
+        "english": "enemy",
+        "code": "POR"
+    },
+    {
+        "position": 884,
+        "foreign": "responder",
+        "english": "reply",
+        "code": "POR"
+    },
+    { "position": 885, "foreign": "bebida", "english": "drink", "code": "POR" },
+    {
+        "position": 886,
+        "foreign": "ocorrer",
+        "english": "occur",
+        "code": "POR"
+    },
+    {
+        "position": 887,
+        "foreign": "apoio",
+        "english": "support",
+        "code": "POR"
+    },
+    {
+        "position": 888,
+        "foreign": "discurso",
+        "english": "speech",
+        "code": "POR"
+    },
+    {
+        "position": 889,
+        "foreign": "natureza",
+        "english": "nature",
+        "code": "POR"
+    },
+    { "position": 890, "foreign": "gama", "english": "range", "code": "POR" },
+    { "position": 891, "foreign": "vapor", "english": "steam", "code": "POR" },
+    {
+        "position": 892,
+        "foreign": "movimento",
+        "english": "motion",
+        "code": "POR"
+    },
+    { "position": 893, "foreign": "caminho", "english": "path", "code": "POR" },
+    {
+        "position": 894,
+        "foreign": "líquido",
+        "english": "liquid",
+        "code": "POR"
+    },
+    { "position": 895, "foreign": "log", "english": "log", "code": "POR" },
+    {
+        "position": 896,
+        "foreign": "significava",
+        "english": "meant",
+        "code": "POR"
+    },
+    {
+        "position": 897,
+        "foreign": "quociente",
+        "english": "quotient",
+        "code": "POR"
+    },
+    { "position": 898, "foreign": "dentes", "english": "teeth", "code": "POR" },
+    { "position": 899, "foreign": "casca", "english": "shell", "code": "POR" },
+    { "position": 900, "foreign": "pescoço", "english": "neck", "code": "POR" },
+    {
+        "position": 901,
+        "foreign": "oxigênio",
+        "english": "oxygen",
+        "code": "POR"
+    },
+    { "position": 902, "foreign": "açúcar", "english": "sugar", "code": "POR" },
+    { "position": 903, "foreign": "morte", "english": "death", "code": "POR" },
+    {
+        "position": 904,
+        "foreign": "bastante",
+        "english": "pretty",
+        "code": "POR"
+    },
+    {
+        "position": 905,
+        "foreign": "habilidade",
+        "english": "skill",
+        "code": "POR"
+    },
+    {
+        "position": 906,
+        "foreign": "mulheres",
+        "english": "women",
+        "code": "POR"
+    },
+    {
+        "position": 907,
+        "foreign": "temporada",
+        "english": "season",
+        "code": "POR"
+    },
+    {
+        "position": 908,
+        "foreign": "solução",
+        "english": "solution",
+        "code": "POR"
+    },
+    { "position": 909, "foreign": "ímã", "english": "magnet", "code": "POR" },
+    { "position": 910, "foreign": "prata", "english": "silver", "code": "POR" },
+    {
+        "position": 911,
+        "foreign": "obrigado",
+        "english": "thank",
+        "code": "POR"
+    },
+    { "position": 912, "foreign": "ramo", "english": "branch", "code": "POR" },
+    { "position": 913, "foreign": "jogo", "english": "match", "code": "POR" },
+    {
+        "position": 914,
+        "foreign": "sufixo",
+        "english": "suffix",
+        "code": "POR"
+    },
+    {
+        "position": 915,
+        "foreign": "especialmente",
+        "english": "especially",
+        "code": "POR"
+    },
+    { "position": 916, "foreign": "figo", "english": "fig", "code": "POR" },
+    { "position": 917, "foreign": "medo", "english": "afraid", "code": "POR" },
+    { "position": 918, "foreign": "enorme", "english": "huge", "code": "POR" },
+    { "position": 919, "foreign": "irmã", "english": "sister", "code": "POR" },
+    { "position": 920, "foreign": "aço", "english": "steel", "code": "POR" },
+    {
+        "position": 921,
+        "foreign": "discutir",
+        "english": "discuss",
+        "code": "POR"
+    },
+    {
+        "position": 922,
+        "foreign": "para a frente",
+        "english": "forward",
+        "code": "POR"
+    },
+    {
+        "position": 923,
+        "foreign": "similar",
+        "english": "similar",
+        "code": "POR"
+    },
+    {
+        "position": 924,
+        "foreign": "orientar",
+        "english": "guide",
+        "code": "POR"
+    },
+    {
+        "position": 925,
+        "foreign": "experiência",
+        "english": "experience",
+        "code": "POR"
+    },
+    {
+        "position": 926,
+        "foreign": "contagem",
+        "english": "score",
+        "code": "POR"
+    },
+    { "position": 927, "foreign": "maçã", "english": "apple", "code": "POR" },
+    {
+        "position": 928,
+        "foreign": "comprou",
+        "english": "bought",
+        "code": "POR"
+    },
+    { "position": 929, "foreign": "conduziu", "english": "led", "code": "POR" },
+    { "position": 930, "foreign": "campo", "english": "pitch", "code": "POR" },
+    { "position": 931, "foreign": "casaco", "english": "coat", "code": "POR" },
+    { "position": 932, "foreign": "massa", "english": "mass", "code": "POR" },
+    { "position": 933, "foreign": "cartão", "english": "card", "code": "POR" },
+    { "position": 934, "foreign": "banda", "english": "band", "code": "POR" },
+    { "position": 935, "foreign": "corda", "english": "rope", "code": "POR" },
+    {
+        "position": 936,
+        "foreign": "deslizamento",
+        "english": "slip",
+        "code": "POR"
+    },
+    { "position": 937, "foreign": "vitória", "english": "win", "code": "POR" },
+    { "position": 938, "foreign": "sonhar", "english": "dream", "code": "POR" },
+    {
+        "position": 939,
+        "foreign": "noite",
+        "english": "evening",
+        "code": "POR"
+    },
+    {
+        "position": 940,
+        "foreign": "condição",
+        "english": "condition",
+        "code": "POR"
+    },
+    {
+        "position": 941,
+        "foreign": "alimentação",
+        "english": "feed",
+        "code": "POR"
+    },
+    {
+        "position": 942,
+        "foreign": "ferramenta",
+        "english": "tool",
+        "code": "POR"
+    },
+    {
+        "position": 943,
+        "foreign": "total de",
+        "english": "total",
+        "code": "POR"
+    },
+    { "position": 944, "foreign": "básico", "english": "basic", "code": "POR" },
+    { "position": 945, "foreign": "cheiro", "english": "smell", "code": "POR" },
+    { "position": 946, "foreign": "vale", "english": "valley", "code": "POR" },
+    { "position": 947, "foreign": "nem", "english": "nor", "code": "POR" },
+    { "position": 948, "foreign": "duplo", "english": "double", "code": "POR" },
+    { "position": 949, "foreign": "assento", "english": "seat", "code": "POR" },
+    {
+        "position": 950,
+        "foreign": "continuar",
+        "english": "continue",
+        "code": "POR"
+    },
+    { "position": 951, "foreign": "bloco", "english": "block", "code": "POR" },
+    {
+        "position": 952,
+        "foreign": "gráfico",
+        "english": "chart",
+        "code": "POR"
+    },
+    { "position": 953, "foreign": "chapéu", "english": "hat", "code": "POR" },
+    { "position": 954, "foreign": "vender", "english": "sell", "code": "POR" },
+    {
+        "position": 955,
+        "foreign": "sucesso",
+        "english": "success",
+        "code": "POR"
+    },
+    {
+        "position": 956,
+        "foreign": "companhia",
+        "english": "company",
+        "code": "POR"
+    },
+    {
+        "position": 957,
+        "foreign": "subtrair",
+        "english": "subtract",
+        "code": "POR"
+    },
+    { "position": 958, "foreign": "evento", "english": "event", "code": "POR" },
+    {
+        "position": 959,
+        "foreign": "especial",
+        "english": "particular",
+        "code": "POR"
+    },
+    { "position": 960, "foreign": "negócio", "english": "deal", "code": "POR" },
+    {
+        "position": 961,
+        "foreign": "mergulho",
+        "english": "swim",
+        "code": "POR"
+    },
+    { "position": 962, "foreign": "prazo", "english": "term", "code": "POR" },
+    {
+        "position": 963,
+        "foreign": "oposto",
+        "english": "opposite",
+        "code": "POR"
+    },
+    { "position": 964, "foreign": "esposa", "english": "wife", "code": "POR" },
+    { "position": 965, "foreign": "sapato", "english": "shoe", "code": "POR" },
+    {
+        "position": 966,
+        "foreign": "ombro",
+        "english": "shoulder",
+        "code": "POR"
+    },
+    {
+        "position": 967,
+        "foreign": "propagação",
+        "english": "spread",
+        "code": "POR"
+    },
+    {
+        "position": 968,
+        "foreign": "organizar",
+        "english": "arrange",
+        "code": "POR"
+    },
+    {
+        "position": 969,
+        "foreign": "acampamento",
+        "english": "camp",
+        "code": "POR"
+    },
+    {
+        "position": 970,
+        "foreign": "inventar",
+        "english": "invent",
+        "code": "POR"
+    },
+    {
+        "position": 971,
+        "foreign": "algodão",
+        "english": "cotton",
+        "code": "POR"
+    },
+    { "position": 972, "foreign": "Nascido", "english": "born", "code": "POR" },
+    {
+        "position": 973,
+        "foreign": "determinar",
+        "english": "determine",
+        "code": "POR"
+    },
+    { "position": 974, "foreign": "quarto", "english": "quart", "code": "POR" },
+    { "position": 975, "foreign": "nove", "english": "nine", "code": "POR" },
+    {
+        "position": 976,
+        "foreign": "caminhão",
+        "english": "truck",
+        "code": "POR"
+    },
+    { "position": 977, "foreign": "ruído", "english": "noise", "code": "POR" },
+    { "position": 978, "foreign": "nível", "english": "level", "code": "POR" },
+    {
+        "position": 979,
+        "foreign": "oportunidade",
+        "english": "chance",
+        "code": "POR"
+    },
+    {
+        "position": 980,
+        "foreign": "recolher",
+        "english": "gather",
+        "code": "POR"
+    },
+    { "position": 981, "foreign": "loja", "english": "shop", "code": "POR" },
+    {
+        "position": 982,
+        "foreign": "trecho",
+        "english": "stretch",
+        "code": "POR"
+    },
+    { "position": 983, "foreign": "jogar", "english": "throw", "code": "POR" },
+    { "position": 984, "foreign": "brilho", "english": "shine", "code": "POR" },
+    {
+        "position": 985,
+        "foreign": "propriedade",
+        "english": "property",
+        "code": "POR"
+    },
+    {
+        "position": 986,
+        "foreign": "coluna",
+        "english": "column",
+        "code": "POR"
+    },
+    {
+        "position": 987,
+        "foreign": "molécula",
+        "english": "molecule",
+        "code": "POR"
+    },
+    {
+        "position": 988,
+        "foreign": "selecione",
+        "english": "select",
+        "code": "POR"
+    },
+    { "position": 989, "foreign": "errado", "english": "wrong", "code": "POR" },
+    { "position": 990, "foreign": "cinza", "english": "gray", "code": "POR" },
+    {
+        "position": 991,
+        "foreign": "repetição",
+        "english": "repeat",
+        "code": "POR"
+    },
+    {
+        "position": 992,
+        "foreign": "exigir",
+        "english": "require",
+        "code": "POR"
+    },
+    { "position": 993, "foreign": "amplo", "english": "broad", "code": "POR" },
+    {
+        "position": 994,
+        "foreign": "preparar",
+        "english": "prepare",
+        "code": "POR"
+    },
+    { "position": 995, "foreign": "sal", "english": "salt", "code": "POR" },
+    { "position": 996, "foreign": "nariz", "english": "nose", "code": "POR" },
+    {
+        "position": 997,
+        "foreign": "plural",
+        "english": "plural",
+        "code": "POR"
+    },
+    { "position": 998, "foreign": "raiva", "english": "anger", "code": "POR" },
+    {
+        "position": 999,
+        "foreign": "reivindicação",
+        "english": "claim",
+        "code": "POR"
+    },
+    {
+        "position": 1000,
+        "foreign": "continente",
+        "english": "continent",
+        "code": "POR"
+    }
+]

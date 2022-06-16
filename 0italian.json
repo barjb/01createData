@@ -1,0 +1,3067 @@
+[
+    { "position": 1, "foreign": "sono", "english": "I am", "code": "ITA" },
+    { "position": 2, "foreign": "io", "english": "I", "code": "ITA" },
+    { "position": 3, "foreign": "il suo", "english": "his", "code": "ITA" },
+    { "position": 4, "foreign": "che", "english": "that", "code": "ITA" },
+    { "position": 5, "foreign": "lui", "english": "he", "code": "ITA" },
+    { "position": 6, "foreign": "era", "english": "was", "code": "ITA" },
+    { "position": 7, "foreign": "per", "english": "for", "code": "ITA" },
+    { "position": 8, "foreign": "su", "english": "on", "code": "ITA" },
+    { "position": 9, "foreign": "come", "english": "as/like", "code": "ITA" },
+    { "position": 10, "foreign": "con", "english": "with", "code": "ITA" },
+    { "position": 11, "foreign": "loro", "english": "they", "code": "ITA" },
+    { "position": 12, "foreign": "essere", "english": "be", "code": "ITA" },
+    { "position": 13, "foreign": "a", "english": "at", "code": "ITA" },
+    { "position": 14, "foreign": "uno", "english": "one", "code": "ITA" },
+    { "position": 15, "foreign": "avere", "english": "have", "code": "ITA" },
+    { "position": 16, "foreign": "questo", "english": "this", "code": "ITA" },
+    { "position": 17, "foreign": "da", "english": "from", "code": "ITA" },
+    { "position": 18, "foreign": "di", "english": "by", "code": "ITA" },
+    { "position": 19, "foreign": "caldo", "english": "hot", "code": "ITA" },
+    { "position": 20, "foreign": "parola", "english": "word", "code": "ITA" },
+    { "position": 21, "foreign": "ma", "english": "but", "code": "ITA" },
+    { "position": 22, "foreign": "cosa", "english": "what", "code": "ITA" },
+    { "position": 23, "foreign": "alcuni", "english": "some", "code": "ITA" },
+    { "position": 24, "foreign": "è", "english": "is", "code": "ITA" },
+    { "position": 25, "foreign": "quello", "english": "that", "code": "ITA" },
+    { "position": 26, "foreign": "voi", "english": "you", "code": "ITA" },
+    { "position": 27, "foreign": "o", "english": "or", "code": "ITA" },
+    { "position": 28, "foreign": "aveva", "english": "had", "code": "ITA" },
+    { "position": 29, "foreign": "il", "english": "the", "code": "ITA" },
+    { "position": 30, "foreign": "di", "english": "of", "code": "ITA" },
+    { "position": 31, "foreign": "a", "english": "to", "code": "ITA" },
+    { "position": 32, "foreign": "e", "english": "and", "code": "ITA" },
+    { "position": 33, "foreign": "un", "english": "a", "code": "ITA" },
+    { "position": 34, "foreign": "in", "english": "in", "code": "ITA" },
+    { "position": 35, "foreign": "noi", "english": "we", "code": "ITA" },
+    { "position": 36, "foreign": "lattina", "english": "can", "code": "ITA" },
+    { "position": 37, "foreign": "fuori", "english": "out", "code": "ITA" },
+    { "position": 38, "foreign": "altro", "english": "other", "code": "ITA" },
+    { "position": 39, "foreign": "erano", "english": "were", "code": "ITA" },
+    { "position": 40, "foreign": "che", "english": "which", "code": "ITA" },
+    { "position": 41, "foreign": "fare", "english": "do", "code": "ITA" },
+    { "position": 42, "foreign": "loro", "english": "their", "code": "ITA" },
+    { "position": 43, "foreign": "tempo", "english": "time", "code": "ITA" },
+    { "position": 44, "foreign": "se", "english": "if", "code": "ITA" },
+    { "position": 45, "foreign": "volontà", "english": "will", "code": "ITA" },
+    { "position": 46, "foreign": "come", "english": "how", "code": "ITA" },
+    { "position": 47, "foreign": "suddetto", "english": "said", "code": "ITA" },
+    { "position": 48, "foreign": "un", "english": "an", "code": "ITA" },
+    { "position": 49, "foreign": "ogni", "english": "each", "code": "ITA" },
+    { "position": 50, "foreign": "dire", "english": "tell", "code": "ITA" },
+    { "position": 51, "foreign": "fa", "english": "does", "code": "ITA" },
+    { "position": 52, "foreign": "set", "english": "set", "code": "ITA" },
+    { "position": 53, "foreign": "tre", "english": "three", "code": "ITA" },
+    {
+        "position": 54,
+        "foreign": "desiderare",
+        "english": "want",
+        "code": "ITA"
+    },
+    { "position": 55, "foreign": "aria", "english": "air", "code": "ITA" },
+    { "position": 56, "foreign": "bene", "english": "well", "code": "ITA" },
+    { "position": 57, "foreign": "anche", "english": "also", "code": "ITA" },
+    { "position": 58, "foreign": "giocare", "english": "play", "code": "ITA" },
+    { "position": 59, "foreign": "piccolo", "english": "small", "code": "ITA" },
+    { "position": 60, "foreign": "fine", "english": "end", "code": "ITA" },
+    { "position": 61, "foreign": "mettere", "english": "put", "code": "ITA" },
+    { "position": 62, "foreign": "casa", "english": "home", "code": "ITA" },
+    { "position": 63, "foreign": "leggere", "english": "read", "code": "ITA" },
+    { "position": 64, "foreign": "mano", "english": "hand", "code": "ITA" },
+    { "position": 65, "foreign": "porto", "english": "port", "code": "ITA" },
+    { "position": 66, "foreign": "grande", "english": "large", "code": "ITA" },
+    {
+        "position": 67,
+        "foreign": "compitare",
+        "english": "spell",
+        "code": "ITA"
+    },
+    {
+        "position": 68,
+        "foreign": "aggiungere",
+        "english": "add",
+        "code": "ITA"
+    },
+    { "position": 69, "foreign": "anche", "english": "even", "code": "ITA" },
+    { "position": 70, "foreign": "terra", "english": "land", "code": "ITA" },
+    { "position": 71, "foreign": "qui", "english": "here", "code": "ITA" },
+    { "position": 72, "foreign": "mosto", "english": "must", "code": "ITA" },
+    { "position": 73, "foreign": "grande", "english": "big", "code": "ITA" },
+    { "position": 74, "foreign": "alto", "english": "high", "code": "ITA" },
+    { "position": 75, "foreign": "tale", "english": "such", "code": "ITA" },
+    {
+        "position": 76,
+        "foreign": "seguire",
+        "english": "follow",
+        "code": "ITA"
+    },
+    { "position": 77, "foreign": "atto", "english": "act", "code": "ITA" },
+    { "position": 78, "foreign": "perché", "english": "why", "code": "ITA" },
+    { "position": 79, "foreign": "chiedere", "english": "ask", "code": "ITA" },
+    { "position": 80, "foreign": "maschi", "english": "men", "code": "ITA" },
+    {
+        "position": 81,
+        "foreign": "cambiamento",
+        "english": "change",
+        "code": "ITA"
+    },
+    { "position": 82, "foreign": "è andato", "english": "went", "code": "ITA" },
+    { "position": 83, "foreign": "luce", "english": "light", "code": "ITA" },
+    { "position": 84, "foreign": "tipo", "english": "kind", "code": "ITA" },
+    { "position": 85, "foreign": "spento", "english": "off", "code": "ITA" },
+    { "position": 86, "foreign": "bisogno", "english": "need", "code": "ITA" },
+    { "position": 87, "foreign": "casa", "english": "house", "code": "ITA" },
+    {
+        "position": 88,
+        "foreign": "immagine",
+        "english": "picture",
+        "code": "ITA"
+    },
+    { "position": 89, "foreign": "provare", "english": "try", "code": "ITA" },
+    { "position": 90, "foreign": "noi", "english": "us", "code": "ITA" },
+    {
+        "position": 91,
+        "foreign": "di nuovo",
+        "english": "again",
+        "code": "ITA"
+    },
+    {
+        "position": 92,
+        "foreign": "animale",
+        "english": "animal",
+        "code": "ITA"
+    },
+    { "position": 93, "foreign": "punto", "english": "point", "code": "ITA" },
+    { "position": 94, "foreign": "madre", "english": "mother", "code": "ITA" },
+    { "position": 95, "foreign": "mondo", "english": "world", "code": "ITA" },
+    { "position": 96, "foreign": "vicino", "english": "near", "code": "ITA" },
+    {
+        "position": 97,
+        "foreign": "costruire",
+        "english": "build",
+        "code": "ITA"
+    },
+    {
+        "position": 98,
+        "foreign": "se stesso",
+        "english": "self",
+        "code": "ITA"
+    },
+    { "position": 99, "foreign": "terra", "english": "earth", "code": "ITA" },
+    { "position": 100, "foreign": "padre", "english": "father", "code": "ITA" },
+    {
+        "position": 101,
+        "foreign": "qualsiasi",
+        "english": "any",
+        "code": "ITA"
+    },
+    { "position": 102, "foreign": "nuovo", "english": "new", "code": "ITA" },
+    { "position": 103, "foreign": "lavoro", "english": "work", "code": "ITA" },
+    { "position": 104, "foreign": "parte", "english": "part", "code": "ITA" },
+    {
+        "position": 105,
+        "foreign": "prendere",
+        "english": "take",
+        "code": "ITA"
+    },
+    { "position": 106, "foreign": "ottenere", "english": "get", "code": "ITA" },
+    { "position": 107, "foreign": "posto", "english": "place", "code": "ITA" },
+    { "position": 108, "foreign": "fatto", "english": "made", "code": "ITA" },
+    { "position": 109, "foreign": "vivere", "english": "live", "code": "ITA" },
+    { "position": 110, "foreign": "dove", "english": "where", "code": "ITA" },
+    { "position": 111, "foreign": "dopo", "english": "after", "code": "ITA" },
+    {
+        "position": 112,
+        "foreign": "indietro",
+        "english": "back",
+        "code": "ITA"
+    },
+    { "position": 113, "foreign": "poco", "english": "little", "code": "ITA" },
+    { "position": 114, "foreign": "solo", "english": "only", "code": "ITA" },
+    { "position": 115, "foreign": "turno", "english": "round", "code": "ITA" },
+    { "position": 116, "foreign": "uomo", "english": "man", "code": "ITA" },
+    { "position": 117, "foreign": "anno", "english": "year", "code": "ITA" },
+    {
+        "position": 118,
+        "foreign": "è venuto",
+        "english": "came",
+        "code": "ITA"
+    },
+    {
+        "position": 119,
+        "foreign": "spettacolo",
+        "english": "show",
+        "code": "ITA"
+    },
+    { "position": 120, "foreign": "ogni", "english": "every", "code": "ITA" },
+    { "position": 121, "foreign": "buono", "english": "good", "code": "ITA" },
+    { "position": 122, "foreign": "me", "english": "me", "code": "ITA" },
+    { "position": 123, "foreign": "dare", "english": "give", "code": "ITA" },
+    {
+        "position": 124,
+        "foreign": "il nostro",
+        "english": "our",
+        "code": "ITA"
+    },
+    { "position": 125, "foreign": "sotto", "english": "under", "code": "ITA" },
+    { "position": 126, "foreign": "nome", "english": "name", "code": "ITA" },
+    { "position": 127, "foreign": "molto", "english": "very", "code": "ITA" },
+    {
+        "position": 128,
+        "foreign": "attraverso",
+        "english": "through",
+        "code": "ITA"
+    },
+    { "position": 129, "foreign": "solo", "english": "just", "code": "ITA" },
+    { "position": 130, "foreign": "forma", "english": "form", "code": "ITA" },
+    {
+        "position": 131,
+        "foreign": "frase",
+        "english": "sentence",
+        "code": "ITA"
+    },
+    { "position": 132, "foreign": "grande", "english": "great", "code": "ITA" },
+    {
+        "position": 133,
+        "foreign": "pensare",
+        "english": "think",
+        "code": "ITA"
+    },
+    { "position": 134, "foreign": "dire", "english": "say", "code": "ITA" },
+    { "position": 135, "foreign": "aiutare", "english": "help", "code": "ITA" },
+    { "position": 136, "foreign": "basso", "english": "low", "code": "ITA" },
+    { "position": 137, "foreign": "linea", "english": "line", "code": "ITA" },
+    {
+        "position": 138,
+        "foreign": "differire",
+        "english": "differ",
+        "code": "ITA"
+    },
+    { "position": 139, "foreign": "turno", "english": "turn", "code": "ITA" },
+    { "position": 140, "foreign": "causa", "english": "cause", "code": "ITA" },
+    { "position": 141, "foreign": "molto", "english": "much", "code": "ITA" },
+    { "position": 142, "foreign": "dire", "english": "mean", "code": "ITA" },
+    { "position": 143, "foreign": "prima", "english": "before", "code": "ITA" },
+    {
+        "position": 144,
+        "foreign": "spostare",
+        "english": "move",
+        "code": "ITA"
+    },
+    {
+        "position": 145,
+        "foreign": "diritto",
+        "english": "right",
+        "code": "ITA"
+    },
+    { "position": 146, "foreign": "ragazzo", "english": "boy", "code": "ITA" },
+    { "position": 147, "foreign": "vecchio", "english": "old", "code": "ITA" },
+    { "position": 148, "foreign": "troppo", "english": "too", "code": "ITA" },
+    { "position": 149, "foreign": "stesso", "english": "same", "code": "ITA" },
+    { "position": 150, "foreign": "lei", "english": "she", "code": "ITA" },
+    { "position": 151, "foreign": "tutto", "english": "all", "code": "ITA" },
+    { "position": 152, "foreign": "ci", "english": "there", "code": "ITA" },
+    { "position": 153, "foreign": "quando", "english": "when", "code": "ITA" },
+    { "position": 154, "foreign": "su", "english": "up", "code": "ITA" },
+    { "position": 155, "foreign": "uso", "english": "use", "code": "ITA" },
+    { "position": 156, "foreign": "il tuo", "english": "your", "code": "ITA" },
+    { "position": 157, "foreign": "modo", "english": "way", "code": "ITA" },
+    { "position": 158, "foreign": "circa", "english": "about", "code": "ITA" },
+    { "position": 159, "foreign": "molti", "english": "many", "code": "ITA" },
+    { "position": 160, "foreign": "allora", "english": "then", "code": "ITA" },
+    { "position": 161, "foreign": "loro", "english": "them", "code": "ITA" },
+    {
+        "position": 162,
+        "foreign": "scrivere",
+        "english": "write",
+        "code": "ITA"
+    },
+    {
+        "position": 163,
+        "foreign": "sarebbe",
+        "english": "would",
+        "code": "ITA"
+    },
+    { "position": 164, "foreign": "come", "english": "like", "code": "ITA" },
+    { "position": 165, "foreign": "così", "english": "so", "code": "ITA" },
+    { "position": 166, "foreign": "queste", "english": "these", "code": "ITA" },
+    { "position": 167, "foreign": "lei", "english": "her", "code": "ITA" },
+    { "position": 168, "foreign": "lungo", "english": "long", "code": "ITA" },
+    { "position": 169, "foreign": "rendere", "english": "make", "code": "ITA" },
+    { "position": 170, "foreign": "cosa", "english": "thing", "code": "ITA" },
+    { "position": 171, "foreign": "vedere", "english": "see", "code": "ITA" },
+    { "position": 172, "foreign": "lui", "english": "him", "code": "ITA" },
+    { "position": 173, "foreign": "due", "english": "two", "code": "ITA" },
+    { "position": 174, "foreign": "ha", "english": "has", "code": "ITA" },
+    {
+        "position": 175,
+        "foreign": "guardare",
+        "english": "look",
+        "code": "ITA"
+    },
+    { "position": 176, "foreign": "di più", "english": "more", "code": "ITA" },
+    { "position": 177, "foreign": "giorno", "english": "day", "code": "ITA" },
+    { "position": 178, "foreign": "potuto", "english": "could", "code": "ITA" },
+    { "position": 179, "foreign": "andare", "english": "go", "code": "ITA" },
+    { "position": 180, "foreign": "venire", "english": "come", "code": "ITA" },
+    { "position": 181, "foreign": "ha fatto", "english": "did", "code": "ITA" },
+    {
+        "position": 182,
+        "foreign": "numero",
+        "english": "number",
+        "code": "ITA"
+    },
+    { "position": 183, "foreign": "suono", "english": "sound", "code": "ITA" },
+    { "position": 184, "foreign": "no", "english": "no", "code": "ITA" },
+    { "position": 185, "foreign": "più", "english": "most", "code": "ITA" },
+    {
+        "position": 186,
+        "foreign": "persone",
+        "english": "people",
+        "code": "ITA"
+    },
+    { "position": 187, "foreign": "il mio", "english": "my", "code": "ITA" },
+    { "position": 188, "foreign": "oltre", "english": "over", "code": "ITA" },
+    { "position": 189, "foreign": "sapere", "english": "know", "code": "ITA" },
+    { "position": 190, "foreign": "acqua", "english": "water", "code": "ITA" },
+    { "position": 191, "foreign": "di", "english": "than", "code": "ITA" },
+    {
+        "position": 192,
+        "foreign": "chiamata",
+        "english": "call",
+        "code": "ITA"
+    },
+    { "position": 193, "foreign": "primo", "english": "first", "code": "ITA" },
+    { "position": 194, "foreign": "che", "english": "who", "code": "ITA" },
+    { "position": 195, "foreign": "può", "english": "may", "code": "ITA" },
+    { "position": 196, "foreign": "giù", "english": "down", "code": "ITA" },
+    { "position": 197, "foreign": "lato", "english": "side", "code": "ITA" },
+    { "position": 198, "foreign": "stato", "english": "been", "code": "ITA" },
+    { "position": 199, "foreign": "ora", "english": "now", "code": "ITA" },
+    { "position": 200, "foreign": "trovare", "english": "find", "code": "ITA" },
+    { "position": 201, "foreign": "testa", "english": "head", "code": "ITA" },
+    {
+        "position": 202,
+        "foreign": "stare in piedi",
+        "english": "stand",
+        "code": "ITA"
+    },
+    { "position": 203, "foreign": "proprio", "english": "own", "code": "ITA" },
+    { "position": 204, "foreign": "pagina", "english": "page", "code": "ITA" },
+    {
+        "position": 205,
+        "foreign": "dovrebbe",
+        "english": "should",
+        "code": "ITA"
+    },
+    {
+        "position": 206,
+        "foreign": "paese",
+        "english": "country",
+        "code": "ITA"
+    },
+    {
+        "position": 207,
+        "foreign": "fondare",
+        "english": "found",
+        "code": "ITA"
+    },
+    {
+        "position": 208,
+        "foreign": "risposta",
+        "english": "answer",
+        "code": "ITA"
+    },
+    {
+        "position": 209,
+        "foreign": "scuola",
+        "english": "school",
+        "code": "ITA"
+    },
+    {
+        "position": 210,
+        "foreign": "crescere",
+        "english": "grow",
+        "code": "ITA"
+    },
+    { "position": 211, "foreign": "studio", "english": "study", "code": "ITA" },
+    { "position": 212, "foreign": "ancora", "english": "still", "code": "ITA" },
+    {
+        "position": 213,
+        "foreign": "imparare",
+        "english": "learn",
+        "code": "ITA"
+    },
+    {
+        "position": 214,
+        "foreign": "impianto",
+        "english": "plant",
+        "code": "ITA"
+    },
+    {
+        "position": 215,
+        "foreign": "copertura",
+        "english": "cover",
+        "code": "ITA"
+    },
+    { "position": 216, "foreign": "cibo", "english": "food", "code": "ITA" },
+    { "position": 217, "foreign": "sole", "english": "sun", "code": "ITA" },
+    { "position": 218, "foreign": "quattro", "english": "four", "code": "ITA" },
+    { "position": 219, "foreign": "fra", "english": "between", "code": "ITA" },
+    { "position": 220, "foreign": "stato", "english": "state", "code": "ITA" },
+    {
+        "position": 221,
+        "foreign": "mantenere",
+        "english": "keep",
+        "code": "ITA"
+    },
+    { "position": 222, "foreign": "occhio", "english": "eye", "code": "ITA" },
+    { "position": 223, "foreign": "mai", "english": "never", "code": "ITA" },
+    { "position": 224, "foreign": "ultimo", "english": "last", "code": "ITA" },
+    { "position": 225, "foreign": "lasciare", "english": "let", "code": "ITA" },
+    {
+        "position": 226,
+        "foreign": "pensiero",
+        "english": "thought",
+        "code": "ITA"
+    },
+    { "position": 227, "foreign": "città", "english": "city", "code": "ITA" },
+    { "position": 228, "foreign": "albero", "english": "tree", "code": "ITA" },
+    {
+        "position": 229,
+        "foreign": "attraversare",
+        "english": "cross",
+        "code": "ITA"
+    },
+    {
+        "position": 230,
+        "foreign": "fattoria",
+        "english": "farm",
+        "code": "ITA"
+    },
+    {
+        "position": 231,
+        "foreign": "difficile",
+        "english": "hard",
+        "code": "ITA"
+    },
+    { "position": 232, "foreign": "inizio", "english": "start", "code": "ITA" },
+    { "position": 233, "foreign": "forza", "english": "might", "code": "ITA" },
+    { "position": 234, "foreign": "storia", "english": "story", "code": "ITA" },
+    { "position": 235, "foreign": "sega", "english": "saw", "code": "ITA" },
+    { "position": 236, "foreign": "lontano", "english": "far", "code": "ITA" },
+    { "position": 237, "foreign": "mare", "english": "sea", "code": "ITA" },
+    {
+        "position": 238,
+        "foreign": "disegnare",
+        "english": "draw",
+        "code": "ITA"
+    },
+    {
+        "position": 239,
+        "foreign": "sinistra",
+        "english": "left",
+        "code": "ITA"
+    },
+    { "position": 240, "foreign": "tardi", "english": "late", "code": "ITA" },
+    { "position": 241, "foreign": "run", "english": "run", "code": "ITA" },
+    { "position": 242, "foreign": "non", "english": "don’t", "code": "ITA" },
+    { "position": 243, "foreign": "mentre", "english": "while", "code": "ITA" },
+    { "position": 244, "foreign": "stampa", "english": "press", "code": "ITA" },
+    { "position": 245, "foreign": "close", "english": "close", "code": "ITA" },
+    { "position": 246, "foreign": "notte", "english": "night", "code": "ITA" },
+    { "position": 247, "foreign": "reale", "english": "real", "code": "ITA" },
+    { "position": 248, "foreign": "vita", "english": "life", "code": "ITA" },
+    { "position": 249, "foreign": "pochi", "english": "few", "code": "ITA" },
+    { "position": 250, "foreign": "nord", "english": "north", "code": "ITA" },
+    { "position": 251, "foreign": "libro", "english": "book", "code": "ITA" },
+    {
+        "position": 252,
+        "foreign": "portare",
+        "english": "carry",
+        "code": "ITA"
+    },
+    {
+        "position": 253,
+        "foreign": "ha preso",
+        "english": "took",
+        "code": "ITA"
+    },
+    {
+        "position": 254,
+        "foreign": "scienza",
+        "english": "science",
+        "code": "ITA"
+    },
+    { "position": 255, "foreign": "mangiare", "english": "eat", "code": "ITA" },
+    { "position": 256, "foreign": "camera", "english": "room", "code": "ITA" },
+    { "position": 257, "foreign": "amico", "english": "friend", "code": "ITA" },
+    {
+        "position": 258,
+        "foreign": "ha iniziato",
+        "english": "began",
+        "code": "ITA"
+    },
+    { "position": 259, "foreign": "idea", "english": "idea", "code": "ITA" },
+    { "position": 260, "foreign": "pesce", "english": "fish", "code": "ITA" },
+    {
+        "position": 261,
+        "foreign": "montagna",
+        "english": "mountain",
+        "code": "ITA"
+    },
+    { "position": 262, "foreign": "stop", "english": "stop", "code": "ITA" },
+    {
+        "position": 263,
+        "foreign": "una volta",
+        "english": "once",
+        "code": "ITA"
+    },
+    { "position": 264, "foreign": "base", "english": "base", "code": "ITA" },
+    { "position": 265, "foreign": "sentire", "english": "hear", "code": "ITA" },
+    {
+        "position": 266,
+        "foreign": "cavallo",
+        "english": "horse",
+        "code": "ITA"
+    },
+    { "position": 267, "foreign": "taglio", "english": "cut", "code": "ITA" },
+    { "position": 268, "foreign": "sicuro", "english": "sure", "code": "ITA" },
+    {
+        "position": 269,
+        "foreign": "orologio",
+        "english": "watch",
+        "code": "ITA"
+    },
+    { "position": 270, "foreign": "colore", "english": "color", "code": "ITA" },
+    { "position": 271, "foreign": "volto", "english": "face", "code": "ITA" },
+    { "position": 272, "foreign": "legno", "english": "wood", "code": "ITA" },
+    {
+        "position": 273,
+        "foreign": "principale",
+        "english": "main",
+        "code": "ITA"
+    },
+    { "position": 274, "foreign": "aperto", "english": "open", "code": "ITA" },
+    {
+        "position": 275,
+        "foreign": "sembrare",
+        "english": "seem",
+        "code": "ITA"
+    },
+    {
+        "position": 276,
+        "foreign": "insieme",
+        "english": "together",
+        "code": "ITA"
+    },
+    {
+        "position": 277,
+        "foreign": "prossimo",
+        "english": "next",
+        "code": "ITA"
+    },
+    { "position": 278, "foreign": "bianco", "english": "white", "code": "ITA" },
+    {
+        "position": 279,
+        "foreign": "bambini",
+        "english": "children",
+        "code": "ITA"
+    },
+    { "position": 280, "foreign": "inizio", "english": "begin", "code": "ITA" },
+    { "position": 281, "foreign": "ottenuto", "english": "got", "code": "ITA" },
+    {
+        "position": 282,
+        "foreign": "camminare",
+        "english": "walk",
+        "code": "ITA"
+    },
+    {
+        "position": 283,
+        "foreign": "esempio",
+        "english": "example",
+        "code": "ITA"
+    },
+    {
+        "position": 284,
+        "foreign": "alleviare",
+        "english": "ease",
+        "code": "ITA"
+    },
+    { "position": 285, "foreign": "carta", "english": "paper", "code": "ITA" },
+    { "position": 286, "foreign": "gruppo", "english": "group", "code": "ITA" },
+    {
+        "position": 287,
+        "foreign": "sempre",
+        "english": "always",
+        "code": "ITA"
+    },
+    { "position": 288, "foreign": "musica", "english": "music", "code": "ITA" },
+    { "position": 289, "foreign": "quelli", "english": "those", "code": "ITA" },
+    {
+        "position": 290,
+        "foreign": "entrambi",
+        "english": "both",
+        "code": "ITA"
+    },
+    { "position": 291, "foreign": "marchio", "english": "mark", "code": "ITA" },
+    { "position": 292, "foreign": "spesso", "english": "often", "code": "ITA" },
+    {
+        "position": 293,
+        "foreign": "lettera",
+        "english": "letter",
+        "code": "ITA"
+    },
+    {
+        "position": 294,
+        "foreign": "fino a quando",
+        "english": "until",
+        "code": "ITA"
+    },
+    { "position": 295, "foreign": "miglio", "english": "mile", "code": "ITA" },
+    { "position": 296, "foreign": "fiume", "english": "river", "code": "ITA" },
+    { "position": 297, "foreign": "auto", "english": "car", "code": "ITA" },
+    { "position": 298, "foreign": "piedi", "english": "feet", "code": "ITA" },
+    { "position": 299, "foreign": "cura", "english": "care", "code": "ITA" },
+    {
+        "position": 300,
+        "foreign": "secondo",
+        "english": "second",
+        "code": "ITA"
+    },
+    {
+        "position": 301,
+        "foreign": "abbastanza",
+        "english": "enough",
+        "code": "ITA"
+    },
+    {
+        "position": 302,
+        "foreign": "pianura",
+        "english": "plain",
+        "code": "ITA"
+    },
+    { "position": 303, "foreign": "ragazza", "english": "girl", "code": "ITA" },
+    { "position": 304, "foreign": "solito", "english": "usual", "code": "ITA" },
+    {
+        "position": 305,
+        "foreign": "giovane",
+        "english": "young",
+        "code": "ITA"
+    },
+    { "position": 306, "foreign": "pronto", "english": "ready", "code": "ITA" },
+    { "position": 307, "foreign": "sopra", "english": "above", "code": "ITA" },
+    { "position": 308, "foreign": "mai", "english": "ever", "code": "ITA" },
+    { "position": 309, "foreign": "rosso", "english": "red", "code": "ITA" },
+    { "position": 310, "foreign": "elenco", "english": "list", "code": "ITA" },
+    {
+        "position": 311,
+        "foreign": "anche se",
+        "english": "though",
+        "code": "ITA"
+    },
+    { "position": 312, "foreign": "sentire", "english": "feel", "code": "ITA" },
+    {
+        "position": 313,
+        "foreign": "Discussioni",
+        "english": "talk",
+        "code": "ITA"
+    },
+    { "position": 314, "foreign": "uccello", "english": "bird", "code": "ITA" },
+    { "position": 315, "foreign": "presto", "english": "soon", "code": "ITA" },
+    { "position": 316, "foreign": "corpo", "english": "body", "code": "ITA" },
+    { "position": 317, "foreign": "cane", "english": "dog", "code": "ITA" },
+    {
+        "position": 318,
+        "foreign": "famiglia",
+        "english": "family",
+        "code": "ITA"
+    },
+    {
+        "position": 319,
+        "foreign": "diretto",
+        "english": "direct",
+        "code": "ITA"
+    },
+    { "position": 320, "foreign": "posa", "english": "pose", "code": "ITA" },
+    {
+        "position": 321,
+        "foreign": "lasciare",
+        "english": "leave",
+        "code": "ITA"
+    },
+    { "position": 322, "foreign": "canzone", "english": "song", "code": "ITA" },
+    {
+        "position": 323,
+        "foreign": "misurare",
+        "english": "measure",
+        "code": "ITA"
+    },
+    { "position": 324, "foreign": "porta", "english": "door", "code": "ITA" },
+    {
+        "position": 325,
+        "foreign": "prodotto",
+        "english": "product",
+        "code": "ITA"
+    },
+    { "position": 326, "foreign": "nero", "english": "black", "code": "ITA" },
+    { "position": 327, "foreign": "breve", "english": "short", "code": "ITA" },
+    {
+        "position": 328,
+        "foreign": "numerale",
+        "english": "numeral",
+        "code": "ITA"
+    },
+    { "position": 329, "foreign": "classe", "english": "class", "code": "ITA" },
+    { "position": 330, "foreign": "vento", "english": "wind", "code": "ITA" },
+    {
+        "position": 331,
+        "foreign": "domanda",
+        "english": "question",
+        "code": "ITA"
+    },
+    {
+        "position": 332,
+        "foreign": "accadere",
+        "english": "happen",
+        "code": "ITA"
+    },
+    {
+        "position": 333,
+        "foreign": "integrale",
+        "english": "complete",
+        "code": "ITA"
+    },
+    { "position": 334, "foreign": "nave", "english": "ship", "code": "ITA" },
+    { "position": 335, "foreign": "area", "english": "area", "code": "ITA" },
+    { "position": 336, "foreign": "metà", "english": "half", "code": "ITA" },
+    { "position": 337, "foreign": "rock", "english": "rock", "code": "ITA" },
+    { "position": 338, "foreign": "ordine", "english": "order", "code": "ITA" },
+    { "position": 339, "foreign": "fuoco", "english": "fire", "code": "ITA" },
+    { "position": 340, "foreign": "sud", "english": "south", "code": "ITA" },
+    {
+        "position": 341,
+        "foreign": "problema",
+        "english": "problem",
+        "code": "ITA"
+    },
+    { "position": 342, "foreign": "pezzo", "english": "piece", "code": "ITA" },
+    {
+        "position": 343,
+        "foreign": "ha detto",
+        "english": "told",
+        "code": "ITA"
+    },
+    { "position": 344, "foreign": "sapeva", "english": "knew", "code": "ITA" },
+    { "position": 345, "foreign": "passare", "english": "pass", "code": "ITA" },
+    { "position": 346, "foreign": "da", "english": "since", "code": "ITA" },
+    { "position": 347, "foreign": "top", "english": "top", "code": "ITA" },
+    { "position": 348, "foreign": "tutto", "english": "whole", "code": "ITA" },
+    { "position": 349, "foreign": "re", "english": "king", "code": "ITA" },
+    {
+        "position": 350,
+        "foreign": "strada",
+        "english": "street",
+        "code": "ITA"
+    },
+    { "position": 351, "foreign": "pollice", "english": "inch", "code": "ITA" },
+    {
+        "position": 352,
+        "foreign": "moltiplicare",
+        "english": "multiply",
+        "code": "ITA"
+    },
+    {
+        "position": 353,
+        "foreign": "niente",
+        "english": "nothing",
+        "code": "ITA"
+    },
+    { "position": 354, "foreign": "corso", "english": "course", "code": "ITA" },
+    {
+        "position": 355,
+        "foreign": "soggiornare",
+        "english": "stay",
+        "code": "ITA"
+    },
+    { "position": 356, "foreign": "ruota", "english": "wheel", "code": "ITA" },
+    {
+        "position": 357,
+        "foreign": "completo",
+        "english": "full",
+        "code": "ITA"
+    },
+    { "position": 358, "foreign": "vigore", "english": "force", "code": "ITA" },
+    { "position": 359, "foreign": "blu", "english": "blue", "code": "ITA" },
+    {
+        "position": 360,
+        "foreign": "oggetto",
+        "english": "object",
+        "code": "ITA"
+    },
+    {
+        "position": 361,
+        "foreign": "decidere",
+        "english": "decide",
+        "code": "ITA"
+    },
+    {
+        "position": 362,
+        "foreign": "superficie",
+        "english": "surface",
+        "code": "ITA"
+    },
+    {
+        "position": 363,
+        "foreign": "profondità",
+        "english": "deep",
+        "code": "ITA"
+    },
+    { "position": 364, "foreign": "luna", "english": "moon", "code": "ITA" },
+    { "position": 365, "foreign": "isola", "english": "island", "code": "ITA" },
+    { "position": 366, "foreign": "piede", "english": "foot", "code": "ITA" },
+    {
+        "position": 367,
+        "foreign": "sistema",
+        "english": "system",
+        "code": "ITA"
+    },
+    {
+        "position": 368,
+        "foreign": "occupato",
+        "english": "busy",
+        "code": "ITA"
+    },
+    { "position": 369, "foreign": "test", "english": "test", "code": "ITA" },
+    {
+        "position": 370,
+        "foreign": "record",
+        "english": "record",
+        "code": "ITA"
+    },
+    { "position": 371, "foreign": "barca", "english": "boat", "code": "ITA" },
+    {
+        "position": 372,
+        "foreign": "comune",
+        "english": "common",
+        "code": "ITA"
+    },
+    { "position": 373, "foreign": "oro", "english": "gold", "code": "ITA" },
+    {
+        "position": 374,
+        "foreign": "possibile",
+        "english": "possible",
+        "code": "ITA"
+    },
+    { "position": 375, "foreign": "piano", "english": "plane", "code": "ITA" },
+    { "position": 376, "foreign": "vece", "english": "stead", "code": "ITA" },
+    { "position": 377, "foreign": "asciutto", "english": "dry", "code": "ITA" },
+    {
+        "position": 378,
+        "foreign": "meraviglia",
+        "english": "wonder",
+        "code": "ITA"
+    },
+    { "position": 379, "foreign": "ridere", "english": "laugh", "code": "ITA" },
+    {
+        "position": 380,
+        "foreign": "migliaia",
+        "english": "thousand",
+        "code": "ITA"
+    },
+    { "position": 381, "foreign": "fa", "english": "ago", "code": "ITA" },
+    { "position": 382, "foreign": "corse", "english": "ran", "code": "ITA" },
+    {
+        "position": 383,
+        "foreign": "controllare",
+        "english": "check",
+        "code": "ITA"
+    },
+    { "position": 384, "foreign": "gioco", "english": "game", "code": "ITA" },
+    { "position": 385, "foreign": "forma", "english": "shape", "code": "ITA" },
+    {
+        "position": 386,
+        "foreign": "uguagliare",
+        "english": "equate",
+        "code": "ITA"
+    },
+    { "position": 387, "foreign": "caldo", "english": "hot", "code": "ITA" },
+    { "position": 388, "foreign": "perdere", "english": "miss", "code": "ITA" },
+    {
+        "position": 389,
+        "foreign": "portato",
+        "english": "brought",
+        "code": "ITA"
+    },
+    { "position": 390, "foreign": "calore", "english": "heat", "code": "ITA" },
+    { "position": 391, "foreign": "neve", "english": "snow", "code": "ITA" },
+    {
+        "position": 392,
+        "foreign": "pneumatico",
+        "english": "tire",
+        "code": "ITA"
+    },
+    {
+        "position": 393,
+        "foreign": "portare",
+        "english": "bring",
+        "code": "ITA"
+    },
+    { "position": 394, "foreign": "sì", "english": "yes", "code": "ITA" },
+    {
+        "position": 395,
+        "foreign": "lontano",
+        "english": "distant",
+        "code": "ITA"
+    },
+    {
+        "position": 396,
+        "foreign": "riempire",
+        "english": "fill",
+        "code": "ITA"
+    },
+    { "position": 397, "foreign": "est", "english": "east", "code": "ITA" },
+    {
+        "position": 398,
+        "foreign": "dipingere",
+        "english": "paint",
+        "code": "ITA"
+    },
+    {
+        "position": 399,
+        "foreign": "lingua",
+        "english": "language",
+        "code": "ITA"
+    },
+    { "position": 400, "foreign": "tra", "english": "among", "code": "ITA" },
+    { "position": 401, "foreign": "unità", "english": "unit", "code": "ITA" },
+    {
+        "position": 402,
+        "foreign": "potenza",
+        "english": "power",
+        "code": "ITA"
+    },
+    { "position": 403, "foreign": "città", "english": "town", "code": "ITA" },
+    { "position": 404, "foreign": "fine", "english": "fine", "code": "ITA" },
+    {
+        "position": 405,
+        "foreign": "certo",
+        "english": "certain",
+        "code": "ITA"
+    },
+    { "position": 406, "foreign": "volare", "english": "fly", "code": "ITA" },
+    { "position": 407, "foreign": "cadere", "english": "fall", "code": "ITA" },
+    { "position": 408, "foreign": "portare", "english": "lead", "code": "ITA" },
+    { "position": 409, "foreign": "grido", "english": "cry", "code": "ITA" },
+    { "position": 410, "foreign": "scuro", "english": "dark", "code": "ITA" },
+    {
+        "position": 411,
+        "foreign": "macchina",
+        "english": "machine",
+        "code": "ITA"
+    },
+    { "position": 412, "foreign": "nota", "english": "note", "code": "ITA" },
+    {
+        "position": 413,
+        "foreign": "aspettare",
+        "english": "wait",
+        "code": "ITA"
+    },
+    { "position": 414, "foreign": "piano", "english": "plan", "code": "ITA" },
+    {
+        "position": 415,
+        "foreign": "figura",
+        "english": "figure",
+        "code": "ITA"
+    },
+    { "position": 416, "foreign": "stella", "english": "star", "code": "ITA" },
+    { "position": 417, "foreign": "scatola", "english": "box", "code": "ITA" },
+    {
+        "position": 418,
+        "foreign": "sostantivo",
+        "english": "noun",
+        "code": "ITA"
+    },
+    { "position": 419, "foreign": "campo", "english": "field", "code": "ITA" },
+    { "position": 420, "foreign": "resto", "english": "rest", "code": "ITA" },
+    {
+        "position": 421,
+        "foreign": "corretto",
+        "english": "correct",
+        "code": "ITA"
+    },
+    {
+        "position": 422,
+        "foreign": "in grado di",
+        "english": "able",
+        "code": "ITA"
+    },
+    { "position": 423, "foreign": "libbra", "english": "pound", "code": "ITA" },
+    { "position": 424, "foreign": "done", "english": "done", "code": "ITA" },
+    {
+        "position": 425,
+        "foreign": "bellezza",
+        "english": "beauty",
+        "code": "ITA"
+    },
+    { "position": 426, "foreign": "unità", "english": "drive", "code": "ITA" },
+    {
+        "position": 427,
+        "foreign": "sorgeva",
+        "english": "stood",
+        "code": "ITA"
+    },
+    {
+        "position": 428,
+        "foreign": "contenere",
+        "english": "contain",
+        "code": "ITA"
+    },
+    {
+        "position": 429,
+        "foreign": "frontale",
+        "english": "front",
+        "code": "ITA"
+    },
+    {
+        "position": 430,
+        "foreign": "insegnare",
+        "english": "teach",
+        "code": "ITA"
+    },
+    {
+        "position": 431,
+        "foreign": "settimana",
+        "english": "week",
+        "code": "ITA"
+    },
+    { "position": 432, "foreign": "finale", "english": "final", "code": "ITA" },
+    { "position": 433, "foreign": "ha dato", "english": "gave", "code": "ITA" },
+    { "position": 434, "foreign": "verde", "english": "green", "code": "ITA" },
+    { "position": 435, "foreign": "oh", "english": "oh", "code": "ITA" },
+    { "position": 436, "foreign": "veloce", "english": "quick", "code": "ITA" },
+    {
+        "position": 437,
+        "foreign": "sviluppare",
+        "english": "develop",
+        "code": "ITA"
+    },
+    { "position": 438, "foreign": "oceano", "english": "ocean", "code": "ITA" },
+    { "position": 439, "foreign": "caldo", "english": "warm", "code": "ITA" },
+    {
+        "position": 440,
+        "foreign": "gratuito",
+        "english": "free",
+        "code": "ITA"
+    },
+    {
+        "position": 441,
+        "foreign": "minuto",
+        "english": "minute",
+        "code": "ITA"
+    },
+    { "position": 442, "foreign": "forte", "english": "strong", "code": "ITA" },
+    {
+        "position": 443,
+        "foreign": "speciale",
+        "english": "special",
+        "code": "ITA"
+    },
+    { "position": 444, "foreign": "mente", "english": "mind", "code": "ITA" },
+    {
+        "position": 445,
+        "foreign": "dietro",
+        "english": "behind",
+        "code": "ITA"
+    },
+    { "position": 446, "foreign": "chiaro", "english": "clear", "code": "ITA" },
+    { "position": 447, "foreign": "coda", "english": "tail", "code": "ITA" },
+    {
+        "position": 448,
+        "foreign": "produrre",
+        "english": "produce",
+        "code": "ITA"
+    },
+    { "position": 449, "foreign": "fatto", "english": "fact", "code": "ITA" },
+    { "position": 450, "foreign": "spazio", "english": "space", "code": "ITA" },
+    {
+        "position": 451,
+        "foreign": "sentito",
+        "english": "heard",
+        "code": "ITA"
+    },
+    {
+        "position": 452,
+        "foreign": "migliore",
+        "english": "best",
+        "code": "ITA"
+    },
+    { "position": 453, "foreign": "ora", "english": "hour", "code": "ITA" },
+    {
+        "position": 454,
+        "foreign": "meglio",
+        "english": "better",
+        "code": "ITA"
+    },
+    { "position": 455, "foreign": "vero", "english": "true", "code": "ITA" },
+    {
+        "position": 456,
+        "foreign": "durante",
+        "english": "during",
+        "code": "ITA"
+    },
+    {
+        "position": 457,
+        "foreign": "cento",
+        "english": "hundred",
+        "code": "ITA"
+    },
+    { "position": 458, "foreign": "cinque", "english": "five", "code": "ITA" },
+    {
+        "position": 459,
+        "foreign": "ricordare",
+        "english": "remember",
+        "code": "ITA"
+    },
+    { "position": 460, "foreign": "passo", "english": "step", "code": "ITA" },
+    { "position": 461, "foreign": "presto", "english": "early", "code": "ITA" },
+    { "position": 462, "foreign": "tenere", "english": "hold", "code": "ITA" },
+    { "position": 463, "foreign": "ovest", "english": "west", "code": "ITA" },
+    { "position": 464, "foreign": "terra", "english": "ground", "code": "ITA" },
+    {
+        "position": 465,
+        "foreign": "interesse",
+        "english": "interest",
+        "code": "ITA"
+    },
+    {
+        "position": 466,
+        "foreign": "raggiungere",
+        "english": "reach",
+        "code": "ITA"
+    },
+    { "position": 467, "foreign": "veloce", "english": "fast", "code": "ITA" },
+    { "position": 468, "foreign": "verbo", "english": "verb", "code": "ITA" },
+    { "position": 469, "foreign": "cantare", "english": "sing", "code": "ITA" },
+    {
+        "position": 470,
+        "foreign": "ascoltare",
+        "english": "listen",
+        "code": "ITA"
+    },
+    { "position": 471, "foreign": "sei", "english": "six", "code": "ITA" },
+    { "position": 472, "foreign": "tavolo", "english": "table", "code": "ITA" },
+    {
+        "position": 473,
+        "foreign": "viaggi",
+        "english": "travel",
+        "code": "ITA"
+    },
+    { "position": 474, "foreign": "meno", "english": "less", "code": "ITA" },
+    {
+        "position": 475,
+        "foreign": "mattina",
+        "english": "morning",
+        "code": "ITA"
+    },
+    { "position": 476, "foreign": "dieci", "english": "ten", "code": "ITA" },
+    {
+        "position": 477,
+        "foreign": "semplice",
+        "english": "simple",
+        "code": "ITA"
+    },
+    {
+        "position": 478,
+        "foreign": "alcuni",
+        "english": "several",
+        "code": "ITA"
+    },
+    { "position": 479, "foreign": "vocale", "english": "vowel", "code": "ITA" },
+    { "position": 480, "foreign": "verso", "english": "toward", "code": "ITA" },
+    { "position": 481, "foreign": "guerra", "english": "war", "code": "ITA" },
+    { "position": 482, "foreign": "porre", "english": "lay", "code": "ITA" },
+    {
+        "position": 483,
+        "foreign": "contro",
+        "english": "against",
+        "code": "ITA"
+    },
+    {
+        "position": 484,
+        "foreign": "modello",
+        "english": "pattern",
+        "code": "ITA"
+    },
+    { "position": 485, "foreign": "lento", "english": "slow", "code": "ITA" },
+    {
+        "position": 486,
+        "foreign": "centro",
+        "english": "center",
+        "code": "ITA"
+    },
+    { "position": 487, "foreign": "amore", "english": "love", "code": "ITA" },
+    {
+        "position": 488,
+        "foreign": "persona",
+        "english": "person",
+        "code": "ITA"
+    },
+    { "position": 489, "foreign": "soldi", "english": "money", "code": "ITA" },
+    {
+        "position": 490,
+        "foreign": "servire",
+        "english": "serve",
+        "code": "ITA"
+    },
+    {
+        "position": 491,
+        "foreign": "apparire",
+        "english": "appear",
+        "code": "ITA"
+    },
+    { "position": 492, "foreign": "strada", "english": "road", "code": "ITA" },
+    { "position": 493, "foreign": "mappa", "english": "map", "code": "ITA" },
+    { "position": 494, "foreign": "pioggia", "english": "rain", "code": "ITA" },
+    { "position": 495, "foreign": "regola", "english": "rule", "code": "ITA" },
+    {
+        "position": 496,
+        "foreign": "governare",
+        "english": "govern",
+        "code": "ITA"
+    },
+    { "position": 497, "foreign": "tirare", "english": "pull", "code": "ITA" },
+    { "position": 498, "foreign": "freddo", "english": "cold", "code": "ITA" },
+    {
+        "position": 499,
+        "foreign": "avviso",
+        "english": "notice",
+        "code": "ITA"
+    },
+    { "position": 500, "foreign": "voce", "english": "voice", "code": "ITA" },
+    {
+        "position": 501,
+        "foreign": "energia",
+        "english": "energy",
+        "code": "ITA"
+    },
+    { "position": 502, "foreign": "caccia", "english": "hunt", "code": "ITA" },
+    {
+        "position": 503,
+        "foreign": "probabile",
+        "english": "probable",
+        "code": "ITA"
+    },
+    { "position": 504, "foreign": "letto", "english": "bed", "code": "ITA" },
+    {
+        "position": 505,
+        "foreign": "fratello",
+        "english": "brother",
+        "code": "ITA"
+    },
+    { "position": 506, "foreign": "uovo", "english": "egg", "code": "ITA" },
+    { "position": 507, "foreign": "giro", "english": "ride", "code": "ITA" },
+    { "position": 508, "foreign": "cella", "english": "cell", "code": "ITA" },
+    {
+        "position": 509,
+        "foreign": "credere",
+        "english": "believe",
+        "code": "ITA"
+    },
+    {
+        "position": 510,
+        "foreign": "forse",
+        "english": "perhaps",
+        "code": "ITA"
+    },
+    {
+        "position": 511,
+        "foreign": "scegliere",
+        "english": "pick",
+        "code": "ITA"
+    },
+    {
+        "position": 512,
+        "foreign": "improvviso",
+        "english": "sudden",
+        "code": "ITA"
+    },
+    {
+        "position": 513,
+        "foreign": "contare",
+        "english": "count",
+        "code": "ITA"
+    },
+    {
+        "position": 514,
+        "foreign": "piazza",
+        "english": "square",
+        "code": "ITA"
+    },
+    {
+        "position": 515,
+        "foreign": "motivo",
+        "english": "reason",
+        "code": "ITA"
+    },
+    {
+        "position": 516,
+        "foreign": "lunghezza",
+        "english": "length",
+        "code": "ITA"
+    },
+    {
+        "position": 517,
+        "foreign": "rappresentare",
+        "english": "represent",
+        "code": "ITA"
+    },
+    { "position": 518, "foreign": "arte", "english": "art", "code": "ITA" },
+    {
+        "position": 519,
+        "foreign": "soggetto",
+        "english": "subject",
+        "code": "ITA"
+    },
+    {
+        "position": 520,
+        "foreign": "regione",
+        "english": "region",
+        "code": "ITA"
+    },
+    {
+        "position": 521,
+        "foreign": "dimensione",
+        "english": "size",
+        "code": "ITA"
+    },
+    { "position": 522, "foreign": "variare", "english": "vary", "code": "ITA" },
+    {
+        "position": 523,
+        "foreign": "risolvere",
+        "english": "settle",
+        "code": "ITA"
+    },
+    {
+        "position": 524,
+        "foreign": "parlare",
+        "english": "speak",
+        "code": "ITA"
+    },
+    { "position": 525, "foreign": "peso", "english": "weight", "code": "ITA" },
+    {
+        "position": 526,
+        "foreign": "generale",
+        "english": "general",
+        "code": "ITA"
+    },
+    { "position": 527, "foreign": "ghiaccio", "english": "ice", "code": "ITA" },
+    {
+        "position": 528,
+        "foreign": "materia",
+        "english": "matter",
+        "code": "ITA"
+    },
+    {
+        "position": 529,
+        "foreign": "cerchio",
+        "english": "circle",
+        "code": "ITA"
+    },
+    { "position": 530, "foreign": "coppia", "english": "pair", "code": "ITA" },
+    {
+        "position": 531,
+        "foreign": "includere",
+        "english": "include",
+        "code": "ITA"
+    },
+    {
+        "position": 532,
+        "foreign": "divide",
+        "english": "divide",
+        "code": "ITA"
+    },
+    {
+        "position": 533,
+        "foreign": "sillaba",
+        "english": "syllable",
+        "code": "ITA"
+    },
+    { "position": 534, "foreign": "feltro", "english": "felt", "code": "ITA" },
+    { "position": 535, "foreign": "grande", "english": "grand", "code": "ITA" },
+    { "position": 536, "foreign": "palla", "english": "ball", "code": "ITA" },
+    { "position": 537, "foreign": "ancora", "english": "yet", "code": "ITA" },
+    { "position": 538, "foreign": "onda", "english": "wave", "code": "ITA" },
+    { "position": 539, "foreign": "cadere", "english": "drop", "code": "ITA" },
+    { "position": 540, "foreign": "cuore", "english": "heart", "code": "ITA" },
+    { "position": 541, "foreign": "am", "english": "am", "code": "ITA" },
+    {
+        "position": 542,
+        "foreign": "presente",
+        "english": "present",
+        "code": "ITA"
+    },
+    {
+        "position": 543,
+        "foreign": "pesante",
+        "english": "heavy",
+        "code": "ITA"
+    },
+    { "position": 544, "foreign": "danza", "english": "dance", "code": "ITA" },
+    {
+        "position": 545,
+        "foreign": "motore",
+        "english": "engine",
+        "code": "ITA"
+    },
+    {
+        "position": 546,
+        "foreign": "posizione",
+        "english": "position",
+        "code": "ITA"
+    },
+    { "position": 547, "foreign": "braccio", "english": "arm", "code": "ITA" },
+    { "position": 548, "foreign": "ampio", "english": "wide", "code": "ITA" },
+    { "position": 549, "foreign": "vela", "english": "sail", "code": "ITA" },
+    {
+        "position": 550,
+        "foreign": "materiale",
+        "english": "material",
+        "code": "ITA"
+    },
+    {
+        "position": 551,
+        "foreign": "frazione",
+        "english": "fraction",
+        "code": "ITA"
+    },
+    {
+        "position": 552,
+        "foreign": "foresta",
+        "english": "forest",
+        "code": "ITA"
+    },
+    { "position": 553, "foreign": "sedersi", "english": "sit", "code": "ITA" },
+    { "position": 554, "foreign": "gara", "english": "race", "code": "ITA" },
+    {
+        "position": 555,
+        "foreign": "finestra",
+        "english": "window",
+        "code": "ITA"
+    },
+    {
+        "position": 556,
+        "foreign": "negozio",
+        "english": "store",
+        "code": "ITA"
+    },
+    {
+        "position": 557,
+        "foreign": "estate",
+        "english": "summer",
+        "code": "ITA"
+    },
+    { "position": 558, "foreign": "treno", "english": "train", "code": "ITA" },
+    { "position": 559, "foreign": "sonno", "english": "sleep", "code": "ITA" },
+    {
+        "position": 560,
+        "foreign": "dimostrare",
+        "english": "prove",
+        "code": "ITA"
+    },
+    {
+        "position": 561,
+        "foreign": "solitario",
+        "english": "lone",
+        "code": "ITA"
+    },
+    { "position": 562, "foreign": "gamba", "english": "leg", "code": "ITA" },
+    {
+        "position": 563,
+        "foreign": "esercizio",
+        "english": "exercise",
+        "code": "ITA"
+    },
+    { "position": 564, "foreign": "muro", "english": "wall", "code": "ITA" },
+    {
+        "position": 565,
+        "foreign": "prendere",
+        "english": "catch",
+        "code": "ITA"
+    },
+    { "position": 566, "foreign": "monte", "english": "mount", "code": "ITA" },
+    {
+        "position": 567,
+        "foreign": "desiderio",
+        "english": "wish",
+        "code": "ITA"
+    },
+    { "position": 568, "foreign": "cielo", "english": "sky", "code": "ITA" },
+    {
+        "position": 569,
+        "foreign": "pensione",
+        "english": "board",
+        "code": "ITA"
+    },
+    { "position": 570, "foreign": "gioia", "english": "joy", "code": "ITA" },
+    {
+        "position": 571,
+        "foreign": "inverno",
+        "english": "winter",
+        "code": "ITA"
+    },
+    { "position": 572, "foreign": "sat", "english": "sat", "code": "ITA" },
+    {
+        "position": 573,
+        "foreign": "scritto",
+        "english": "written",
+        "code": "ITA"
+    },
+    {
+        "position": 574,
+        "foreign": "selvaggio",
+        "english": "wild",
+        "code": "ITA"
+    },
+    {
+        "position": 575,
+        "foreign": "strumento",
+        "english": "instrument",
+        "code": "ITA"
+    },
+    { "position": 576, "foreign": "tenere", "english": "kept", "code": "ITA" },
+    { "position": 577, "foreign": "vetro", "english": "glass", "code": "ITA" },
+    { "position": 578, "foreign": "erba", "english": "grass", "code": "ITA" },
+    { "position": 579, "foreign": "mucca", "english": "cow", "code": "ITA" },
+    { "position": 580, "foreign": "lavoro", "english": "job", "code": "ITA" },
+    { "position": 581, "foreign": "bordo", "english": "edge", "code": "ITA" },
+    { "position": 582, "foreign": "segno", "english": "sign", "code": "ITA" },
+    { "position": 583, "foreign": "visita", "english": "visit", "code": "ITA" },
+    { "position": 584, "foreign": "passato", "english": "past", "code": "ITA" },
+    { "position": 585, "foreign": "morbido", "english": "soft", "code": "ITA" },
+    {
+        "position": 586,
+        "foreign": "divertimento",
+        "english": "fun",
+        "code": "ITA"
+    },
+    {
+        "position": 587,
+        "foreign": "luminoso",
+        "english": "bright",
+        "code": "ITA"
+    },
+    { "position": 588, "foreign": "gas", "english": "gas", "code": "ITA" },
+    {
+        "position": 589,
+        "foreign": "tempo",
+        "english": "weather",
+        "code": "ITA"
+    },
+    { "position": 590, "foreign": "mese", "english": "month", "code": "ITA" },
+    {
+        "position": 591,
+        "foreign": "milione",
+        "english": "million",
+        "code": "ITA"
+    },
+    {
+        "position": 592,
+        "foreign": "sopportare",
+        "english": "bear",
+        "code": "ITA"
+    },
+    {
+        "position": 593,
+        "foreign": "finitura",
+        "english": "finish",
+        "code": "ITA"
+    },
+    { "position": 594, "foreign": "felice", "english": "happy", "code": "ITA" },
+    {
+        "position": 595,
+        "foreign": "speranza",
+        "english": "hope",
+        "code": "ITA"
+    },
+    { "position": 596, "foreign": "fiore", "english": "flower", "code": "ITA" },
+    {
+        "position": 597,
+        "foreign": "vestire",
+        "english": "clothe",
+        "code": "ITA"
+    },
+    {
+        "position": 598,
+        "foreign": "strano",
+        "english": "strange",
+        "code": "ITA"
+    },
+    { "position": 599, "foreign": "gone", "english": "gone", "code": "ITA" },
+    {
+        "position": 600,
+        "foreign": "commercio",
+        "english": "trade",
+        "code": "ITA"
+    },
+    {
+        "position": 601,
+        "foreign": "melodia",
+        "english": "melody",
+        "code": "ITA"
+    },
+    { "position": 602, "foreign": "viaggio", "english": "trip", "code": "ITA" },
+    {
+        "position": 603,
+        "foreign": "ufficio",
+        "english": "office",
+        "code": "ITA"
+    },
+    {
+        "position": 604,
+        "foreign": "ricevere",
+        "english": "receive",
+        "code": "ITA"
+    },
+    { "position": 605, "foreign": "fila", "english": "row", "code": "ITA" },
+    { "position": 606, "foreign": "bocca", "english": "mouth", "code": "ITA" },
+    { "position": 607, "foreign": "esatto", "english": "exact", "code": "ITA" },
+    {
+        "position": 608,
+        "foreign": "simbolo",
+        "english": "symbol",
+        "code": "ITA"
+    },
+    { "position": 609, "foreign": "morire", "english": "die", "code": "ITA" },
+    { "position": 610, "foreign": "meno", "english": "least", "code": "ITA" },
+    {
+        "position": 611,
+        "foreign": "difficoltà",
+        "english": "trouble",
+        "code": "ITA"
+    },
+    { "position": 612, "foreign": "shout", "english": "shout", "code": "ITA" },
+    {
+        "position": 613,
+        "foreign": "tranne",
+        "english": "except",
+        "code": "ITA"
+    },
+    {
+        "position": 614,
+        "foreign": "ha scritto",
+        "english": "wrote",
+        "code": "ITA"
+    },
+    { "position": 615, "foreign": "seme", "english": "seed", "code": "ITA" },
+    { "position": 616, "foreign": "tono", "english": "tone", "code": "ITA" },
+    { "position": 617, "foreign": "aderire", "english": "join", "code": "ITA" },
+    {
+        "position": 618,
+        "foreign": "suggerire",
+        "english": "suggest",
+        "code": "ITA"
+    },
+    { "position": 619, "foreign": "pulito", "english": "clean", "code": "ITA" },
+    { "position": 620, "foreign": "pausa", "english": "break", "code": "ITA" },
+    { "position": 621, "foreign": "signora", "english": "lady", "code": "ITA" },
+    {
+        "position": 622,
+        "foreign": "cantiere",
+        "english": "yard",
+        "code": "ITA"
+    },
+    { "position": 623, "foreign": "salire", "english": "rise", "code": "ITA" },
+    { "position": 624, "foreign": "male", "english": "bad", "code": "ITA" },
+    { "position": 625, "foreign": "colpo", "english": "blow", "code": "ITA" },
+    { "position": 626, "foreign": "olio", "english": "oil", "code": "ITA" },
+    { "position": 627, "foreign": "sangue", "english": "blood", "code": "ITA" },
+    {
+        "position": 628,
+        "foreign": "toccare",
+        "english": "touch",
+        "code": "ITA"
+    },
+    {
+        "position": 629,
+        "foreign": "è cresciuto",
+        "english": "grew",
+        "code": "ITA"
+    },
+    { "position": 630, "foreign": "cent", "english": "cent", "code": "ITA" },
+    {
+        "position": 631,
+        "foreign": "mescolare",
+        "english": "mix",
+        "code": "ITA"
+    },
+    { "position": 632, "foreign": "team", "english": "team", "code": "ITA" },
+    { "position": 633, "foreign": "filo", "english": "wire", "code": "ITA" },
+    { "position": 634, "foreign": "costo", "english": "cost", "code": "ITA" },
+    { "position": 635, "foreign": "perso", "english": "lost", "code": "ITA" },
+    {
+        "position": 636,
+        "foreign": "marrone",
+        "english": "brown",
+        "code": "ITA"
+    },
+    {
+        "position": 637,
+        "foreign": "indossare",
+        "english": "wear",
+        "code": "ITA"
+    },
+    {
+        "position": 638,
+        "foreign": "giardino",
+        "english": "garden",
+        "code": "ITA"
+    },
+    { "position": 639, "foreign": "pari", "english": "equal", "code": "ITA" },
+    { "position": 640, "foreign": "inviato", "english": "sent", "code": "ITA" },
+    {
+        "position": 641,
+        "foreign": "scegliere",
+        "english": "choose",
+        "code": "ITA"
+    },
+    { "position": 642, "foreign": "caduto", "english": "fell", "code": "ITA" },
+    {
+        "position": 643,
+        "foreign": "adattarsi",
+        "english": "fit",
+        "code": "ITA"
+    },
+    { "position": 644, "foreign": "flusso", "english": "flow", "code": "ITA" },
+    { "position": 645, "foreign": "fiera", "english": "fair", "code": "ITA" },
+    { "position": 646, "foreign": "banca", "english": "bank", "code": "ITA" },
+    {
+        "position": 647,
+        "foreign": "raccogliere",
+        "english": "collect",
+        "code": "ITA"
+    },
+    { "position": 648, "foreign": "salvare", "english": "save", "code": "ITA" },
+    {
+        "position": 649,
+        "foreign": "controllo",
+        "english": "control",
+        "code": "ITA"
+    },
+    {
+        "position": 650,
+        "foreign": "decimale",
+        "english": "decimal",
+        "code": "ITA"
+    },
+    { "position": 651, "foreign": "orecchio", "english": "ear", "code": "ITA" },
+    { "position": 652, "foreign": "altro", "english": "else", "code": "ITA" },
+    {
+        "position": 653,
+        "foreign": "abbastanza",
+        "english": "quite",
+        "code": "ITA"
+    },
+    { "position": 654, "foreign": "rotto", "english": "broke", "code": "ITA" },
+    { "position": 655, "foreign": "caso", "english": "case", "code": "ITA" },
+    { "position": 656, "foreign": "mezzo", "english": "middle", "code": "ITA" },
+    {
+        "position": 657,
+        "foreign": "uccidere",
+        "english": "kill",
+        "code": "ITA"
+    },
+    { "position": 658, "foreign": "figlio", "english": "son", "code": "ITA" },
+    { "position": 659, "foreign": "lago", "english": "lake", "code": "ITA" },
+    {
+        "position": 660,
+        "foreign": "momento",
+        "english": "moment",
+        "code": "ITA"
+    },
+    { "position": 661, "foreign": "scala", "english": "scale", "code": "ITA" },
+    { "position": 662, "foreign": "forte", "english": "loud", "code": "ITA" },
+    {
+        "position": 663,
+        "foreign": "primavera",
+        "english": "spring",
+        "code": "ITA"
+    },
+    {
+        "position": 664,
+        "foreign": "osservare",
+        "english": "observe",
+        "code": "ITA"
+    },
+    {
+        "position": 665,
+        "foreign": "bambino",
+        "english": "child",
+        "code": "ITA"
+    },
+    {
+        "position": 666,
+        "foreign": "dritto",
+        "english": "straight",
+        "code": "ITA"
+    },
+    {
+        "position": 667,
+        "foreign": "consonante",
+        "english": "consonant",
+        "code": "ITA"
+    },
+    {
+        "position": 668,
+        "foreign": "nazione",
+        "english": "nation",
+        "code": "ITA"
+    },
+    {
+        "position": 669,
+        "foreign": "dizionario",
+        "english": "dictionary",
+        "code": "ITA"
+    },
+    { "position": 670, "foreign": "latte", "english": "milk", "code": "ITA" },
+    {
+        "position": 671,
+        "foreign": "velocità",
+        "english": "speed",
+        "code": "ITA"
+    },
+    {
+        "position": 672,
+        "foreign": "metodo",
+        "english": "method",
+        "code": "ITA"
+    },
+    { "position": 673, "foreign": "organo", "english": "organ", "code": "ITA" },
+    { "position": 674, "foreign": "pagare", "english": "pay", "code": "ITA" },
+    { "position": 675, "foreign": "età", "english": "age", "code": "ITA" },
+    {
+        "position": 676,
+        "foreign": "sezione",
+        "english": "section",
+        "code": "ITA"
+    },
+    {
+        "position": 677,
+        "foreign": "vestito",
+        "english": "dress",
+        "code": "ITA"
+    },
+    { "position": 678, "foreign": "nube", "english": "cloud", "code": "ITA" },
+    {
+        "position": 679,
+        "foreign": "sorpresa",
+        "english": "surprise",
+        "code": "ITA"
+    },
+    {
+        "position": 680,
+        "foreign": "tranquillo",
+        "english": "quiet",
+        "code": "ITA"
+    },
+    { "position": 681, "foreign": "pietra", "english": "stone", "code": "ITA" },
+    { "position": 682, "foreign": "piccolo", "english": "tiny", "code": "ITA" },
+    { "position": 683, "foreign": "salita", "english": "climb", "code": "ITA" },
+    { "position": 684, "foreign": "fresco", "english": "cool", "code": "ITA" },
+    {
+        "position": 685,
+        "foreign": "design",
+        "english": "design",
+        "code": "ITA"
+    },
+    { "position": 686, "foreign": "povero", "english": "poor", "code": "ITA" },
+    { "position": 687, "foreign": "lotto", "english": "lot", "code": "ITA" },
+    {
+        "position": 688,
+        "foreign": "esperimento",
+        "english": "experiment",
+        "code": "ITA"
+    },
+    { "position": 689, "foreign": "fondo", "english": "bottom", "code": "ITA" },
+    { "position": 690, "foreign": "chiave", "english": "key", "code": "ITA" },
+    { "position": 691, "foreign": "ferro", "english": "iron", "code": "ITA" },
+    {
+        "position": 692,
+        "foreign": "singolo",
+        "english": "single",
+        "code": "ITA"
+    },
+    {
+        "position": 693,
+        "foreign": "bastone",
+        "english": "stick",
+        "code": "ITA"
+    },
+    {
+        "position": 694,
+        "foreign": "appartamento",
+        "english": "flat",
+        "code": "ITA"
+    },
+    { "position": 695, "foreign": "venti", "english": "twenty", "code": "ITA" },
+    { "position": 696, "foreign": "pelle", "english": "skin", "code": "ITA" },
+    {
+        "position": 697,
+        "foreign": "sorriso",
+        "english": "smile",
+        "code": "ITA"
+    },
+    { "position": 698, "foreign": "piega", "english": "crease", "code": "ITA" },
+    { "position": 699, "foreign": "foro", "english": "hole", "code": "ITA" },
+    { "position": 700, "foreign": "salto", "english": "jump", "code": "ITA" },
+    { "position": 701, "foreign": "bambino", "english": "baby", "code": "ITA" },
+    { "position": 702, "foreign": "otto", "english": "eight", "code": "ITA" },
+    {
+        "position": 703,
+        "foreign": "villaggio",
+        "english": "village",
+        "code": "ITA"
+    },
+    {
+        "position": 704,
+        "foreign": "si incontrano",
+        "english": "meet",
+        "code": "ITA"
+    },
+    { "position": 705, "foreign": "radice", "english": "root", "code": "ITA" },
+    {
+        "position": 706,
+        "foreign": "acquistare",
+        "english": "buy",
+        "code": "ITA"
+    },
+    {
+        "position": 707,
+        "foreign": "aumentare",
+        "english": "raise",
+        "code": "ITA"
+    },
+    {
+        "position": 708,
+        "foreign": "risolvere",
+        "english": "solve",
+        "code": "ITA"
+    },
+    {
+        "position": 709,
+        "foreign": "metallo",
+        "english": "metal",
+        "code": "ITA"
+    },
+    { "position": 710, "foreign": "se", "english": "whether", "code": "ITA" },
+    {
+        "position": 711,
+        "foreign": "spingere",
+        "english": "push",
+        "code": "ITA"
+    },
+    { "position": 712, "foreign": "sette", "english": "seven", "code": "ITA" },
+    {
+        "position": 713,
+        "foreign": "paragrafo",
+        "english": "paragraph",
+        "code": "ITA"
+    },
+    { "position": 714, "foreign": "terzo", "english": "third", "code": "ITA" },
+    { "position": 715, "foreign": "deve", "english": "shall", "code": "ITA" },
+    { "position": 716, "foreign": "tenuto", "english": "held", "code": "ITA" },
+    { "position": 717, "foreign": "capelli", "english": "hair", "code": "ITA" },
+    {
+        "position": 718,
+        "foreign": "descrivere",
+        "english": "describe",
+        "code": "ITA"
+    },
+    { "position": 719, "foreign": "cuoco", "english": "cook", "code": "ITA" },
+    { "position": 720, "foreign": "piano", "english": "floor", "code": "ITA" },
+    { "position": 721, "foreign": "o", "english": "either", "code": "ITA" },
+    {
+        "position": 722,
+        "foreign": "risultato",
+        "english": "result",
+        "code": "ITA"
+    },
+    {
+        "position": 723,
+        "foreign": "bruciare",
+        "english": "burn",
+        "code": "ITA"
+    },
+    { "position": 724, "foreign": "collina", "english": "hill", "code": "ITA" },
+    { "position": 725, "foreign": "sicuro", "english": "safe", "code": "ITA" },
+    { "position": 726, "foreign": "gatto", "english": "cat", "code": "ITA" },
+    {
+        "position": 727,
+        "foreign": "secolo",
+        "english": "century",
+        "code": "ITA"
+    },
+    {
+        "position": 728,
+        "foreign": "considerare",
+        "english": "consider",
+        "code": "ITA"
+    },
+    { "position": 729, "foreign": "tipo", "english": "type", "code": "ITA" },
+    { "position": 730, "foreign": "legge", "english": "law", "code": "ITA" },
+    { "position": 731, "foreign": "bit", "english": "bit", "code": "ITA" },
+    { "position": 732, "foreign": "costa", "english": "coast", "code": "ITA" },
+    { "position": 733, "foreign": "copia", "english": "copy", "code": "ITA" },
+    { "position": 734, "foreign": "frase", "english": "phrase", "code": "ITA" },
+    {
+        "position": 735,
+        "foreign": "silenzioso",
+        "english": "silent",
+        "code": "ITA"
+    },
+    { "position": 736, "foreign": "alto", "english": "tall", "code": "ITA" },
+    { "position": 737, "foreign": "sabbia", "english": "sand", "code": "ITA" },
+    { "position": 738, "foreign": "suolo", "english": "soil", "code": "ITA" },
+    { "position": 739, "foreign": "rotolo", "english": "roll", "code": "ITA" },
+    {
+        "position": 740,
+        "foreign": "temperatura",
+        "english": "temperature",
+        "code": "ITA"
+    },
+    { "position": 741, "foreign": "dito", "english": "finger", "code": "ITA" },
+    {
+        "position": 742,
+        "foreign": "industria",
+        "english": "industry",
+        "code": "ITA"
+    },
+    { "position": 743, "foreign": "valore", "english": "value", "code": "ITA" },
+    { "position": 744, "foreign": "lotta", "english": "fight", "code": "ITA" },
+    { "position": 745, "foreign": "bugia", "english": "lie", "code": "ITA" },
+    { "position": 746, "foreign": "battere", "english": "beat", "code": "ITA" },
+    {
+        "position": 747,
+        "foreign": "eccitare",
+        "english": "excite",
+        "code": "ITA"
+    },
+    {
+        "position": 748,
+        "foreign": "naturale",
+        "english": "natural",
+        "code": "ITA"
+    },
+    { "position": 749, "foreign": "vista", "english": "view", "code": "ITA" },
+    { "position": 750, "foreign": "senso", "english": "sense", "code": "ITA" },
+    {
+        "position": 751,
+        "foreign": "capitale",
+        "english": "capital",
+        "code": "ITA"
+    },
+    {
+        "position": 752,
+        "foreign": "non sarà",
+        "english": "won’t",
+        "code": "ITA"
+    },
+    { "position": 753, "foreign": "sedia", "english": "chair", "code": "ITA" },
+    {
+        "position": 754,
+        "foreign": "pericolo",
+        "english": "danger",
+        "code": "ITA"
+    },
+    { "position": 755, "foreign": "frutta", "english": "fruit", "code": "ITA" },
+    { "position": 756, "foreign": "ricco", "english": "rich", "code": "ITA" },
+    { "position": 757, "foreign": "spesso", "english": "thick", "code": "ITA" },
+    {
+        "position": 758,
+        "foreign": "soldato",
+        "english": "soldier",
+        "code": "ITA"
+    },
+    {
+        "position": 759,
+        "foreign": "processo",
+        "english": "process",
+        "code": "ITA"
+    },
+    {
+        "position": 760,
+        "foreign": "operare",
+        "english": "operate",
+        "code": "ITA"
+    },
+    {
+        "position": 761,
+        "foreign": "pratica",
+        "english": "practice",
+        "code": "ITA"
+    },
+    {
+        "position": 762,
+        "foreign": "separato",
+        "english": "separate",
+        "code": "ITA"
+    },
+    {
+        "position": 763,
+        "foreign": "difficile",
+        "english": "difficult",
+        "code": "ITA"
+    },
+    {
+        "position": 764,
+        "foreign": "medico",
+        "english": "doctor",
+        "code": "ITA"
+    },
+    {
+        "position": 765,
+        "foreign": "per favore",
+        "english": "please",
+        "code": "ITA"
+    },
+    {
+        "position": 766,
+        "foreign": "proteggere",
+        "english": "protect",
+        "code": "ITA"
+    },
+    {
+        "position": 767,
+        "foreign": "mezzogiorno",
+        "english": "noon",
+        "code": "ITA"
+    },
+    {
+        "position": 768,
+        "foreign": "raccolto",
+        "english": "crop",
+        "code": "ITA"
+    },
+    {
+        "position": 769,
+        "foreign": "moderno",
+        "english": "modern",
+        "code": "ITA"
+    },
+    {
+        "position": 770,
+        "foreign": "elemento",
+        "english": "element",
+        "code": "ITA"
+    },
+    { "position": 771, "foreign": "colpire", "english": "hit", "code": "ITA" },
+    {
+        "position": 772,
+        "foreign": "studente",
+        "english": "student",
+        "code": "ITA"
+    },
+    {
+        "position": 773,
+        "foreign": "angolo",
+        "english": "corner",
+        "code": "ITA"
+    },
+    {
+        "position": 774,
+        "foreign": "partito",
+        "english": "party",
+        "code": "ITA"
+    },
+    {
+        "position": 775,
+        "foreign": "fornitura",
+        "english": "supply",
+        "code": "ITA"
+    },
+    { "position": 776, "foreign": "la cui", "english": "whose", "code": "ITA" },
+    {
+        "position": 777,
+        "foreign": "individuare",
+        "english": "locate",
+        "code": "ITA"
+    },
+    { "position": 778, "foreign": "anello", "english": "ring", "code": "ITA" },
+    {
+        "position": 779,
+        "foreign": "carattere",
+        "english": "character",
+        "code": "ITA"
+    },
+    {
+        "position": 780,
+        "foreign": "insetto",
+        "english": "insect",
+        "code": "ITA"
+    },
+    {
+        "position": 781,
+        "foreign": "catturato",
+        "english": "caught",
+        "code": "ITA"
+    },
+    {
+        "position": 782,
+        "foreign": "periodo",
+        "english": "period",
+        "code": "ITA"
+    },
+    {
+        "position": 783,
+        "foreign": "indicare",
+        "english": "indicate",
+        "code": "ITA"
+    },
+    { "position": 784, "foreign": "radio", "english": "radio", "code": "ITA" },
+    { "position": 785, "foreign": "raggio", "english": "spoke", "code": "ITA" },
+    { "position": 786, "foreign": "atomo", "english": "atom", "code": "ITA" },
+    { "position": 787, "foreign": "umano", "english": "human", "code": "ITA" },
+    {
+        "position": 788,
+        "foreign": "storia",
+        "english": "history",
+        "code": "ITA"
+    },
+    {
+        "position": 789,
+        "foreign": "effetto",
+        "english": "effect",
+        "code": "ITA"
+    },
+    {
+        "position": 790,
+        "foreign": "elettrico",
+        "english": "electric",
+        "code": "ITA"
+    },
+    {
+        "position": 791,
+        "foreign": "aspettare",
+        "english": "expect",
+        "code": "ITA"
+    },
+    { "position": 792, "foreign": "osso", "english": "bone", "code": "ITA" },
+    {
+        "position": 793,
+        "foreign": "ferrovia",
+        "english": "rail",
+        "code": "ITA"
+    },
+    {
+        "position": 794,
+        "foreign": "immaginare",
+        "english": "imagine",
+        "code": "ITA"
+    },
+    {
+        "position": 795,
+        "foreign": "fornire",
+        "english": "provide",
+        "code": "ITA"
+    },
+    {
+        "position": 796,
+        "foreign": "concordare",
+        "english": "agree",
+        "code": "ITA"
+    },
+    { "position": 797, "foreign": "così", "english": "thus", "code": "ITA" },
+    { "position": 798, "foreign": "dolce", "english": "gentle", "code": "ITA" },
+    { "position": 799, "foreign": "donna", "english": "woman", "code": "ITA" },
+    {
+        "position": 800,
+        "foreign": "capitano",
+        "english": "captain",
+        "code": "ITA"
+    },
+    {
+        "position": 801,
+        "foreign": "indovinare",
+        "english": "guess",
+        "code": "ITA"
+    },
+    {
+        "position": 802,
+        "foreign": "necessario",
+        "english": "necessary",
+        "code": "ITA"
+    },
+    {
+        "position": 803,
+        "foreign": "tagliente",
+        "english": "sharp",
+        "code": "ITA"
+    },
+    { "position": 804, "foreign": "ala", "english": "wing", "code": "ITA" },
+    {
+        "position": 805,
+        "foreign": "creare",
+        "english": "create",
+        "code": "ITA"
+    },
+    {
+        "position": 806,
+        "foreign": "prossimo",
+        "english": "neighbor",
+        "code": "ITA"
+    },
+    {
+        "position": 807,
+        "foreign": "lavaggio",
+        "english": "wash",
+        "code": "ITA"
+    },
+    {
+        "position": 808,
+        "foreign": "pipistrello",
+        "english": "bat",
+        "code": "ITA"
+    },
+    {
+        "position": 809,
+        "foreign": "piuttosto",
+        "english": "rather",
+        "code": "ITA"
+    },
+    { "position": 810, "foreign": "folla", "english": "crowd", "code": "ITA" },
+    { "position": 811, "foreign": "mais", "english": "corn", "code": "ITA" },
+    {
+        "position": 812,
+        "foreign": "confrontare",
+        "english": "compare",
+        "code": "ITA"
+    },
+    { "position": 813, "foreign": "poesia", "english": "poem", "code": "ITA" },
+    {
+        "position": 814,
+        "foreign": "stringa",
+        "english": "string",
+        "code": "ITA"
+    },
+    { "position": 815, "foreign": "campana", "english": "bell", "code": "ITA" },
+    {
+        "position": 816,
+        "foreign": "dipendere",
+        "english": "depend",
+        "code": "ITA"
+    },
+    { "position": 817, "foreign": "carne", "english": "meat", "code": "ITA" },
+    {
+        "position": 818,
+        "foreign": "strofinare",
+        "english": "rub",
+        "code": "ITA"
+    },
+    { "position": 819, "foreign": "tubo", "english": "tube", "code": "ITA" },
+    {
+        "position": 820,
+        "foreign": "famoso",
+        "english": "famous",
+        "code": "ITA"
+    },
+    {
+        "position": 921,
+        "foreign": "dollaro",
+        "english": "dollar",
+        "code": "ITA"
+    },
+    {
+        "position": 822,
+        "foreign": "ruscello",
+        "english": "stream",
+        "code": "ITA"
+    },
+    { "position": 823, "foreign": "paura", "english": "fear", "code": "ITA" },
+    { "position": 284, "foreign": "vista", "english": "sight", "code": "ITA" },
+    { "position": 825, "foreign": "sottile", "english": "thin", "code": "ITA" },
+    {
+        "position": 826,
+        "foreign": "triangolo",
+        "english": "triangle",
+        "code": "ITA"
+    },
+    {
+        "position": 827,
+        "foreign": "pianeta",
+        "english": "planet",
+        "code": "ITA"
+    },
+    { "position": 828, "foreign": "fretta", "english": "hurry", "code": "ITA" },
+    { "position": 829, "foreign": "capo", "english": "chief", "code": "ITA" },
+    {
+        "position": 830,
+        "foreign": "colonia",
+        "english": "colony",
+        "code": "ITA"
+    },
+    {
+        "position": 831,
+        "foreign": "orologio",
+        "english": "clock",
+        "code": "ITA"
+    },
+    { "position": 832, "foreign": "miniera", "english": "mine", "code": "ITA" },
+    { "position": 833, "foreign": "cravatta", "english": "tie", "code": "ITA" },
+    {
+        "position": 834,
+        "foreign": "inserire",
+        "english": "enter",
+        "code": "ITA"
+    },
+    {
+        "position": 835,
+        "foreign": "maggiore",
+        "english": "major",
+        "code": "ITA"
+    },
+    { "position": 836, "foreign": "fresco", "english": "fresh", "code": "ITA" },
+    {
+        "position": 837,
+        "foreign": "ricerca",
+        "english": "search",
+        "code": "ITA"
+    },
+    { "position": 838, "foreign": "inviare", "english": "send", "code": "ITA" },
+    {
+        "position": 839,
+        "foreign": "giallo",
+        "english": "yellow",
+        "code": "ITA"
+    },
+    { "position": 840, "foreign": "pistola", "english": "gun", "code": "ITA" },
+    {
+        "position": 841,
+        "foreign": "consentire",
+        "english": "allow",
+        "code": "ITA"
+    },
+    { "position": 842, "foreign": "stampa", "english": "print", "code": "ITA" },
+    { "position": 843, "foreign": "morto", "english": "dead", "code": "ITA" },
+    { "position": 844, "foreign": "spot", "english": "spot", "code": "ITA" },
+    {
+        "position": 845,
+        "foreign": "deserto",
+        "english": "desert",
+        "code": "ITA"
+    },
+    { "position": 846, "foreign": "tuta", "english": "suit", "code": "ITA" },
+    {
+        "position": 847,
+        "foreign": "corrente",
+        "english": "current",
+        "code": "ITA"
+    },
+    {
+        "position": 848,
+        "foreign": "ascensore",
+        "english": "lift",
+        "code": "ITA"
+    },
+    { "position": 840, "foreign": "rosa", "english": "rose", "code": "ITA" },
+    {
+        "position": 850,
+        "foreign": "arrivare",
+        "english": "arrive",
+        "code": "ITA"
+    },
+    {
+        "position": 851,
+        "foreign": "master",
+        "english": "master",
+        "code": "ITA"
+    },
+    { "position": 852, "foreign": "pista", "english": "track", "code": "ITA" },
+    {
+        "position": 853,
+        "foreign": "genitore",
+        "english": "parent",
+        "code": "ITA"
+    },
+    { "position": 854, "foreign": "riva", "english": "shore", "code": "ITA" },
+    {
+        "position": 855,
+        "foreign": "divisione",
+        "english": "division",
+        "code": "ITA"
+    },
+    { "position": 856, "foreign": "foglio", "english": "sheet", "code": "ITA" },
+    {
+        "position": 857,
+        "foreign": "sostanza",
+        "english": "substance",
+        "code": "ITA"
+    },
+    {
+        "position": 858,
+        "foreign": "favorire",
+        "english": "favor",
+        "code": "ITA"
+    },
+    {
+        "position": 859,
+        "foreign": "collegare",
+        "english": "connect",
+        "code": "ITA"
+    },
+    {
+        "position": 860,
+        "foreign": "Messaggio",
+        "english": "post",
+        "code": "ITA"
+    },
+    {
+        "position": 861,
+        "foreign": "spendere",
+        "english": "spend",
+        "code": "ITA"
+    },
+    {
+        "position": 862,
+        "foreign": "accordo",
+        "english": "chord",
+        "code": "ITA"
+    },
+    { "position": 863, "foreign": "grasso", "english": "fat", "code": "ITA" },
+    { "position": 864, "foreign": "felice", "english": "glad", "code": "ITA" },
+    {
+        "position": 865,
+        "foreign": "originale",
+        "english": "original",
+        "code": "ITA"
+    },
+    { "position": 866, "foreign": "quota", "english": "share", "code": "ITA" },
+    {
+        "position": 867,
+        "foreign": "stazione",
+        "english": "station",
+        "code": "ITA"
+    },
+    { "position": 868, "foreign": "papà", "english": "dad", "code": "ITA" },
+    { "position": 869, "foreign": "pane", "english": "bread", "code": "ITA" },
+    {
+        "position": 870,
+        "foreign": "carica",
+        "english": "charge",
+        "code": "ITA"
+    },
+    {
+        "position": 871,
+        "foreign": "corretto",
+        "english": "proper",
+        "code": "ITA"
+    },
+    { "position": 872, "foreign": "bar", "english": "bar", "code": "ITA" },
+    {
+        "position": 873,
+        "foreign": "offerta",
+        "english": "offer",
+        "code": "ITA"
+    },
+    {
+        "position": 874,
+        "foreign": "segmento",
+        "english": "segment",
+        "code": "ITA"
+    },
+    {
+        "position": 875,
+        "foreign": "schiavo",
+        "english": "slave",
+        "code": "ITA"
+    },
+    { "position": 876, "foreign": "anatra", "english": "duck", "code": "ITA" },
+    {
+        "position": 877,
+        "foreign": "immediato",
+        "english": "instant",
+        "code": "ITA"
+    },
+    {
+        "position": 878,
+        "foreign": "mercato",
+        "english": "market",
+        "code": "ITA"
+    },
+    { "position": 879, "foreign": "grado", "english": "degree", "code": "ITA" },
+    {
+        "position": 880,
+        "foreign": "popolare",
+        "english": "populate",
+        "code": "ITA"
+    },
+    {
+        "position": 881,
+        "foreign": "pulcino",
+        "english": "chick",
+        "code": "ITA"
+    },
+    { "position": 882, "foreign": "caro", "english": "dear", "code": "ITA" },
+    { "position": 883, "foreign": "nemico", "english": "enemy", "code": "ITA" },
+    {
+        "position": 884,
+        "foreign": "rispondere",
+        "english": "reply",
+        "code": "ITA"
+    },
+    {
+        "position": 885,
+        "foreign": "bevanda",
+        "english": "drink",
+        "code": "ITA"
+    },
+    {
+        "position": 886,
+        "foreign": "verificarsi",
+        "english": "occur",
+        "code": "ITA"
+    },
+    {
+        "position": 887,
+        "foreign": "supporto",
+        "english": "support",
+        "code": "ITA"
+    },
+    {
+        "position": 888,
+        "foreign": "discorso",
+        "english": "speech",
+        "code": "ITA"
+    },
+    {
+        "position": 889,
+        "foreign": "natura",
+        "english": "nature",
+        "code": "ITA"
+    },
+    { "position": 890, "foreign": "gamma", "english": "range", "code": "ITA" },
+    { "position": 891, "foreign": "vapore", "english": "steam", "code": "ITA" },
+    { "position": 892, "foreign": "moto", "english": "motion", "code": "ITA" },
+    {
+        "position": 893,
+        "foreign": "sentiero",
+        "english": "path",
+        "code": "ITA"
+    },
+    {
+        "position": 894,
+        "foreign": "liquido",
+        "english": "liquid",
+        "code": "ITA"
+    },
+    { "position": 895, "foreign": "log", "english": "log", "code": "ITA" },
+    {
+        "position": 896,
+        "foreign": "significava",
+        "english": "meant",
+        "code": "ITA"
+    },
+    {
+        "position": 897,
+        "foreign": "quoziente",
+        "english": "quotient",
+        "code": "ITA"
+    },
+    { "position": 898, "foreign": "denti", "english": "teeth", "code": "ITA" },
+    { "position": 899, "foreign": "guscio", "english": "shell", "code": "ITA" },
+    { "position": 900, "foreign": "collo", "english": "neck", "code": "ITA" },
+    {
+        "position": 901,
+        "foreign": "ossigeno",
+        "english": "oxygen",
+        "code": "ITA"
+    },
+    {
+        "position": 902,
+        "foreign": "zucchero",
+        "english": "sugar",
+        "code": "ITA"
+    },
+    { "position": 903, "foreign": "morte", "english": "death", "code": "ITA" },
+    {
+        "position": 904,
+        "foreign": "piuttosto",
+        "english": "pretty",
+        "code": "ITA"
+    },
+    {
+        "position": 905,
+        "foreign": "abilità",
+        "english": "skill",
+        "code": "ITA"
+    },
+    { "position": 906, "foreign": "donne", "english": "women", "code": "ITA" },
+    {
+        "position": 907,
+        "foreign": "stagione",
+        "english": "season",
+        "code": "ITA"
+    },
+    {
+        "position": 908,
+        "foreign": "soluzione",
+        "english": "solution",
+        "code": "ITA"
+    },
+    {
+        "position": 909,
+        "foreign": "magnete",
+        "english": "magnet",
+        "code": "ITA"
+    },
+    {
+        "position": 910,
+        "foreign": "argento",
+        "english": "silver",
+        "code": "ITA"
+    },
+    { "position": 911, "foreign": "grazie", "english": "thank", "code": "ITA" },
+    { "position": 912, "foreign": "ramo", "english": "branch", "code": "ITA" },
+    {
+        "position": 913,
+        "foreign": "partita",
+        "english": "match",
+        "code": "ITA"
+    },
+    {
+        "position": 914,
+        "foreign": "suffisso",
+        "english": "suffix",
+        "code": "ITA"
+    },
+    {
+        "position": 915,
+        "foreign": "particolarmente",
+        "english": "especially",
+        "code": "ITA"
+    },
+    { "position": 916, "foreign": "fico", "english": "fig", "code": "ITA" },
+    {
+        "position": 917,
+        "foreign": "impaurito",
+        "english": "afraid",
+        "code": "ITA"
+    },
+    { "position": 918, "foreign": "enorme", "english": "huge", "code": "ITA" },
+    {
+        "position": 919,
+        "foreign": "sorella",
+        "english": "sister",
+        "code": "ITA"
+    },
+    {
+        "position": 920,
+        "foreign": "acciaio",
+        "english": "steel",
+        "code": "ITA"
+    },
+    {
+        "position": 921,
+        "foreign": "discutere",
+        "english": "discuss",
+        "code": "ITA"
+    },
+    {
+        "position": 922,
+        "foreign": "avanti",
+        "english": "forward",
+        "code": "ITA"
+    },
+    {
+        "position": 923,
+        "foreign": "simile",
+        "english": "similar",
+        "code": "ITA"
+    },
+    {
+        "position": 924,
+        "foreign": "guidare",
+        "english": "guide",
+        "code": "ITA"
+    },
+    {
+        "position": 925,
+        "foreign": "esperienza",
+        "english": "experience",
+        "code": "ITA"
+    },
+    {
+        "position": 926,
+        "foreign": "punteggio",
+        "english": "score",
+        "code": "ITA"
+    },
+    { "position": 927, "foreign": "mela", "english": "apple", "code": "ITA" },
+    {
+        "position": 928,
+        "foreign": "comprato",
+        "english": "bought",
+        "code": "ITA"
+    },
+    { "position": 929, "foreign": "portato", "english": "led", "code": "ITA" },
+    { "position": 930, "foreign": "pece", "english": "pitch", "code": "ITA" },
+    {
+        "position": 931,
+        "foreign": "cappotto",
+        "english": "coat",
+        "code": "ITA"
+    },
+    { "position": 932, "foreign": "massa", "english": "mass", "code": "ITA" },
+    { "position": 933, "foreign": "scheda", "english": "card", "code": "ITA" },
+    { "position": 934, "foreign": "banda", "english": "band", "code": "ITA" },
+    { "position": 935, "foreign": "corda", "english": "rope", "code": "ITA" },
+    {
+        "position": 936,
+        "foreign": "slittamento",
+        "english": "slip",
+        "code": "ITA"
+    },
+    { "position": 937, "foreign": "vittoria", "english": "win", "code": "ITA" },
+    {
+        "position": 938,
+        "foreign": "sognare",
+        "english": "dream",
+        "code": "ITA"
+    },
+    { "position": 939, "foreign": "sera", "english": "evening", "code": "ITA" },
+    {
+        "position": 940,
+        "foreign": "condizione",
+        "english": "condition",
+        "code": "ITA"
+    },
+    {
+        "position": 941,
+        "foreign": "alimentazione",
+        "english": "feed",
+        "code": "ITA"
+    },
+    {
+        "position": 942,
+        "foreign": "strumento",
+        "english": "tool",
+        "code": "ITA"
+    },
+    { "position": 943, "foreign": "totale", "english": "total", "code": "ITA" },
+    {
+        "position": 944,
+        "foreign": "di base",
+        "english": "basic",
+        "code": "ITA"
+    },
+    { "position": 945, "foreign": "odore", "english": "smell", "code": "ITA" },
+    { "position": 946, "foreign": "valle", "english": "valley", "code": "ITA" },
+    { "position": 947, "foreign": "né", "english": "nor", "code": "ITA" },
+    {
+        "position": 948,
+        "foreign": "doppio",
+        "english": "double",
+        "code": "ITA"
+    },
+    { "position": 949, "foreign": "sedile", "english": "seat", "code": "ITA" },
+    {
+        "position": 950,
+        "foreign": "continuare",
+        "english": "continue",
+        "code": "ITA"
+    },
+    { "position": 951, "foreign": "blocco", "english": "block", "code": "ITA" },
+    {
+        "position": 952,
+        "foreign": "grafico",
+        "english": "chart",
+        "code": "ITA"
+    },
+    { "position": 953, "foreign": "cappello", "english": "hat", "code": "ITA" },
+    { "position": 954, "foreign": "vendere", "english": "sell", "code": "ITA" },
+    {
+        "position": 955,
+        "foreign": "successo",
+        "english": "success",
+        "code": "ITA"
+    },
+    {
+        "position": 956,
+        "foreign": "azienda",
+        "english": "company",
+        "code": "ITA"
+    },
+    {
+        "position": 957,
+        "foreign": "sottrarre",
+        "english": "subtract",
+        "code": "ITA"
+    },
+    { "position": 958, "foreign": "evento", "english": "event", "code": "ITA" },
+    {
+        "position": 959,
+        "foreign": "particolare",
+        "english": "particular",
+        "code": "ITA"
+    },
+    { "position": 960, "foreign": "affare", "english": "deal", "code": "ITA" },
+    { "position": 961, "foreign": "nuoto", "english": "swim", "code": "ITA" },
+    { "position": 962, "foreign": "termine", "english": "term", "code": "ITA" },
+    {
+        "position": 963,
+        "foreign": "opposto",
+        "english": "opposite",
+        "code": "ITA"
+    },
+    { "position": 964, "foreign": "moglie", "english": "wife", "code": "ITA" },
+    { "position": 965, "foreign": "scarpa", "english": "shoe", "code": "ITA" },
+    {
+        "position": 966,
+        "foreign": "spalla",
+        "english": "shoulder",
+        "code": "ITA"
+    },
+    {
+        "position": 967,
+        "foreign": "spread",
+        "english": "spread",
+        "code": "ITA"
+    },
+    {
+        "position": 968,
+        "foreign": "organizzare",
+        "english": "arrange",
+        "code": "ITA"
+    },
+    { "position": 969, "foreign": "campo", "english": "camp", "code": "ITA" },
+    {
+        "position": 970,
+        "foreign": "inventare",
+        "english": "invent",
+        "code": "ITA"
+    },
+    {
+        "position": 971,
+        "foreign": "cotone",
+        "english": "cotton",
+        "code": "ITA"
+    },
+    { "position": 972, "foreign": "nascita", "english": "born", "code": "ITA" },
+    {
+        "position": 973,
+        "foreign": "determinare",
+        "english": "determine",
+        "code": "ITA"
+    },
+    {
+        "position": 974,
+        "foreign": "quarto di gallone",
+        "english": "quart",
+        "code": "ITA"
+    },
+    { "position": 975, "foreign": "nove", "english": "nine", "code": "ITA" },
+    { "position": 976, "foreign": "camion", "english": "truck", "code": "ITA" },
+    { "position": 977, "foreign": "rumore", "english": "noise", "code": "ITA" },
+    {
+        "position": 978,
+        "foreign": "livello",
+        "english": "level",
+        "code": "ITA"
+    },
+    {
+        "position": 979,
+        "foreign": "possibilità",
+        "english": "chance",
+        "code": "ITA"
+    },
+    {
+        "position": 980,
+        "foreign": "raccogliere",
+        "english": "gather",
+        "code": "ITA"
+    },
+    { "position": 981, "foreign": "negozio", "english": "shop", "code": "ITA" },
+    {
+        "position": 982,
+        "foreign": "tratto",
+        "english": "stretch",
+        "code": "ITA"
+    },
+    {
+        "position": 983,
+        "foreign": "gettare",
+        "english": "throw",
+        "code": "ITA"
+    },
+    { "position": 984, "foreign": "shine", "english": "shine", "code": "ITA" },
+    {
+        "position": 985,
+        "foreign": "proprietà",
+        "english": "property",
+        "code": "ITA"
+    },
+    {
+        "position": 986,
+        "foreign": "colonna",
+        "english": "column",
+        "code": "ITA"
+    },
+    {
+        "position": 987,
+        "foreign": "molecola",
+        "english": "molecule",
+        "code": "ITA"
+    },
+    {
+        "position": 988,
+        "foreign": "selezionare",
+        "english": "select",
+        "code": "ITA"
+    },
+    {
+        "position": 989,
+        "foreign": "sbagliato",
+        "english": "wrong",
+        "code": "ITA"
+    },
+    { "position": 990, "foreign": "grigio", "english": "gray", "code": "ITA" },
+    {
+        "position": 991,
+        "foreign": "ripetizione",
+        "english": "repeat",
+        "code": "ITA"
+    },
+    {
+        "position": 992,
+        "foreign": "richiedere",
+        "english": "require",
+        "code": "ITA"
+    },
+    { "position": 993, "foreign": "ampio", "english": "broad", "code": "ITA" },
+    {
+        "position": 994,
+        "foreign": "preparare",
+        "english": "prepare",
+        "code": "ITA"
+    },
+    { "position": 995, "foreign": "sale", "english": "salt", "code": "ITA" },
+    { "position": 996, "foreign": "naso", "english": "nose", "code": "ITA" },
+    {
+        "position": 997,
+        "foreign": "plurale",
+        "english": "plural",
+        "code": "ITA"
+    },
+    { "position": 998, "foreign": "rabbia", "english": "anger", "code": "ITA" },
+    {
+        "position": 999,
+        "foreign": "richiesta",
+        "english": "claim",
+        "code": "ITA"
+    },
+    {
+        "position": 1000,
+        "foreign": "continente",
+        "english": "continent",
+        "code": "ITA"
+    }
+]
